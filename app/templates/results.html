@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rezultate Căutare</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <h1>Rezultate pentru {{ request.args.get('product') }}</h1>
+    <!-- Aici vor apărea rezultatele căutării -->
+    <a href="/">Înapoi la căutare</a>
+</body>
+</html>
