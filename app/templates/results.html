@@ -8,7 +8,11 @@
 </head>
 <body>
     <h1>Rezultate pentru {{ request.args.get('product') }}</h1>
-    <!-- Aici vor apărea rezultatele căutării -->
+    <ul>
+        {% for product in products %}
+            <li>{{ product.name }} - {{ product.price }} lei - Rating: {{ product.rating }}</li>
+        {% endfor %}
+    </ul>
     <a href="/">Înapoi la căutare</a>
 </body>
 </html>
