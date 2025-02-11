@@ -1,32 +1,33 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ro">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Price Comparison</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <title>Comparare Prețuri</title>
 </head>
 <body>
-    <h1>Price Comparison</h1>
+    <h1>Comparare Prețuri</h1>
+    
     <form method="POST">
-        <label for="search_query">Search for a product:</label>
-        <input type="text" id="search_query" name="search_query" class="form-input">
-        <button type="submit" class="btn-submit">Search</button>
+        <input type="text" name="query" placeholder="Caută un produs..." required>
+        <button type="submit">Caută</button>
     </form>
 
     {% if products %}
-        <h2>Filtered Products</h2>
-        <div class="products-list">
-            {% for product in products %}
-                <div class="product-item">
-                    <h3>{{ product.name }}</h3>
-                    <p>Price: ${{ product.price }}</p>
-                    <p>Rating: {{ product.rating }}</p>
-                </div>
-            {% endfor %}
-        </div>
-    {% else %}
-        <p>No products found based on your filters.</p>
-    {% endif %}
+    <h2>Products</h2>
+    <ul>
+        {% for product in products %}
+            <li>
+                <strong>{{ product.name }}</strong><br>
+                Price: {{ product.price }}<br>
+                Rating: {{ product.rating }}<br><br>
+            </li>
+        {% endfor %}
+    </ul>
+{% else %}
+    <p>No products found based on your filters.</p>
+{% endif %}
+
+
 </body>
 </html>

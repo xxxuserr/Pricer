@@ -1,37 +1,14 @@
 from flask import render_template, request
 from app import app
+from app.scraper import search_product
 
-# Exemplu de produse (poți extinde ulterior)
-products = [
-    {'name': 'Laptop', 'stores': [
-        {'name': 'Store A', 'price': 1000},
-        {'name': 'Store B', 'price': 950},
-        {'name': 'Store C', 'price': 1050}
-    ]},
-    {'name': 'Phone', 'stores': [
-        {'name': 'Store A', 'price': 500},
-        {'name': 'Store B', 'price': 450},
-        {'name': 'Store C', 'price': 520}
-    ]},
-    {'name': 'Headphones', 'stores': [
-        {'name': 'Store A', 'price': 80},
-        {'name': 'Store B', 'price': 75},
-        {'name': 'Store C', 'price': 85}
-    ]}
-]
-
-@app.route('/', methods=['GET', 'POST'])
+@app.route("/", methods=["GET", "POST"])
 def index():
-    search_results = []
-    error_message = None
-
-    if request.method == 'POST':
-        search_query = request.form.get('search_query')
-        
-        # Căutare produs
-        if search_query:
-            search_results = [p for p in products if search_query.lower() in p['name'].lower()]
-        else:
-            error_message = "Please enter a product to search for."
+    products = []
     
-    return render_template('index.html', products=search_results, error_message=error_message)
+    if request.method == "POST":
+        query = request.form.get("query")
+        if query:
+            products = search_product(query)
+
+    return render_template("index.html", products=products)
