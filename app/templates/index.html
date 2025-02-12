@@ -4,30 +4,132 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Comparare Prețuri</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            color: #333;
+        }
+
+        h1 {
+            color: #007bff;
+            font-size: 2em;
+            margin-bottom: 20px;
+        }
+
+        form {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+
+        input[type="text"] {
+            padding: 10px;
+            font-size: 1em;
+            width: 250px;
+            margin-right: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 1em;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+            width: 80%;
+        }
+
+        li {
+            background-color: white;
+            padding: 15px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            display: flex;
+            align-items: center;
+        }
+
+        li img {
+            max-width: 100px;
+            max-height: 100px;
+            margin-right: 20px;
+            border-radius: 5px;
+        }
+
+        a {
+            text-decoration: none;
+            color: #007bff;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .product-info {
+            font-size: 1em;
+            margin-top: 5px;
+        }
+
+        .price {
+            color: green;
+            font-weight: bold;
+        }
+
+        .no-results {
+            font-size: 1.2em;
+            color: #f00;
+        }
+    </style>
 </head>
 <body>
-    <h1>Comparare Prețuri</h1>
-    
-    <form method="POST">
-        <input type="text" name="query" placeholder="Caută un produs..." required>
-        <button type="submit">Caută</button>
-    </form>
 
-    {% if products %}
-    <h2>Products</h2>
-    <ul>
-        {% for product in products %}
-            <li>
-                <strong>{{ product.name }}</strong><br>
-                Price: {{ product.price }}<br>
-                Rating: {{ product.rating }}<br><br>
-            </li>
-        {% endfor %}
-    </ul>
-{% else %}
-    <p>No products found based on your filters.</p>
-{% endif %}
+    <div>
+        <h1>Comparare Prețuri</h1>
+        
+        <form method="POST">
+            <input type="text" name="query" placeholder="Caută un produs..." required>
+            <button type="submit">Caută</button>
+        </form>
 
+        {% if products %}
+            <h2>Produse găsite:</h2>
+            <ul>
+                {% for product in products %}
+                    <li>
+                        <img src="{{ product.image }}" alt="{{ product.name }}">
+                        <div>
+                            <strong><a href="{{ product.link }}" target="_blank">{{ product.name }}</a></strong><br>
+                            <div class="product-info">
+                                <span class="price">Price: {{ product.price }}</span><br>
+                            </div>
+                        </div>
+                    </li>
+                {% endfor %}
+            </ul>
+        {% else %}
+            <p class="no-results"></p>
+        {% endif %}
+    </div>
 
 </body>
 </html>

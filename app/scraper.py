@@ -5,24 +5,31 @@ def search_product(query):
     search_url = f"https://serpapi.com/search.json?q={query}&api_key={api_key}"
 
     response = requests.get(search_url)
-    
-    
-    #print(response.json())
-
     results = response.json()
 
+    #print(results)
+
+    if not results or 'shopping_results' not in results:
+        return []
+
     products = []
-    for result in results.get('shopping_results', []):
+    for result in results['shopping_results']:
         name = result.get('title', 'No title')
         price = result.get('price', 'Price not available')
-        if price != 'Price not available':
-            price = price.split()[0]
-        rating = result.get('rating', 'No rating')
+
+        if 'now' in price.lower() or '$0.00' in price:
+            continue  
+        if price == 'Price not available':
+            price = 'Price not available'
+
+        link = result.get('link', '#')
+        image_url = result.get('thumbnail', '#')
 
         products.append({
             'name': name,
-            'price': price,
-            'rating': rating
+            'price': price,  
+            'link': link,
+            'image': image_url
         })
-    
+
     return products
