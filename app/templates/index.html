@@ -3,23 +3,42 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Comparare Prețuri</title>
+    <title>Pricer</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
             background-color: #f4f4f4;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
             color: #333;
         }
 
+        header {
+            background-color: #007bff;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        footer {
+            background-color: #007bff;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+        }
+
         h1 {
-            color: #007bff;
-            font-size: 2em;
+            font-size: 3em;
             margin-bottom: 20px;
         }
 
@@ -30,10 +49,9 @@
             margin-bottom: 30px;
         }
 
-        input[type="text"] {
+        input[type="text"], input[type="number"], select {
             padding: 10px;
-            font-size: 1em;
-            width: 250px;
+            font-size: 1.2em;
             margin-right: 10px;
             border: 1px solid #ccc;
             border-radius: 5px;
@@ -41,7 +59,7 @@
 
         button {
             padding: 10px 20px;
-            font-size: 1em;
+            font-size: 1.2em;
             background-color: #007bff;
             color: white;
             border: none;
@@ -53,59 +71,40 @@
             background-color: #0056b3;
         }
 
+        .no-results {
+            font-size: 1.2em;
+            color: #f00;
+        }
+
         ul {
             list-style-type: none;
             padding: 0;
-            width: 80%;
         }
 
         li {
-            background-color: white;
+            background: white;
+            margin: 10px 0;
             padding: 15px;
-            margin-bottom: 10px;
-            border-radius: 5px;
+            border-radius: 8px;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
             display: flex;
             align-items: center;
         }
 
-        li img {
-            max-width: 100px;
-            max-height: 100px;
-            margin-right: 20px;
-            border-radius: 5px;
-        }
-
-        a {
-            text-decoration: none;
-            color: #007bff;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-
-        .product-info {
-            font-size: 1em;
-            margin-top: 5px;
-        }
-
-        .price {
-            color: green;
-            font-weight: bold;
-        }
-
-        .no-results {
-            font-size: 1.2em;
-            color: #f00;
+        img {
+            max-width: 100px; /* Dimensiunea maximă a imaginii */
+            margin-right: 15px; /* Spațiu între imagine și text */
         }
     </style>
 </head>
 <body>
 
-    <div>
-        <h1>Comparare Prețuri</h1>
-        
+    <header>
+        <h1>PRICER</h1>
+        <p>Caută cele mai bune oferte pentru produsele dorite!</p>
+    </header>
+
+    <div class="container">
         <form method="POST">
             <input type="text" name="query" placeholder="Caută un produs..." required>
             <button type="submit">Caută</button>
@@ -116,20 +115,29 @@
             <ul>
                 {% for product in products %}
                     <li>
-                        <img src="{{ product.image }}" alt="{{ product.name }}">
+                        {% if product.image %}
+    <img src="{{ product.image }}" alt="{{ product.name }}" onerror="this.onerror=null; this.src='/static/default-image.png';">
+{% else %}
+    <img src="/static/default-image.png" alt="Default Image">
+{% endif %}
                         <div>
                             <strong><a href="{{ product.link }}" target="_blank">{{ product.name }}</a></strong><br>
                             <div class="product-info">
-                                <span class="price">Price: {{ product.price }}</span><br>
+                                <span class="price">Preț: {{ product.price }}</span><br>
+                                <span class="snippet">{{ product.snippet }}</span>
                             </div>
                         </div>
                     </li>
                 {% endfor %}
             </ul>
         {% else %}
-            <p class="no-results"></p>
+            <p class="no-results">Nu au fost găsite produse.</p>
         {% endif %}
     </div>
+
+    <footer>
+        <p>&copy; 2025 Pricer. Toate drepturile rezervate.</p>
+    </footer>
 
 </body>
 </html>
