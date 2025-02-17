@@ -34,3 +34,13 @@ document.getElementById('search-form').addEventListener('submit', function(event
             alert('A apărut o eroare la căutare.');
         });
 });
+
+document.addEventListener("DOMContentLoaded", () => {
+    const products = document.querySelectorAll(".product-item");
+    products.forEach((product, index) => {
+        setTimeout(() => {
+            product.style.opacity = "1";
+            product.style.transform = "translateY(0)";
+        }, index * 150);
+    });
+});

@@ -1,26 +1,111 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
+    background-color: #f4f4f4;
+    color: #333;
 }
 
-#search-form {
-    margin-bottom: 20px;
-}
-
-#results {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-}
-
-.product {
-    border: 1px solid #ccc;
-    margin: 10px;
-    padding: 10px;
-    width: 200px;
+header {
+    background-color: #007bff;
+    color: white;
+    padding: 20px;
     text-align: center;
 }
 
-.product img {
-    max-width: 100%;
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+input[type="text"] {
+    padding: 10px;
+    font-size: 1.2em;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1.2em;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.no-results {
+    font-size: 1.2em;
+    color: #f00;
+}
+
+/* Lista produselor */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.product-item {
+    background: white;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 600px;
+    text-align: left;
+    display: flex;
+    align-items: center;
+}
+
+.product-container {
+    display: flex;
+    align-items: center;
+}
+
+.product-item img {
+    max-width: 100px;
+    height: auto;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+
+.product-info {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+}
+
+.product-info a {
+    text-decoration: none;
+    color: #007bff;
+    font-size: 1.1em;
+}
+
+.product-info a:hover {
+    text-decoration: underline;
+}
+
+.product-info .price {
+    color: green;
+    font-weight: bold;
 }

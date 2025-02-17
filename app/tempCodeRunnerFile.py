@@ -1,0 +1,1 @@
+  # Adăugăm imaginea produsului

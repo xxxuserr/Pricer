@@ -3,105 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pricer</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-
-        header {
-            background-color: #007bff;
-            color: white;
-            padding: 20px;
-            text-align: center;
-        }
-
-        footer {
-            background-color: #007bff;
-            color: white;
-            text-align: center;
-            padding: 10px;
-            position: relative;
-            bottom: 0;
-            width: 100%;
-        }
-
-        .container {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            padding: 20px;
-        }
-
-        h1 {
-            font-size: 3em;
-            margin-bottom: 20px;
-        }
-
-        form {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            margin-bottom: 30px;
-        }
-
-        input[type="text"], input[type="number"], select {
-            padding: 10px;
-            font-size: 1.2em;
-            margin-right: 10px;
-            border: 1px solid #ccc;
-            border-radius: 5px;
-        }
-
-        button {
-            padding: 10px 20px;
-            font-size: 1.2em;
-            background-color: #007bff;
-            color: white;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-        }
-
-        button:hover {
-            background-color: #0056b3;
-        }
-
-        .no-results {
-            font-size: 1.2em;
-            color: #f00;
-        }
-
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-
-        li {
-            background: white;
-            margin: 10px 0;
-            padding: 15px;
-            border-radius: 8px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-            display: flex;
-            align-items: center;
-        }
-
-        img {
-            max-width: 100px; /* Dimensiunea maximă a imaginii */
-            margin-right: 15px; /* Spațiu între imagine și text */
-        }
-    </style>
+    <title>Comparare Prețuri</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 <body>
 
     <header>
-        <h1>PRICER</h1>
-        <p>Caută cele mai bune oferte pentru produsele dorite!</p>
+        <h1>Comparare Prețuri</h1>
     </header>
 
     <div class="container">
@@ -114,30 +22,23 @@
             <h2>Produse găsite:</h2>
             <ul>
                 {% for product in products %}
-                    <li>
-                        {% if product.image %}
-    <img src="{{ product.image }}" alt="{{ product.name }}" onerror="this.onerror=null; this.src='/static/default-image.png';">
-{% else %}
-    <img src="/static/default-image.png" alt="Default Image">
-{% endif %}
-                        <div>
-                            <strong><a href="{{ product.link }}" target="_blank">{{ product.name }}</a></strong><br>
+                    <li class="product-item">
+                        <div class="product-container">
+                            <img src="{{ product.image }}" alt="{{ product.name }}">
                             <div class="product-info">
-                                <span class="price">Preț: {{ product.price }}</span><br>
-                                <span class="snippet">{{ product.snippet }}</span>
+                                <strong>
+                                    <a href="{{ product.link }}" target="_blank">{{ product.name }}</a>
+                                </strong>
+                                <p class="price">{{ product.price }} lei</p>
                             </div>
                         </div>
                     </li>
                 {% endfor %}
             </ul>
         {% else %}
-            <p class="no-results">Nu au fost găsite produse.</p>
+            <p class="no-results">Nu au fost găsite produse pe baza căutării tale.</p>
         {% endif %}
     </div>
-
-    <footer>
-        <p>&copy; 2025 Pricer. Toate drepturile rezervate.</p>
-    </footer>
 
 </body>
 </html>
