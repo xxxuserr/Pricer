@@ -10,7 +10,7 @@
     <h1>Rezultate pentru {{ request.args.get('product') }}</h1>
     <ul>
         {% for product in products %}
-            <li>{{ product.name }} - {{ product.price }} lei - Rating: {{ product.rating }}</li>
+            <li>{{ product.name }} - {{ product.price }}  - Rating: {{ product.rating }}</li>
         {% endfor %}
     </ul>
     <a href="/">Înapoi la căutare</a>

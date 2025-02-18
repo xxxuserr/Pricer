@@ -3,42 +3,67 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Comparare Prețuri</title>
+    <title>PRICER</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 <body>
 
-    <header>
-        <h1>Comparare Prețuri</h1>
-    </header>
+    <!-- Wrapper pentru a asigura footerul la fundul paginii -->
+    <div class="wrapper">
+        <!-- Header -->
+        <header>
+            <div class="container">
+                <h1>PRICER</h1> <!-- Titlul aplicației -->
+            </div>
+        </header>
 
-    <div class="container">
-        <form method="POST">
-            <input type="text" name="query" placeholder="Caută un produs..." required>
-            <button type="submit">Caută</button>
-        </form>
+        <!-- Main Content -->
+        <div class="main-content">
+            <form method="POST">
+                <div class="search-container">
+                    <input type="text" name="query" id="search" placeholder="Caută un produs..." required>
+                    <button type="submit" id="searchButton">Caută</button>
+                </div>
+            </form>
 
-        {% if products %}
-            <h2>Produse găsite:</h2>
-            <ul>
-                {% for product in products %}
-                    <li class="product-item">
-                        <div class="product-container">
+            {% if products %}
+                <h2>Produse găsite:</h2>
+                <ul>
+                    {% for product in products %}
+                        <li>
                             <img src="{{ product.image }}" alt="{{ product.name }}">
-                            <div class="product-info">
-                                <strong>
-                                    <a href="{{ product.link }}" target="_blank">{{ product.name }}</a>
-                                </strong>
-                                <p class="price">{{ product.price }} lei</p>
+                            <div>
+                                <strong><a href="{{ product.link }}" target="_blank">{{ product.name }}</a></strong><br>
+                                <div class="product-info">
+                                    <span class="price">Price: {{ product.price }}</span><br>
+                                </div>
                             </div>
-                        </div>
-                    </li>
-                {% endfor %}
-            </ul>
-        {% else %}
-            <p class="no-results">Nu au fost găsite produse pe baza căutării tale.</p>
-        {% endif %}
+                        </li>
+                    {% endfor %}
+                </ul>
+            {% else %}
+                <p class="no-results" id="noResultsMessage">Nu au fost găsite produse.</p>
+            {% endif %}
+        </div>
+
+        <!-- Footer -->
+        <footer>
+            <div class="container">
+                <p>&copy; 2025 PRICER. Toate drepturile rezervate.</p>
+                <p><a href="#">Termeni și condiții</a> | <a href="#">Politica de confidențialitate</a></p>
+            </div>
+        </footer>
     </div>
+
+    <script>
+        // Verifică dacă nu sunt produse și adaugă clasa pentru a arăta mesajul gradual
+        if (document.getElementById('noResultsMessage')) {
+            // Adăugăm un delay pentru animație
+            setTimeout(function() {
+                document.getElementById('noResultsMessage').classList.add('show');
+            }, 500); // Afișează mesajul gradual după 0.5 secunde
+        }
+    </script>
 
 </body>
 </html>
