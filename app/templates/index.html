@@ -42,7 +42,7 @@
                     {% endfor %}
                 </ul>
             {% else %}
-                <p class="no-results" id="noResultsMessage">Nu au fost găsite produse.</p>
+                <p class="no-results">Nu au fost găsite produse.</p>
             {% endif %}
         </div>
 
@@ -54,16 +54,6 @@
             </div>
         </footer>
     </div>
-
-    <script>
-        // Verifică dacă nu sunt produse și adaugă clasa pentru a arăta mesajul gradual
-        if (document.getElementById('noResultsMessage')) {
-            // Adăugăm un delay pentru animație
-            setTimeout(function() {
-                document.getElementById('noResultsMessage').classList.add('show');
-            }, 500); // Afișează mesajul gradual după 0.5 secunde
-        }
-    </script>
 
 </body>
 </html>

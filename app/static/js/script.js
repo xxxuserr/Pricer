@@ -1,53 +1,86 @@
-// Adăugarea unui scroll to top
-let mybutton = document.getElementById("scrollToTopBtn");
+document.addEventListener('DOMContentLoaded', function() {
+    const searchForm = document.getElementById('search-form');
+    const sortSelect = document.getElementById('sort-option');
+    let currentProducts = [];
 
-// Arată butonul când utilizatorul face scroll la 100px deasupra paginii
-window.onscroll = function() {
-    if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
-        mybutton.style.display = "block";
-    } else {
-        mybutton.style.display = "none";
-    }
-};
+    searchForm.addEventListener('submit', function(event) {
+        event.preventDefault(); // Previne reîncărcarea paginii
 
-// Când se apasă pe buton, se face scroll înapoi la top
-mybutton.onclick = function() {
-    document.body.scrollTop = 0;
-    document.documentElement.scrollTop = 0;
-}
+        const query = document.getElementById('search-query').value;
 
-// Funcția de căutare a produselor
-document.getElementById('searchButton').addEventListener('click', function() {
-    let query = document.getElementById('search').value;
-    let productList = document.getElementById('productList');
+        if (query.trim() === '') {
+            alert('Te rugăm să introduci un termen de căutare.');
+            return;
+        }
 
-    // Găsește produsele care corespund cu căutarea (poți înlocui cu logica ta de căutare)
-    let products = [
-        { name: 'Produs 1', price: '100 RON' },
-        { name: 'Produs 2', price: '150 RON' },
-        { name: 'Produs 3', price: '200 RON' }
-    ];
+        fetch(`http://127.0.0.1:5000/search?query=${encodeURIComponent(query)}`)
+            .then(response => response.json())
+            .then(data => {
+                currentProducts = data.products; // Salvează produsele inițiale
+                displayProducts(currentProducts);
+            })
+            .catch(error => {
+                console.error('Eroare la preluarea datelor:', error);
+                alert('A apărut o eroare la căutare.');
+            });
+    });
 
-    // Curăță lista de produse înainte de fiecare căutare
-    productList.innerHTML = '';
-
-    // Adaugă produsele găsite
-    products.forEach(product => {
-        if (product.name.toLowerCase().includes(query.toLowerCase())) {
-            let li = document.createElement('li');
-            li.innerHTML = `
-                <img src="path_to_product_image.jpg" alt="${product.name}">
-                <div>
-                    <h3>${product.name}</h3>
-                    <p>${product.price}</p>
-                </div>
-            `;
-            productList.appendChild(li);
+    sortSelect.addEventListener('change', function() {
+        if (currentProducts.length > 0) {
+            sortProducts(sortSelect.value);
+            displayProducts(currentProducts);
         }
     });
 
-    // Dacă nu se găsește niciun produs, afișează un mesaj
-    if (productList.innerHTML === '') {
-        productList.innerHTML = '<p>Nu s-au găsit produse care să corespundă căutării.</p>';
+    function sortProducts(sortType) {
+        console.log("Sorting by:", sortType); // Verifică ce tip de sortare este selectat
+        console.log("Before sorting:", currentProducts); // Afișează produsele înainte de sortare
+
+        if (sortType === 'price_asc') {
+            currentProducts.sort((a, b) => {
+                return (a.price_value || 0) - (b.price_value || 0);
+            });
+        } else if (sortType === 'price_desc') {
+            currentProducts.sort((a, b) => {
+                return (b.price_value || 0) - (a.price_value || 0);
+            });
+        } else if (sortType === 'popular') {
+            currentProducts.sort((a, b) => b.rating - a.rating);
+        } else if (sortType === 'recommended') {
+            currentProducts.sort((a, b) => {
+                if (b.rating === a.rating) {
+                    return (a.price_value || 0) - (b.price_value || 0); // Sortare după preț dacă ratingul este același
+                }
+                return b.rating - a.rating; // Sortare după rating
+            });
+        }
+
+        console.log("After sorting:", currentProducts); // Afișează produsele după sortare
+    }
+
+    function displayProducts(products) {
+        const resultsContainer = document.getElementById('results');
+        resultsContainer.innerHTML = ''; // Curăță rezultatele anterioare
+
+        if (products.length > 0) {
+            products.forEach(product => {
+                const productElement = document.createElement('div');
+                productElement.classList.add('product-item');
+                productElement.innerHTML = `
+                    <div class="product-container">
+                        <img src="${product.image}" alt="${product.name}">
+                        <div class="product-info">
+                            <strong>
+                                <a href="${product.link}" target="_blank">${product.name}</a>
+                            </strong>
+                            <p class="price">${product.price} lei</p>
+                        </div>
+                    </div>
+                `;
+                resultsContainer.appendChild(productElement);
+            });
+        } else {
+            resultsContainer.innerHTML = '<p class="no-results">Nu au fost găsite produse.</p>';
+        }
     }
 });
