@@ -1,66 +1,80 @@
 import requests
 import re
 
+def log_debug(message):
+    with open("debug_log.txt", "a", encoding="utf-8") as log_file:
+        log_file.write(message + "\n")
+
 def search_product(query, sort_option="popular"):
     api_key = "ea6b45bcc8887da0b4c0aacb646fde0eea09cc2e950cf21c3408d795abc81bfb"
     search_url = f"https://serpapi.com/search.json?q={query}&api_key={api_key}&hl=ro&gl=MD"
 
+    
     try:
-        # Trimitem cererea GET către API
         response = requests.get(search_url)
-        
-        # Verificăm dacă răspunsul are statusul 200 (succes)
         if response.status_code != 200:
-            print(f"Eroare la API: {response.status_code}")
-            return []  # Returnează o listă goală dacă API-ul returnează un cod de eroare
+            log_debug(f"Eroare la API: {response.status_code}")
+            return []
 
-        # Parsează rezultatele în format JSON
         results = response.json()
-        print(results)  # Adăugăm pentru debugging
-
-
-
-
+        print(results)
+        for result in results.get('organic_results', []):
+            log_debug(f"\n Analiză produs: {result}")
+        for result in results.get('shopping_results', []):
+            log_debug(f"\n Analiză produs(SHOPPING): {result}")
     except requests.exceptions.RequestException as e:
-        # Capturăm orice excepție care apare în timpul cererii
-        print(f"Eroare la conectarea la API: {e}")
-        return []  # Returnează o listă goală în caz de eroare de rețea
-
+        log_debug(f"Eroare la conectarea la API: {e}")
+        return []
+    
     products = []
-    for result in results.get('shopping_results', []):
+    for result in results.get('organic_results', []):
         name = result.get('title', 'No title')
-        price = result.get('price', 'Price not available')
-
-        # Extrage valoarea numerică a prețului
-        price_value = None
-        if price != 'Price not available':
-            match = re.search(r'(\d+[\.,]?\d*)', price)
-            if match:
-                price_value = float(match.group(1).replace(',', '.'))
-
         link = result.get('link', '#')
+        description = result.get('snippet', 'No description')
         image_url = result.get('thumbnail', '#')
-        rating = result.get('rating', 0)  # Asigură-te că ratingul este întotdeauna un număr
+        
+        product_details = {
+            'name': name,
+            'link': link,
+            'description': description,
+            'image_url': image_url,
+        }
 
-        # Verifică dacă datele sunt valide înainte de a le adăuga în listă
-        if price_value is not None and link != '#' and image_url != '#':
-            products.append({
-                'name': name,
-                'price': price,
-                'price_value': price_value,
-                'link': link,
-                'image': image_url,
-                'rating': rating
-            })
+        if link != '#':
+            price = get_price_from_link(link)
+            if price:
+                product_details['price'] = price
 
-    # Aplicăm sortarea în funcție de selecție
+        products.append(product_details)
+    
     if sort_option == "price_asc":
-        products = sorted([p for p in products if p['price_value'] is not None], key=lambda x: x['price_value'])
+        products = sorted(products, key=lambda x: x.get('price_value', float('inf')))
     elif sort_option == "price_desc":
-        products = sorted([p for p in products if p['price_value'] is not None], key=lambda x: x['price_value'], reverse=True)
+        products = sorted(products, key=lambda x: x.get('price_value', float('inf')), reverse=True)
     elif sort_option == "popular":
-        products = sorted(products, key=lambda x: x['rating'], reverse=True)  # Sortare după rating
+        products = sorted(products, key=lambda x: x.get('rating', 0), reverse=True)
     elif sort_option == "recommended":
-        products = sorted(products, key=lambda x: (x['rating'], x['price_value']), reverse=True)  # Recomandat = rating mare + preț bun
-
+        products = sorted(products, key=lambda x: (x.get('rating', 0), x.get('price_value', float('inf'))), reverse=True)
+    
     return products
+
+def get_price_from_link(link):
+    try:
+        response = requests.get(link)
+        if response.status_code == 200:
+            log_debug(f"\n Conținutul paginii {link} (primele 2000 de caractere):")
+            log_debug(response.text[:1000])
+
+            matches = re.findall(r'(\d{4,}[\.,]?\d*)\s*(MDL|lei)', response.text)
+            if matches:
+                for match in matches:
+                    price = match[0].replace(',', '.')
+                    log_debug(f" Preț găsit: {price} {match[1]}")
+                    return float(price)
+                log_debug(" Nu s-a găsit un preț valid.")
+            else:
+                log_debug(" Niciun preț MDL/lei găsit pe pagină.")
+    except Exception as e:
+        log_debug(f" Eroare la obținerea prețului de la link: {e}")
+    
+    return None

@@ -1,0 +1,1624 @@
+
+ Analiză produs: {'position': 1, 'title': 'Noile Apple iPhone 14 in Chisinau si Moldova - Smartphone', 'link': 'https://darwin.md/telefoane/smartphone/apple-iphone-14', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/telefoane/smartphone/apple-iphone-14&ved=2ahUKEwihiMf_jdWLAxVN0ckDHR1UOXsQFnoECBcQAQ', 'displayed_link': 'https://darwin.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67b89f81921babb2cd8fbe16/images/4f9e156daa21197fff6338759b7fa73d90871b5ff5c38f331f9ee1f03bdef835.png', 'snippet': 'Apple iPhone 14 la prețuri accesibile în gadget store-ul Darwin. Cumpără iPhone 14 cu garanție, posibilitate de creditare și livrare gratuită în Moldova.', 'snippet_highlighted_words': ['Apple iPhone 14 la prețuri accesibile în gadget store-ul Darwin'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 2, 'title': 'Apple iPhone 14 5G 128GB | Онлайн магазин Orange Moldova', 'link': 'https://eshop.orange.md/ro/catalog/telefoane/toate-telefoanele/iphone-14-128gb.html', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://eshop.orange.md/ro/catalog/telefoane/toate-telefoanele/iphone-14-128gb.html&ved=2ahUKEwihiMf_jdWLAxVN0ckDHR1UOXsQFnoECB4QAQ', 'displayed_link': 'https://eshop.orange.md › i...', 'favicon': 'https://serpapi.com/searches/67b89f81921babb2cd8fbe16/images/4f9e156daa21197fff6338759b7fa73d171d9034375a7fb21789e4a487a8a05e.png', 'snippet': 'ДатчикиИдентификатор лица | Акселерометр, гироскоп, близость | Компас | Барометр | Поддержка сверхширокополосной связи (UWB) | Экстренная SOS через спутник.', 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 3, 'title': 'Apple iPhone 14 Chisinau | iPhone 14 Moldova', 'link': 'https://www.smart.md/ro/apple-iphone-14', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.smart.md/ro/apple-iphone-14&ved=2ahUKEwihiMf_jdWLAxVN0ckDHR1UOXsQFnoECBYQAQ', 'displayed_link': 'https://www.smart.md › ... › Smartphone Apple', 'favicon': 'https://serpapi.com/searches/67b89f81921babb2cd8fbe16/images/4f9e156daa21197fff6338759b7fa73d5ab6d9dad67fd606da2aa969b5d0d149.png', 'snippet': 'In centrul iPhone 14 se afla puternicul cip A15 Bionic, conceput pentru a oferi performante fulgeratoare si eficienta de neegalat. Dispunand de o arhitectura de ...', 'snippet_highlighted_words': ['puternicul cip A15 Bionic'], 'source': 'smart.md'}
+
+ Analiză produs: {'position': 4, 'title': 'Apple iPhone 14, 14 Plus, 14 Pro si 14 Pro Max', 'link': 'https://enter.online/telefoane/smartphone-uri/apple-iphone-14-2022', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enter.online/telefoane/smartphone-uri/apple-iphone-14-2022&ved=2ahUKEwihiMf_jdWLAxVN0ckDHR1UOXsQFnoECA0QAQ', 'displayed_link': 'https://enter.online › telefoane › smartphone-uri › apple...', 'favicon': 'https://serpapi.com/searches/67b89f81921babb2cd8fbe16/images/4f9e156daa21197fff6338759b7fa73d8602dd24c1ed7cd6e74e27fcf5860463.png', 'snippet': 'Noile smartphone-uri Apple iPhone 14, 14 Plus, 14 Pro și 14 Pro Max deja și în Moldova, de la Apple Authorized Reseller - ENTER. Cele mai bune preturi, ...', 'snippet_highlighted_words': ['Apple iPhone 14, 14 Plus, 14 Pro și 14 Pro Max'], 'source': 'enter.online'}
+
+ Analiză produs: {'position': 5, 'title': 'Apple iPhone 14 256GB SS Blue în Chișinău, Moldova', 'link': 'https://alo.md/ro/apple-4/apple-iphone-14-256gb-ss-blue', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://alo.md/ro/apple-4/apple-iphone-14-256gb-ss-blue&ved=2ahUKEwihiMf_jdWLAxVN0ckDHR1UOXsQFnoECA4QAQ', 'displayed_link': 'https://alo.md › ... › Smartphone toate brăndurile › Apple', 'favicon': 'https://serpapi.com/searches/67b89f81921babb2cd8fbe16/images/4f9e156daa21197fff6338759b7fa73d4151a1e79a7737422e1685cd20fc4669.png', 'snippet': 'Bun venit în lumea tehnologiei inovatoare cu noul iPhone 14! Echipat cu un puternic procesor Apple A15 Bionic și 6 GB de memorie RAM, acest telefon este ...', 'snippet_highlighted_words': ['iPhone 14'], 'source': 'Alo. Md'}
+
+ Analiză produs: {'position': 6, 'title': 'Buy iPhone 14 and iPhone 14 Plus', 'link': 'https://www.apple.com/shop/buy-iphone/iphone-14', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.apple.com/shop/buy-iphone/iphone-14&ved=2ahUKEwihiMf_jdWLAxVN0ckDHR1UOXsQFnoECBAQAQ', 'displayed_link': 'https://www.apple.com › iPhone › iPhone 14', 'favicon': 'https://serpapi.com/searches/67b89f81921babb2cd8fbe16/images/4f9e156daa21197fff6338759b7fa73d46a941cd8d117c0c3ebfc71630e2c613.png', 'snippet': 'Get iPhone 14 and iPhone 14 Plus for an amazing price with special carrier trade-in offers. Make low monthly payments at 0% APR. Buy now with fast, ...', 'snippet_highlighted_words': ['Get iPhone 14 and iPhone 14 Plus for an amazing price'], 'source': 'Apple'}
+
+ Analiză produs: {'position': 7, 'title': 'Apple iPhone 14 & 14 Plus în Chișinău și MD - ENTER.ONLINE', 'link': 'https://enter.online/telefoane/smartphone-uri/apple-iphone-14-si-14-plus', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enter.online/telefoane/smartphone-uri/apple-iphone-14-si-14-plus&ved=2ahUKEwihiMf_jdWLAxVN0ckDHR1UOXsQFnoECEAQAQ', 'displayed_link': 'https://enter.online › telefoane › smartphone-uri › apple...', 'favicon': 'https://serpapi.com/searches/67b89f81921babb2cd8fbe16/images/4f9e156daa21197fff6338759b7fa73d9663259fdb559624978cf4295908d798.png', 'snippet': 'Fă cunoștință cu noile bestselleruri Apple iPhone 14 și 14 Plus în Moldova, la distribuitorul autorizat Apple - ENTER. În credit, cu garanție și livrare ...', 'snippet_highlighted_words': ['Apple iPhone 14 și 14 Plus'], 'source': 'enter.online'}
+
+ Analiză produs: {'position': 8, 'title': 'iPhone 14 128GB SS Midnight - Gorilla ELECTRONICS', 'link': 'https://gorilla.md/produs/iphone-14-128gb-midnight/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gorilla.md/produs/iphone-14-128gb-midnight/&ved=2ahUKEwihiMf_jdWLAxVN0ckDHR1UOXsQFnoECEMQAQ', 'displayed_link': 'https://gorilla.md › SMARTPHONE › Apple', 'favicon': 'https://serpapi.com/searches/67b89f81921babb2cd8fbe16/images/4f9e156daa21197fff6338759b7fa73dac23c866e0a917764000771a81e50aec.png', 'snippet': 'iPhone 14 si iPhone 14 Plus. Alege intre ecranele Super Retina XDR stralucitor de 6,1 inchi sau 6,7 inchi. Realizeaza poze uimitoare in lumina slaba sau ...', 'snippet_highlighted_words': ['iPhone 14 si iPhone 14 Plus'], 'source': 'gorilla.md'}
+
+ Analiză produs: {'position': 9, 'title': 'Apple iPhone 14 Pro', 'link': 'https://darwin.md/telefoane/smartphone/apple-iphone-14-pro', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/telefoane/smartphone/apple-iphone-14-pro&ved=2ahUKEwihiMf_jdWLAxVN0ckDHR1UOXsQFnoECDsQAQ', 'displayed_link': 'https://darwin.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67b89f81921babb2cd8fbe16/images/4f9e156daa21197fff6338759b7fa73dd1921fd5b60ea9a145f1658f821040b2.png', 'snippet': 'Noua generație Apple iPhone 14 PRO la preț avantajos în Moldova. Cumpără iPhone 14 PRO cu garanție, cashback garantat și livrare gratuită în magazinul ...', 'snippet_highlighted_words': ['iPhone 14 PRO'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 10, 'title': 'Smartphone-uri APPLE iPhone 14 Pro', 'link': 'https://breezy.md/smartphone/vendor=apple/series=iphone-14-pro', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://breezy.md/smartphone/vendor%3Dapple/series%3Diphone-14-pro&ved=2ahUKEwihiMf_jdWLAxVN0ckDHR1UOXsQFnoECDcQAQ', 'displayed_link': 'https://breezy.md › ... › APPLE', 'favicon': 'https://serpapi.com/searches/67b89f81921babb2cd8fbe16/images/4f9e156daa21197fff6338759b7fa73d8b4a5c5451fd511d7e5e064a36c1de5f.png', 'snippet': 'iPhone 14 Pro este un adevărat flagship de la Apple, care îmbină tehnologii avansate, un design elegant și o performanță incredibilă. Acest smartphone este ...', 'snippet_highlighted_words': ['iPhone 14 Pro'], 'source': 'BREEZY.MD'}
+
+ Conținutul paginii https://darwin.md/telefoane/smartphone/apple-iphone-14 (primele 2000 de caractere):
+<!DOCTYPE html>
+<html lang="ro">
+
+<head>
+    <meta charset="utf-8">
+    <!--Viewport-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!--csrf-token-->
+    <meta name="csrf-token" content="tkFZcSM48h6yQNKf7Md6wDw5MjWU3ytusTwAJpsU">
+
+            <title>Noile Apple iPhone 14 in Chisinau si Moldova – Darwin</title>
+        <meta property="og:title" content="Noile Apple iPhone 14 in Chisinau si Moldova – Darwin"/>
+                <meta name="description" content="Apple iPhone 14 la prețuri accesibile în gadget store-ul Darwin. Cumpără iPhone 14 cu garanție, posibilitate de creditare și livrare gratuită în Moldova."/>
+        <meta property="og:description" content="Apple iPhone 14 la prețuri accesibile în gadget store-ul Darwin. Cumpără iPhone 14 cu garanție, posibilitate de creditare și livrare gratuită în Moldova."/>
+        <meta property="og:image" content="https://darwin.md/build/assets/logo-jB5Wpaac.png"/>
+
+    <link rel="canonical" href="https://darwi
+ Preț găsit: 5000 lei
+
+ Conținutul paginii https://eshop.orange.md/ro/catalog/telefoane/toate-telefoanele/iphone-14-128gb.html (primele 2000 de caractere):
+<!--meta_robots= noindex, nofollow-->
+
+
+<!doctype html>
+<html lang="ro">
+<head>
+
+  <title>Orange Eshop</title>
+  <meta charset="utf-8">
+  <meta http-equiv="cache-control" content="no-cache">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=2,shrink-to-fit=no">
+  <meta name="google-site-verification" content="ySApXMT5QOR8kMV5DQz-L-4UsAqLh4PZ_9OdaeK1UtA" />
+  <link href="https://cdn.omd.md/assets/media/img/favicon.png" rel="shortcut icon" type="image/x-icon" />
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+  <!--SEO-->
+  <meta name="robots" content="index, follow" />
+
+  <meta name="description" content="Toate serviciile Â· Abonamente Â· Telefoane Â· TV Â· Tablete Â· Laptopuri Â· Modeme Â· Gadgeturi Â· Accesorii." />
+  <meta name="keywords" content="cumpara telefoane mobile in magazinul online Orange Moldova la preturi speciale cele mai mici livrare gratuita in mu
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://www.smart.md/ro/apple-iphone-14 (primele 2000 de caractere):
+<!DOCTYPE html>
+<html dir="ltr" lang="ro">
+
+<head>
+	<base href="https://www.smart.md/"/>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title>Apple iPhone 14 Chisinau | iPhone 14 Moldova | Smart.md</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="theme-color" content="#ffcc33"/>
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="#ffcc33">
+	<meta name="msapplication-navbutton-color" content="#ffcc33">
+	<meta name="robots" content="INDEX,FOLLOW">
+	<meta name="author" content="Smart Click SRL">
+	<meta property="og:title" content="Apple iPhone 14 Chisinau | iPhone 14 Moldova | Smart.md">
+			<meta property="og:image" content="https://www.smart.md/image/data/undefined/smart_logo.png">
+	
+			<meta property="og:description" content="Apple iPhone 14 la smart.md: descoperiti inovatia Apple de
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://enter.online/telefoane/smartphone-uri/apple-iphone-14-2022 (primele 2000 de caractere):
+<!doctype html>
+<html lang="ro" dir="ltr">
+<head>
+            <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="https://enter.online/img/favicon-32x32.png?1" type="image/x-icon">
+    <link rel="shortcut icon" href="https://enter.online/img/favicon-32x32.png?1" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://enter.online/img/apple-touch-icon.png?2">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://enter.online/img/favicon-32x32.png?1">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://enter.online/img/favicon-16x16.png?1">
+        <title>Apple iPhone 14, 14 Plus, 14 Pro si 14 Pro Max | ENTER.ONLINE</title>
+    <meta
+        property="og:title"
+        content="Apple iPhone 14, 14 Plus, 14 Pro si 14 Pro Max | ENTER.ONLINE"
+    />
+    <meta
+        name="description"
+        content="Noile smartphone-uri Apple iPhone 14, 14 Plus, 14 Pro și 14 Pro Ma
+ Preț găsit: 5000 lei
+
+ Conținutul paginii https://alo.md/ro/apple-4/apple-iphone-14-256gb-ss-blue (primele 2000 de caractere):
+<!doctype html>
+<html data-n-head-ssr lang="ru" data-n-head="%7B%22lang%22:%7B%22ssr%22:%22ru%22%7D%7D">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+        <script>const $buildCannonicalUrl=t=>{if(!t)return;let i="https://alo.md/";return i.endsWith("/")&&(i=i.slice(0,-1)),t.startsWith(i)||t.includes("http")?t:t.startsWith("/")?i+t:i+"/"+t};if(window.location.href.includes("/ru/")){let t=window.location.href;window.location=t.replace("/ru/","/")}</script>
+
+        <script>let projectName="alo.md";"mi.md"===projectName&&(!function(e,t,n,c,o,a,s){e.fbq||(o=e.fbq=function(){o.callMethod?o.callMethod.apply(o,arguments):o.queue.push(arguments)},e._fbq||(e._fbq=o),o.push=o,o.loaded=!0,o.version="2.0",o.queue=[],(a=t.createElement(n)).async=!0,a.src="https://connect.facebook.net/en_US/fbevents.js",(s=t.getElementsByTagName(n)[0]).parentNode.insertBefore(a,s))}(window,document,"script"),fbq("init","273977092168320"),fbq("track","PageView"))</script>
+
+ Preț găsit: 1000 lei
+
+ Conținutul paginii https://www.apple.com/shop/buy-iphone/iphone-14 (primele 2000 de caractere):
+<!DOCTYPE html>
+<html class="no-js" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" dir="ltr" prefix="og: http://ogp.me/ns#">
+<head>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta charset="utf-8" />
+<link rel="canonical" href="https://www.apple.com/iphone/" />
+
+
+	
+	<link rel="alternate" href="https://www.apple.com/ae-ar/iphone/" hreflang="ar-AE" /><link rel="alternate" href="https://www.apple.com/ae/iphone/" hreflang="en-AE" /><link rel="alternate" href="https://www.apple.com/am/iphone/" hreflang="en-AM" /><link rel="alternate" href="https://www.apple.com/at/iphone/" hreflang="de-AT" /><link rel="alternate" href="https://www.apple.com/au/iphone/" hreflang="en-AU" /><link rel="alternate" href="https://www.apple.com/az/iphone/" hreflang="en-AZ" /><link rel="alternate" href="https://www.apple.com/befr/iphone/" hreflang="fr-BE" /><link rel="alternate" href="https://www.apple.com/benl/iphone/" hreflang="nl-BE" /><link rel="alternate" href="https://www.apple.com/bg/iphone/" hre
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://enter.online/telefoane/smartphone-uri/apple-iphone-14-si-14-plus (primele 2000 de caractere):
+<!doctype html>
+<html lang="ro" dir="ltr">
+<head>
+            <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="https://enter.online/img/favicon-32x32.png?1" type="image/x-icon">
+    <link rel="shortcut icon" href="https://enter.online/img/favicon-32x32.png?1" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://enter.online/img/apple-touch-icon.png?2">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://enter.online/img/favicon-32x32.png?1">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://enter.online/img/favicon-16x16.png?1">
+        <title>Apple iPhone 14 & 14 Plus în Chișinău și MD - ENTER.ONLINE</title>
+    <meta
+        property="og:title"
+        content="Apple iPhone 14 & 14 Plus în Chișinău și MD - ENTER.ONLINE"
+    />
+    <meta
+        name="description"
+        content="Fă cunoștință cu noile bestselleruri Apple iPhone 14 și 14 Plus în Moldo
+ Preț găsit: 5000 lei
+
+ Conținutul paginii https://gorilla.md/produs/iphone-14-128gb-midnight/ (primele 2000 de caractere):
+<!DOCTYPE html>
+<html lang="ro-RO">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v23.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>iPhone 14 128GB SS Midnight - Gorilla ELECTRONICS</title>
+	<meta name="description" content="Купите iPhone 14 128GB SS Midnight по низкой цене на Gorilla ELECTRONICS в Молдове! Быстрая доставка, гарантия. Выгодные предложения!" />
+	<link rel="canonical" href="https://gorilla.md/produs/iphone-14-128gb-midnight/" />
+	<meta property="og:locale" content="ro_RO" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="iPhone 14 128GB SS Midnight - Gorilla ELECTRONICS" />
+	<meta property="og:description" content="Купите iPhone 14 128GB SS Midnight по низкой цене на Gorilla ELECTRONICS 
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://darwin.md/telefoane/smartphone/apple-iphone-14-pro (primele 2000 de caractere):
+<!DOCTYPE html>
+<html lang="ro">
+
+<head>
+    <meta charset="utf-8">
+    <!--Viewport-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!--csrf-token-->
+    <meta name="csrf-token" content="IdUfBzUqJ5aDrh3ruRjI2MHzBSW4JTbyLy7eAhUQ">
+
+            <title>Noul iPhone 14 Pro în MD – DARWIN.MD</title>
+        <meta property="og:title" content="Noul iPhone 14 Pro în MD – DARWIN.MD"/>
+                <meta name="description" content="Noua generație Apple iPhone 14 PRO la preț avantajos în Moldova. Cumpără iPhone 14 PRO cu garanție, cashback garantat și livrare gratuită în magazinul Darwin."/>
+        <meta property="og:description" content="Noua generație Apple iPhone 14 PRO la preț avantajos în Moldova. Cumpără iPhone 14 PRO cu garanție, cashback garantat și livrare gratuită în magazinul Darwin."/>
+        <meta property="og:image" content="https://darwin.md/build/assets/logo-jB5Wpaac.png"/>
+
+    <link rel="canonical" href="https://darwin.md/telefoane/smartphon
+ Preț găsit: 5000 lei
+
+ Conținutul paginii https://breezy.md/smartphone/vendor=apple/series=iphone-14-pro (primele 2000 de caractere):
+<!doctype html>
+
+<html lang="ro">
+
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Cache-Control" content="private">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="initial-scale=1.0, width=device-width, maximum-scale=1.0, viewport-fit=cover">
+
+    
+    <meta name="csrf-token" content="TOYhhG4c5Cp0A2aDygLKnN91OY9CKjnRAKFNyhzD">
+
+            
+        <meta name="robots" content="index, follow" />
+<title>Smartphone-uri APPLE iPhone 14 Pro Cumpără în Moldova ᐉ Cel mai bun preț pe Breezy.md</title>
+<meta name="description" content="Cumpara Smartphone-uri APPLE iPhone 14 Pro în Moldova ᐉ Livrare rapidă ✅ Plată în rate până la 12 luni ✅ Garanție ✅ Retur în 7 zile ✅ Produse originale verificate în magazinul nostru Breezy" />
+<link rel="canonical" href="https://breezy.md/smartphone/vendor=apple/series=iphone-14-pro" />
+<link href="https://breezy.md/smartphone/vendor=apple/series=iphone-14-pro
+ Preț găsit: 3075 lei
+
+ Analiză produs: {'position': 1, 'title': 'Cumpăra un smartphone Samsung Galaxy S24', 'link': 'https://darwin.md/telefoane/smartphone/samsung-galaxy-s-24', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/telefoane/smartphone/samsung-galaxy-s-24&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECBYQAQ', 'displayed_link': 'https://darwin.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc4f66d8352d61c3ad54396d9cc17fe74be.png', 'snippet': 'Cumpara Samsung Galaxy S24 în Moldova, la cel mai bun preț în Darwin MD. Livrare gratuita, reduceri mari!', 'snippet_highlighted_words': ['Cumpara Samsung Galaxy S24'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 2, 'title': 'Samsung Galaxy S24 - Orange Eshop', 'link': 'https://eshop.orange.md/ro/catalog/telefoane/samsung-galaxy-s24', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://eshop.orange.md/ro/catalog/telefoane/samsung-galaxy-s24&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECBQQAQ', 'displayed_link': 'https://eshop.orange.md › catalog › telefoane › samsun...', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc4975d2eb5c690519eea58c229d7736e49.png', 'snippet': 'Samsung Galaxy S24 Ultra 5G 12/1TB. 27 999 lei. - 4700 lei. 32 699 lei. Vezi ... Samsung Galaxy S24 Ultra 5G 12/256GB. 23 499 lei. - 1900 lei. 25 399 lei. Vezi ...', 'snippet_highlighted_words': ['Samsung Galaxy S24 Ultra 5G 12/1TB'], 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 3, 'title': 'Cumpara Samsung Galaxy S24 smartphone la cele mai ...', 'link': 'https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECBMQAQ', 'displayed_link': 'https://enter.online › telefoane › smartphone-uri › sams...', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc48372fd777bb03172daeda012adfcdfcc.png', 'snippet': 'Samsung Galaxy S24, S24 + si S24 Ultra la preturi competitive in Moldova, comanda cu livrare gratuita doar in ▷ ENTER.ONLINE.', 'snippet_highlighted_words': ['Samsung Galaxy S24'], 'source': 'Enter'}
+
+ Analiză produs: {'position': 4, 'title': 'Samsung S24 Galaxy 8/128Gb Marble Grey', 'link': 'https://gorilla.md/produs/samsung-s24-galaxy-8-128gb-marble-grey-2/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gorilla.md/produs/samsung-s24-galaxy-8-128gb-marble-grey-2/&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECB0QAQ', 'displayed_link': 'https://gorilla.md › SMARTPHONE › Samsung', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc410faea6564e738f9c03017b1fba4df83.png', 'snippet': 'Descriere · Sistem de operare:Android 14 · Diagonală display:6.2 " · Chipset:Exynos 2400 · Număr de nuclee:8 · Frecvență de actualizare:120 GHz · Memorie RAM:8 GB ...', 'snippet_highlighted_words': ['Sistem de operare:Android 14'], 'source': 'gorilla.md'}
+
+ Analiză produs: {'position': 5, 'title': 'Samsung Galaxy S24 8/128 GB Marble Grey', 'link': 'https://alo.md/ro/samsung-6/samsung-galaxy-s24-8128-gb-marble-grey', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://alo.md/ro/samsung-6/samsung-galaxy-s24-8128-gb-marble-grey&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECCQQAQ', 'displayed_link': 'https://alo.md › ... › Smartphone › Samsung', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc404cd1a7a55caa2fbf09e356a096741c8.png', 'snippet': 'Acest model este echipat cu un ecran AMOLED plat de 6,2 inci cu o rată variabilă de actualizare de la 1 la 120 Hz, asigurând afișarea incredibil de clară și ...', 'snippet_highlighted_words': ['ecran AMOLED plat de 6,2 inci'], 'source': 'Alo. Md'}
+
+ Analiză produs: {'position': 6, 'title': 'Cumpara Samsung S24 | S24 + | S24 Ultra in Darwin MD', 'link': 'https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECCUQAQ', 'displayed_link': 'https://darwin.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc40b801e92936d027b6d54566787f654e5.png', 'snippet': 'Samsung Galaxy S24+ este o versiune mai mare a modelului S24. Cu un ecran de 6,6 inch, acest telefon este perfect pentru cei care preferă să vizioneze filme sau ...', 'snippet_highlighted_words': ['Samsung Galaxy S24'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 7, 'title': 'Galaxy S24 & S24+ | Galaxy AI', 'link': 'https://www.samsung.com/ro/smartphones/galaxy-s24/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.samsung.com/ro/smartphones/galaxy-s24/&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECCoQAQ', 'displayed_link': 'https://www.samsung.com › ... › Smartphones', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc4e02c4cdce0d808dfacacb447a8b41c32.png', 'snippet': 'Iti prezentam telefoanele Galaxy S24 si S24+, smartphone-urile care stabilesc noile standarde in telefonia mobila, acum cu noua functie Galaxy AI.', 'snippet_highlighted_words': ['smartphone-urile care stabilesc noile standarde in telefonia mobila'], 'source': 'samsung.com'}
+
+ Analiză produs: {'position': 8, 'title': 'Samsung Galaxy S24 🔥 Cele mai bune preţuri ⭐', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/samsung-galaxy-s24', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orange.md/ro/shop/catalog/telefoane/samsung-galaxy-s24&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECCYQAQ', 'displayed_link': 'https://www.orange.md › ... › Samsung Galaxy S24', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc47e82bec470fed67ba354ec12e2e04432.png', 'snippet': 'Samsung Galaxy S24+ 5G 12/256GB. 18 999 lei. - 1500 lei. 20 499 lei. Vezi detalii. Stoc epuizat. Samsung Galaxy S24+ 5G 12/512GB. 19 999 lei. - 3000 lei.', 'snippet_highlighted_words': ['Samsung Galaxy S24+ 5G 12/256GB'], 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 9, 'title': 'Cumpara Galaxy S24 si S24 Plus | Pret si Oferte', 'link': 'https://www.samsung.com/ro/smartphones/galaxy-s24/buy/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.samsung.com/ro/smartphones/galaxy-s24/buy/&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECCwQAQ', 'displayed_link': 'https://www.samsung.com › ... › Galaxy S24 | S24+', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc4557bd924c80020bd0ac97ad6ec69f7d6.png', 'snippet': 'Cumpara Samsung Galaxy S24 si S24+, cu noi functii AI si ai parte de oferte exclusive, doar pentru o perioada de timp limitata. Disponibil pe Samsung.com.', 'snippet_highlighted_words': ['Cumpara Samsung Galaxy S24 si S24'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 4.7, 'reviews': 3435}, 'extensions': ['4,7(3.435)']}}, 'source': 'samsung.com'}
+
+ Conținutul paginii https://darwin.md/telefoane/smartphone/samsung-galaxy-s-24 (primele 2000 de caractere):
+<!DOCTYPE html>
+<html lang="ro">
+
+<head>
+    <meta charset="utf-8">
+    <!--Viewport-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!--csrf-token-->
+    <meta name="csrf-token" content="LnrX4Dw7ZVc6uk0VXMBFWD1rGkEgRYOdt1Ly3SF4">
+
+            <title>Cumpăra un smartphone Samsung Galaxy S24</title>
+        <meta property="og:title" content="Cumpăra un smartphone Samsung Galaxy S24"/>
+                <meta name="description" content="Cumpara Samsung Galaxy S24 în Moldova, la cel mai bun preț în Darwin MD. Livrare gratuita, reduceri mari!"/>
+        <meta property="og:description" content="Cumpara Samsung Galaxy S24 în Moldova, la cel mai bun preț în Darwin MD. Livrare gratuita, reduceri mari!"/>
+        <meta property="og:image" content="https://darwin.md/build/assets/logo-jB5Wpaac.png"/>
+
+    <link rel="canonical" href="https://darwin.md/telefoane/smartphone/samsung-galaxy-s-24"/>
+
+            <link
+            rel="alternate"
+            hreflang="ro-m
+ Preț găsit: 5000 lei
+
+ Conținutul paginii https://eshop.orange.md/ro/catalog/telefoane/samsung-galaxy-s24 (primele 2000 de caractere):
+<!--meta_robots= noindex, nofollow-->
+
+
+<!doctype html>
+<html lang="ro">
+<head>
+
+  <title>Orange Eshop</title>
+  <meta charset="utf-8">
+  <meta http-equiv="cache-control" content="no-cache">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=2,shrink-to-fit=no">
+  <meta name="google-site-verification" content="ySApXMT5QOR8kMV5DQz-L-4UsAqLh4PZ_9OdaeK1UtA" />
+  <link href="https://cdn.omd.md/assets/media/img/favicon.png" rel="shortcut icon" type="image/x-icon" />
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+  <!--SEO-->
+  <meta name="robots" content="index, follow" />
+
+  <meta name="description" content="Toate serviciile Â· Abonamente Â· Telefoane Â· TV Â· Tablete Â· Laptopuri Â· Modeme Â· Gadgeturi Â· Accesorii." />
+  <meta name="keywords" content="cumpara telefoane mobile in magazinul online Orange Moldova la preturi speciale cele mai mici livrare gratuita in mu
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24 (primele 2000 de caractere):
+<!doctype html>
+<html lang="ro" dir="ltr">
+<head>
+            <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="https://enter.online/img/favicon-32x32.png?1" type="image/x-icon">
+    <link rel="shortcut icon" href="https://enter.online/img/favicon-32x32.png?1" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://enter.online/img/apple-touch-icon.png?2">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://enter.online/img/favicon-32x32.png?1">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://enter.online/img/favicon-16x16.png?1">
+        <title>Cumpara Samsung Galaxy S24 smartphone la cele mai bune preturi din Enter!</title>
+    <meta
+        property="og:title"
+        content="Cumpara Samsung Galaxy S24 smartphone la cele mai bune preturi din Enter!"
+    />
+    <meta
+        name="description"
+        content="Samsung Galaxy S24, S24 + si S24 Ultra la 
+ Preț găsit: 5000 lei
+
+ Conținutul paginii https://gorilla.md/produs/samsung-s24-galaxy-8-128gb-marble-grey-2/ (primele 2000 de caractere):
+<!DOCTYPE html>
+<html lang="ro-RO">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v23.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Samsung S24 Galaxy 8/128Gb Marble Grey - Gorilla ELECTRONICS</title>
+	<meta name="description" content="Купите Samsung S24 Galaxy 8/128Gb Marble Grey по низкой цене на Gorilla ELECTRONICS в Молдове! Быстрая доставка, гарантия. Выгодные предложения!" />
+	<link rel="canonical" href="https://gorilla.md/produs/samsung-s24-galaxy-8-128gb-marble-grey-2/" />
+	<meta property="og:locale" content="ro_RO" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Samsung S24 Galaxy 8/128Gb Marble Grey - Gorilla ELECTRONICS" />
+	<meta property="og:description" content="Купите Samsung S24 Galax
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://alo.md/ro/samsung-6/samsung-galaxy-s24-8128-gb-marble-grey (primele 2000 de caractere):
+<!doctype html>
+<html data-n-head-ssr lang="ru" data-n-head="%7B%22lang%22:%7B%22ssr%22:%22ru%22%7D%7D">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+        <script>const $buildCannonicalUrl=t=>{if(!t)return;let i="https://alo.md/";return i.endsWith("/")&&(i=i.slice(0,-1)),t.startsWith(i)||t.includes("http")?t:t.startsWith("/")?i+t:i+"/"+t};if(window.location.href.includes("/ru/")){let t=window.location.href;window.location=t.replace("/ru/","/")}</script>
+
+        <script>let projectName="alo.md";"mi.md"===projectName&&(!function(e,t,n,c,o,a,s){e.fbq||(o=e.fbq=function(){o.callMethod?o.callMethod.apply(o,arguments):o.queue.push(arguments)},e._fbq||(e._fbq=o),o.push=o,o.loaded=!0,o.version="2.0",o.queue=[],(a=t.createElement(n)).async=!0,a.src="https://connect.facebook.net/en_US/fbevents.js",(s=t.getElementsByTagName(n)[0]).parentNode.insertBefore(a,s))}(window,document,"script"),fbq("init","273977092168320"),fbq("track","PageView"))</script>
+
+ Preț găsit: 1000 lei
+
+ Conținutul paginii https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra (primele 2000 de caractere):
+<!DOCTYPE html>
+<html lang="ro">
+
+<head>
+    <meta charset="utf-8">
+    <!--Viewport-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!--csrf-token-->
+    <meta name="csrf-token" content="5YREgO9Azjlvoo855WHbGxjmzdG1EPKpWfrmZZQ9">
+
+            <title>Cumpara Samsung S24 | S24 + | S24 Ultra in Darwin MD</title>
+        <meta property="og:title" content="Cumpara Samsung S24 | S24 + | S24 Ultra in Darwin MD"/>
+                <meta name="description" content="Samsung S24, Samsung S24 +, Samsung S24 Ultra la pret accesibil cu credit 0% si livrare gratuita numai in Darwin!"/>
+        <meta property="og:description" content="Samsung S24, Samsung S24 +, Samsung S24 Ultra la pret accesibil cu credit 0% si livrare gratuita numai in Darwin!"/>
+        <meta property="og:image" content="https://darwin.md/build/assets/logo-jB5Wpaac.png"/>
+
+    <link rel="canonical" href="https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra"/>
+
+            <link
+            r
+ Preț găsit: 5000 lei
+
+ Conținutul paginii https://www.samsung.com/ro/smartphones/galaxy-s24/ (primele 2000 de caractere):
+<!DOCTYPE html>
+
+<html lang="ro-RO">
+    
+    <head>
+	<!-- PWA - manifest
+	<link rel="manifest" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/ro.json">
+	 -->
+	<!-- PWA - Browser Compatible
+	<script async src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
+	 -->
+	<!-- <meta name="theme-color" content="#0c4da2"> -->
+	<!-- Add to home screen for Safari on iOS -->
+    <!-- <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Samsung Shop">
+    <link rel="apple-touch-icon" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/icon/pwa_icon_192x192.png"> -->
+    <!-- Add to home screen for Windows -->
+    <!-- <meta name="msapplication-TileImage" content="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-c
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://www.orange.md/ro/shop/catalog/telefoane/samsung-galaxy-s24 (primele 2000 de caractere):
+<!--meta_robots= noindex, nofollow-->
+
+
+<!doctype html>
+<html lang="ro">
+<head>
+
+  <title>Orange Eshop</title>
+  <meta charset="utf-8">
+  <meta http-equiv="cache-control" content="no-cache">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=2,shrink-to-fit=no">
+  <meta name="google-site-verification" content="ySApXMT5QOR8kMV5DQz-L-4UsAqLh4PZ_9OdaeK1UtA" />
+  <link href="https://cdn.omd.md/assets/media/img/favicon.png" rel="shortcut icon" type="image/x-icon" />
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+  <!--SEO-->
+  <meta name="robots" content="index, follow" />
+
+  <meta name="description" content="Toate serviciile Â· Abonamente Â· Telefoane Â· TV Â· Tablete Â· Laptopuri Â· Modeme Â· Gadgeturi Â· Accesorii." />
+  <meta name="keywords" content="cumpara telefoane mobile in magazinul online Orange Moldova la preturi speciale cele mai mici livrare gratuita in mu
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://www.samsung.com/ro/smartphones/galaxy-s24/buy/ (primele 2000 de caractere):
+<!DOCTYPE html>
+
+
+<html lang="ro-RO" itemscope="">
+    
+    <head>
+	<!-- PWA - manifest
+	<link rel="manifest" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/ro.json">
+	 -->
+	<!-- PWA - Browser Compatible
+	<script async src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
+	 -->
+	<!-- <meta name="theme-color" content="#0c4da2"> -->
+	<!-- Add to home screen for Safari on iOS -->
+    <!-- <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Samsung Shop">
+    <link rel="apple-touch-icon" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/icon/pwa_icon_192x192.png"> -->
+    <!-- Add to home screen for Windows -->
+    <!-- <meta name="msapplication-TileImage" content="/etc.clientlibs/samsung/clientlib
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Analiză produs: {'position': 1, 'title': 'TUF Gaming｜Laptops For Gaming', 'link': 'https://www.asus.com/laptops/for-gaming/tuf-gaming/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.asus.com/laptops/for-gaming/tuf-gaming/&ved=2ahUKEwipj-P7nNWLAxUXh1YBHYqEFtAQFnoECB0QAQ', 'displayed_link': 'https://www.asus.com › laptops', 'favicon': 'https://serpapi.com/searches/67b8af34ae7bbda5438c06df/images/69f13008620863d24c630676d6c6da90be5e5922fcf4295d082052b3ff3ed844.png', 'snippet': 'ASUS sound cards deliver exceptiol audio via both PCIe® and USB interfaces for ultimate multimedia and gaming experiences.', 'snippet_highlighted_words': ['ASUS', 'gaming'], 'sitelinks': {'expanded': [{'title': 'See all TUF Gaming', 'link': 'https://www.asus.com/laptops/for-gaming/all-series/filter?Series=TUF-Gaming', 'snippet': 'ASUS TUF Gaming F16 (2025) ... 16 ... ASUS TUF Gaming F16 ...'}, {'title': 'ASUS TUF Gaming A18 (2025)', 'link': 'https://www.asus.com/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-a18-2025/', 'snippet': 'As the first 18-inch laptop in the TUF Gaming family, the A18 ...'}, {'title': 'ASUS TUF Gaming F16 (2025)', 'link': 'https://www.asus.com/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-f16-2025/', 'snippet': 'The TUF Gaming F16 comes equipped with a Intel® Core ...'}, {'title': 'ASUS TUF Gaming F16 (2024)', 'link': 'https://www.asus.com/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-f16-2024/', 'snippet': "ASUS's TUF Gaming F16 2024 inherits the consistent ..."}, {'title': 'ASUS TUF Gaming A15', 'link': 'https://www.asus.com/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-a15/', 'snippet': 'Geared for serious gaming and real-world durability, the TUF ...'}]}, 'source': 'ASUS'}
+
+ Analiză produs: {'position': 2, 'title': 'Laptopuri ASUS TUF Gaming – cumpără în Moldova', 'link': 'https://xstore.md/laptopuri/gaming/asus-tuf-gaming', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://xstore.md/laptopuri/gaming/asus-tuf-gaming&ved=2ahUKEwipj-P7nNWLAxUXh1YBHYqEFtAQFnoECBIQAQ', 'displayed_link': 'https://xstore.md › laptopuri › gaming › asus-tuf-gaming', 'favicon': 'https://serpapi.com/searches/67b8af34ae7bbda5438c06df/images/69f13008620863d24c630676d6c6da90fba80cdf8ec9ee1476a51a889bde0012.png', 'snippet': 'ASUS TUF Gaming ; Producator. ASUS ; Serie procesor. AMD Ryzen 5 ; Placă video. NVIDIA GeForce RTX 2050 ; Capacitatea RAM. 16 GB ; Unitate de stocare. 1 TB (SSD).', 'snippet_highlighted_words': ['ASUS TUF Gaming'], 'source': 'Xstore.md'}
+
+ Analiză produs: {'position': 3, 'title': 'ASUS TUF Gaming Microsite', 'link': 'https://www.asus.com/campaign/tuf-gaming/global/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.asus.com/campaign/tuf-gaming/global/&ved=2ahUKEwipj-P7nNWLAxUXh1YBHYqEFtAQFnoECBMQAQ', 'displayed_link': 'https://www.asus.com › global', 'favicon': 'https://serpapi.com/searches/67b8af34ae7bbda5438c06df/images/69f13008620863d24c630676d6c6da90b985fe8125be067b22ae3fd86b94b595.png', 'snippet': 'TUF Gaming is for those who demand superior durability, dependable stability and great gaming value. All TUF Gaming products are rigorously tested for endurance ...', 'snippet_highlighted_words': ['TUF Gaming'], 'sitelinks': {'inline': [{'title': 'TUF Gaming Z790-Plus WiFi', 'link': 'https://www.asus.com/motherboards-components/motherboards/tuf-gaming/tuf-gaming-z790-plus-wifi/'}, {'title': 'Alliance', 'link': 'https://www.asus.com/campaign/tuf-gaming/global/alliance.php'}, {'title': 'Promotion & event', 'link': 'https://www.asus.com/campaign/tuf-gaming/global/promotion.php'}, {'title': 'Article', 'link': 'https://www.asus.com/campaign/tuf-gaming/global/article.php'}]}, 'source': 'ASUS'}
+
+ Analiză produs: {'position': 4, 'title': 'TUF Gaming｜Motherboards', 'link': 'https://www.asus.com/motherboards-components/motherboards/tuf-gaming/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.asus.com/motherboards-components/motherboards/tuf-gaming/&ved=2ahUKEwipj-P7nNWLAxUXh1YBHYqEFtAQFnoECBcQAQ', 'displayed_link': 'https://www.asus.com › tuf-g...', 'favicon': 'https://serpapi.com/searches/67b8af34ae7bbda5438c06df/images/69f13008620863d24c630676d6c6da9047be226b63b04f36b39f1d920657e633.png', 'snippet': 'TUF Gaming series distills essential elements of the latest AMD and Intel® platforms, and combines them with game-ready features and proven durability.', 'snippet_highlighted_words': ['TUF Gaming series'], 'sitelinks': {'inline': [{'title': 'ASUS USA', 'link': 'https://www.asus.com/us/motherboards-components/motherboards/tuf-gaming/'}, {'title': 'TUF Gaming', 'link': 'https://www.asus.com/uk/motherboards-components/motherboards/tuf-gaming/'}, {'title': 'Tuf gaming z890-pro wifi', 'link': 'https://www.asus.com/motherboards-components/motherboards/tuf-gaming/tuf-gaming-z890-pro-wifi/'}, {'title': 'ASUS Canada', 'link': 'https://www.asus.com/ca-en/motherboards-components/motherboards/tuf-gaming/'}]}, 'source': 'ASUS'}
+
+ Analiză produs: {'position': 5, 'title': 'Asus - Gorilla ELECTRONICS', 'link': 'https://gorilla.md/ru/asus/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gorilla.md/ru/asus/&ved=2ahUKEwipj-P7nNWLAxUXh1YBHYqEFtAQFnoECCkQAQ', 'displayed_link': 'https://gorilla.md › asus', 'favicon': 'https://serpapi.com/searches/67b8af34ae7bbda5438c06df/images/69f13008620863d24c630676d6c6da900674edcfe21741de8f00a33a02283c1e.png', 'snippet': 'ASUS TUF F15 FX507VV-LP186 15.6″ (i7-13620H / 16GB / 512GB / RTX4060 8GB) No OS, Mecha Gray. 24.999 MDL В корзину. Codul produsului : 17098 ...', 'snippet_highlighted_words': ['ASUS TUF'], 'source': 'gorilla.md'}
+
+ Analiză produs: {'position': 6, 'title': 'TUF Gaming｜Monitors', 'link': 'https://www.asus.com/displays-desktops/monitors/tuf-gaming/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.asus.com/displays-desktops/monitors/tuf-gaming/&ved=2ahUKEwipj-P7nNWLAxUXh1YBHYqEFtAQFnoECDAQAQ', 'displayed_link': 'https://www.asus.com › tuf-g...', 'favicon': 'https://serpapi.com/searches/67b8af34ae7bbda5438c06df/images/69f13008620863d24c630676d6c6da907f1cda53b2d73ac21ccecca5c1867cbb.png', 'snippet': 'TUF Gaming monitors are ideal for competitive gamers on a budget, delivering a carefully selected set of high-end gaming features at palatable prices.', 'snippet_highlighted_words': ['TUF Gaming monitors are ideal for competitive gamers on a budget'], 'sitelinks': {'inline': [{'title': 'Monitors', 'link': 'https://www.asus.com/us/displays-desktops/monitors/tuf-gaming/'}, {'title': 'TUF Gaming', 'link': 'https://www.asus.com/in/displays-desktops/monitors/tuf-gaming/'}, {'title': 'TUF Gaming VG28UQL1A', 'link': 'https://www.asus.com/displays-desktops/monitors/tuf-gaming/tuf-gaming-vg28uql1a/'}, {'title': 'ASUS Singapore', 'link': 'https://www.asus.com/sg/displays-desktops/monitors/tuf-gaming/'}]}, 'source': 'ASUS'}
+
+ Analiză produs: {'position': 7, 'title': 'Laptopuri gaming seria Asus TUF Gaming', 'link': 'https://neocomputer.md/gaming-zone/notebook-gaming/asus-tuf-gaming', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://neocomputer.md/gaming-zone/notebook-gaming/asus-tuf-gaming&ved=2ahUKEwipj-P7nNWLAxUXh1YBHYqEFtAQFnoECCgQAQ', 'displayed_link': 'https://neocomputer.md › Gaming › Laptopuri Gaming', 'favicon': 'https://serpapi.com/searches/67b8af34ae7bbda5438c06df/images/69f13008620863d24c630676d6c6da9066f06e059335ebdc4f05c03a3db30a6c.png', 'snippet': 'Motive să alegi un laptop gaming ASUS TUF Gaming: ✔️ Performanță excepțională: Cu procesoare Intel Core i7 și plăci grafice NVIDIA GeForce RTX, laptopurile ...', 'snippet_highlighted_words': ['Performanță excepțională'], 'source': 'Neocomputer'}
+
+ Conținutul paginii https://www.asus.com/laptops/for-gaming/tuf-gaming/ (primele 2000 de caractere):
+<!doctype html>
+<html data-n-head-ssr dir="ltr" lang="en-us" data-n-head="%7B%22dir%22:%7B%22ssr%22:%22ltr%22%7D,%22lang%22:%7B%22ssr%22:%22en-us%22%7D%7D">
+  <head >
+    <title>TUF Gaming｜Laptops For Gaming｜ASUS Global</title><meta data-n-head="ssr" charset="utf-8"><meta data-n-head="ssr" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5.0"><meta data-n-head="ssr" data-hid="description" name="description" content="ASUS sound cards deliver exceptiol audio via both PCIe® and USB interfaces for ultimate multimedia and gaming experiences."><meta data-n-head="ssr" data-hid="og:title" property="og:title" content=""><meta data-n-head="ssr" data-hid="og:type" property="og:type" content="website"><meta data-n-head="ssr" data-hid="og:site_name" property="og:site_name" content="ASUS Global"><meta data-n-head="ssr" data-hid="og:description" property="og:description" content="Bristling with high-refresh rate displays and competitive GPUs, ultra-durable TUF Gaming laptop
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://xstore.md/laptopuri/gaming/asus-tuf-gaming (primele 2000 de caractere):
+<!doctype html>
+<html lang="ro">
+<head>
+        <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" href="https://xstore.md/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="https://xstore.md/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+        <title>Laptopuri ASUS TUF Gaming – cumpără în Moldova</title>
+    <meta name="description" content="Cumpără laptop ASUS TUF Gaming la cel mai bun preț · Garanție 2 ani · Livrare rapidă în Chișinău și Moldova · Promoții și reduceri · Credit avantajos · Caracteristici și specificații · Cea mai largă gamă în Moldova"/>
+    <meta property="og:title" content="Laptopuri ASUS TUF
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://www.asus.com/campaign/tuf-gaming/global/ (primele 2000 de caractere):
+<!doctype html>
+	<html lang="en">
+	<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel='profile' href='http://gmpg.org/xfn/11'><!--固定-->
+<link rel='shortcut icon' href='https://www.asus.com/campaign/tuf-gaming/img/favicon.ico'><!--固定-->
+<link rel='canonical' href='https://www.asus.com/campaign/tuf-gaming/global/'>
+<link rel='shortlink' href=''>
+
+<!--Web-->
+<title>ASUS TUF Gaming Microsite</title>
+<meta name='title' content='ASUS TUF Gaming Microsite'>
+<meta name='description' content='ASUS TUF Gaming is the all-new force for those who demand superior durability, dependable stability and great value in PC gaming. We&rsquo;ve created an extensive range of motherboards, laptop and desktop PCs, chassis, keyboards, mice and headsets, with many more exciting innovations on the way. Every TUF Gaming product is rigorously tested for stability and durability, loaded with gamer-plea
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://www.asus.com/motherboards-components/motherboards/tuf-gaming/ (primele 2000 de caractere):
+<!doctype html>
+<html data-n-head-ssr dir="ltr" lang="en-us" data-n-head="%7B%22dir%22:%7B%22ssr%22:%22ltr%22%7D,%22lang%22:%7B%22ssr%22:%22en-us%22%7D%7D">
+  <head >
+    <title>TUF Gaming｜Motherboards｜ASUS Global</title><meta data-n-head="ssr" charset="utf-8"><meta data-n-head="ssr" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5.0"><meta data-n-head="ssr" data-hid="description" name="description" content="TUF Gaming series distills essential elements of the latest AMD and Intel® platforms, and combines them with game-ready features and proven durability. Engineered with military-grade components, an upgraded power solution and a comprehensive set of cooling options, this motherboard delivers rock-solid performance with unwavering gaming stability."><meta data-n-head="ssr" data-hid="og:title" property="og:title" content=""><meta data-n-head="ssr" data-hid="og:type" property="og:type" content="website"><meta data-n-head="ssr" data-hid="og:site_name" proper
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://gorilla.md/ru/asus/ (primele 2000 de caractere):
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v23.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Asus - Gorilla ELECTRONICS</title>
+	<meta name="description" content="- Asus - Gorilla ELECTRONICS" />
+	<link rel="canonical" href="https://gorilla.md/ru/asus/" />
+	<meta property="og:locale" content="ru_RU" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Asus - Gorilla ELECTRONICS" />
+	<meta property="og:description" content="- Asus - Gorilla ELECTRONICS" />
+	<meta property="og:url" content="https://gorilla.md/ru/asus/" />
+	<meta property="og:site_name" content="Gorilla ELECTRONICS" />
+	<meta property="article:publisher" content="https://www.facebook.com/www.gorilla.md"
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://www.asus.com/displays-desktops/monitors/tuf-gaming/ (primele 2000 de caractere):
+<!doctype html>
+<html data-n-head-ssr dir="ltr" lang="en-us" data-n-head="%7B%22dir%22:%7B%22ssr%22:%22ltr%22%7D,%22lang%22:%7B%22ssr%22:%22en-us%22%7D%7D">
+  <head >
+    <title>TUF Gaming｜Monitors｜ASUS Global</title><meta data-n-head="ssr" charset="utf-8"><meta data-n-head="ssr" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5.0"><meta data-n-head="ssr" data-hid="description" name="description" content="ASUS storage products strike a balance between performance and aesthetics, bringing you high transmission speed and the best data storage experience."><meta data-n-head="ssr" data-hid="og:title" property="og:title" content=""><meta data-n-head="ssr" data-hid="og:type" property="og:type" content="website"><meta data-n-head="ssr" data-hid="og:site_name" property="og:site_name" content="ASUS Global"><meta data-n-head="ssr" data-hid="og:description" property="og:description" content="TUF Gaming monitors are ideal for competitive gamers on a budget, delivering a
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://neocomputer.md/gaming-zone/notebook-gaming/asus-tuf-gaming (primele 2000 de caractere):
+
+
+<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<!--[if IE 8 ]><html dir="ltr" lang="ro" class="ie8"><![endif]-->
+<!--[if IE 9 ]><html dir="ltr" lang="ro" class="ie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html dir="ltr" lang="ro" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Laptopuri gaming Asus TUF Gaming in Chisinau si MD - NeoComputer.md</title>
+    <base href="https://neocomputer.md/"/>
+
+
+    
+<link rel="stylesheet" href="/catalog/view/front/css/app.min.css?5e2c12fe85ecf0fa1131">
+<link rel="stylesheet" href="/catalog/view/front/css/global.min.css?5e2c12fe85ecf0fa1131">
+
+    <link rel="stylesheet" href="catalog/view/theme/neocomputer/stylesheet/cssnou.css" />
+    <link rel="stylesheet" href="catalog/view/theme/neocomputer/stylesheet/wss.css" />
+            <link hre
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Analiză produs: {'position': 1, 'title': 'Rezultatul căutării "philips one blade" - Chișinău', 'link': 'https://maximum.md/ro/search?query=philips+one+blade', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://maximum.md/ro/search%3Fquery%3Dphilips%2Bone%2Bblade&ved=2ahUKEwi2msyxndWLAxVlSTABHfXXMcAQFnoECAgQAQ', 'displayed_link': 'https://maximum.md › search › query=philips+one+blade', 'thumbnail': 'https://serpapi.com/searches/67b8afa5266a0ab6304f1669/images/520ca08ca18f645750ed669a644102e7219c2eef0fe7740b9bfe074ddb493540.jpeg', 'favicon': 'https://serpapi.com/searches/67b8afa5266a0ab6304f1669/images/520ca08ca18f645750ed669a644102e7da5821497eee479e507813df6c7b3b95.png', 'snippet': 'Numărul setărilor de lungime: 14 / Gama setărilor de lungime, mm: 0.4-10 / Sistem de urmărire a conturului feţei: da / Număr de accesorii: 3.', 'source': 'MAXIMUM'}
+
+ Analiză produs: {'position': 2, 'title': 'Philips Norelco OneBlade Razors: Trim, Edge & Shave', 'link': 'https://www.usa.philips.com/c-m-pe/oneblade-trim-edge-and-shave', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.usa.philips.com/c-m-pe/oneblade-trim-edge-and-shave&ved=2ahUKEwi2msyxndWLAxVlSTABHfXXMcAQFnoECBwQAQ', 'displayed_link': 'https://www.usa.philips.com › ...', 'thumbnail': 'https://serpapi.com/searches/67b8afa5266a0ab6304f1669/images/520ca08ca18f645750ed669a644102e727b0eb91bd126e82f7c9eb9b5edd8aa4.jpeg', 'favicon': 'https://serpapi.com/searches/67b8afa5266a0ab6304f1669/images/520ca08ca18f645750ed669a644102e770e4c02471a7d6a8eba80e4ae8801691.png', 'snippet': 'Philips Norelco OneBlade 360 uses revolutionary technology and dual protection to make facial and body grooming easy on skin. Trim, edge & shave any hair ...', 'snippet_highlighted_words': ['Philips Norelco OneBlade 360'], 'sitelinks': {'inline': [{'title': 'OneBlade', 'link': 'https://www.usa.philips.com/c-m-pe/oneblade-trim-edge-and-shave/latest'}, {'title': 'OneBlade replacement blades', 'link': 'https://www.usa.philips.com/c-m-pe/oneblade-trim-edge-and-shave/oneblade-replacement-blades/latest'}, {'title': 'OneBlade Intimate', 'link': 'https://www.usa.philips.com/c-m-pe/oneblade-trim-edge-and-shave/oneblade-intimate'}, {'title': 'Face + Body', 'link': 'https://www.usa.philips.com/c-m-pe/oneblade-trim-edge-and-shave/oneblade-360-face-body'}]}, 'source': 'Philips'}
+
+ Analiză produs: {'position': 3, 'title': 'OneBlade – tuns, conturat, bărbierit (20)', 'link': 'https://www.philips.ro/c-m-pe/oneblade-tuns-conturat-barbierit/latest', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.philips.ro/c-m-pe/oneblade-tuns-conturat-barbierit/latest&ved=2ahUKEwi2msyxndWLAxVlSTABHfXXMcAQFnoECBYQAQ', 'displayed_link': 'https://www.philips.ro › c-m-pe › latest', 'thumbnail': 'https://serpapi.com/searches/67b8afa5266a0ab6304f1669/images/520ca08ca18f645750ed669a644102e7e6020369ccf55470f9dc28c12150645e.jpeg', 'favicon': 'https://serpapi.com/searches/67b8afa5266a0ab6304f1669/images/520ca08ca18f645750ed669a644102e7e9bc03c87bc69da72fb02d050109fe73.png', 'snippet': 'Descopera Philips Oneblade – tuns, conturat si barbierit. Afla de ce Oneblade corespunde nevoilor tale. Compara, citeste recenzii şi comanda online.', 'snippet_highlighted_words': ['Philips Oneblade'], 'source': 'Philips'}
+
+ Analiză produs: {'position': 4, 'title': 'Trimmer facial Philips QP2520/ 20 OneBlade Green', 'link': 'https://enter.online/aparate-de-ras-si-tuns/trimmer-facial/philips-qp2520-20-oneblade-green', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enter.online/aparate-de-ras-si-tuns/trimmer-facial/philips-qp2520-20-oneblade-green&ved=2ahUKEwi2msyxndWLAxVlSTABHfXXMcAQFnoECCcQAQ', 'displayed_link': 'https://enter.online › aparate-de-ras-si-tuns › philips-qp...', 'thumbnail': 'https://serpapi.com/searches/67b8afa5266a0ab6304f1669/images/520ca08ca18f645750ed669a644102e7540190a772bfb60e3881a59e0b3ebbeb.jpeg', 'favicon': 'https://serpapi.com/searches/67b8afa5266a0ab6304f1669/images/520ca08ca18f645750ed669a644102e7511d443a94c13c0cef87844b46a1e58c.png', 'snippet': 'Trimmer facial Philips QP2520/ 20 OneBlade Green ; Cod: 00-01036480-001 ; Timpul de lucru, 45 min ; Material cuțit de rulare, Oțel inoxidabil ; Puterea, 2 W.', 'snippet_highlighted_words': ['Trimmer facial Philips QP2520/ 20 OneBlade Green'], 'source': 'Enter'}
+
+ Analiză produs: {'position': 5, 'title': 'Trimmer Philips QP2824/20 OneBlade Green', 'link': 'https://darwin.md/trimmer-philips-qp2824-20-oneblade-green.html', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/trimmer-philips-qp2824-20-oneblade-green.html&ved=2ahUKEwi2msyxndWLAxVlSTABHfXXMcAQFnoECB8QAQ', 'displayed_link': 'https://darwin.md › Îngrijire personală › Trimmere faciale', 'thumbnail': 'https://serpapi.com/searches/67b8afa5266a0ab6304f1669/images/520ca08ca18f645750ed669a644102e784a269a6ffedc7fc09633a010d67b77f.jpeg', 'favicon': 'https://serpapi.com/searches/67b8afa5266a0ab6304f1669/images/520ca08ca18f645750ed669a644102e70c8a69861f9ce0675212e80ed4ec20a3.png', 'snippet': 'Trimmer Philips QP2824/20 OneBlade Green ; Specificaţii, Tehnologia OneBlade ; Mod operare, Mecanic ; Specificatii. Material carcasă, Plastic. Complectație ...', 'snippet_highlighted_words': ['Trimmer Philips QP2824/20 OneBlade Green'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 5.0, 'reviews': 1}, 'extensions': ['5,0(1)']}}, 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 6, 'title': 'Trimmer pentru bărbați Philips OneBlade Pro 360 ... - Ultra', 'link': 'https://ultra.md/product/trimmer-philips-qp655117', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ultra.md/product/trimmer-philips-qp655117&ved=2ahUKEwi2msyxndWLAxVlSTABHfXXMcAQFnoECCQQAQ', 'displayed_link': 'https://ultra.md › Îngrijire Personală › Trimmere', 'thumbnail': 'https://serpapi.com/searches/67b8afa5266a0ab6304f1669/images/520ca08ca18f645750ed669a644102e7ed508848928e4f97918f2840634a48f9.jpeg', 'favicon': 'https://serpapi.com/searches/67b8afa5266a0ab6304f1669/images/520ca08ca18f645750ed669a644102e7d86e5a0cd19f0f85ff4091903dd4a91b.png', 'snippet': 'Trimmer pentru bărbați Philips OneBlade Pro 360 QP6551/17, Crom ; Număr moduri de lungime: 14 ; Material lama: Oțel inoxidabil ; Tip Baterie: Baterie proprie ; Tip ...', 'snippet_highlighted_words': ['Trimmer pentru bărbați Philips OneBlade Pro 360 QP6551/17'], 'source': 'Ultra.md'}
+
+ Analiză produs: {'position': 7, 'title': 'Philips OneBlade Face & Body, Authentic Hybrid Electric ...', 'link': 'https://www.amazon.co.uk/Philips-OneBlade-Original-Hybrid-Face/dp/B0CG6WXFCH', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.co.uk/Philips-OneBlade-Original-Hybrid-Face/dp/B0CG6WXFCH&ved=2ahUKEwi2msyxndWLAxVlSTABHfXXMcAQFnoECDsQAQ', 'displayed_link': 'https://www.amazon.co.uk › Philips-OneBlade-Original...', 'favicon': 'https://serpapi.com/searches/67b8afa5266a0ab6304f1669/images/520ca08ca18f645750ed669a644102e7f1e733617138e779205451fbc7c21939.png', 'snippet': 'Authentic hybrid electric beard trimmer, shaver, and body groomer. Incl. 3X Original Blades (1 Year Supply), 5-in-1 Adjustable Comb, 1 x Body Kit.', 'snippet_highlighted_words': ['Authentic hybrid electric beard trimmer, shaver, and body groomer'], 'source': 'Amazon UK'}
+
+ Analiză produs: {'position': 8, 'title': 'Philips PC Trimer OneBlade 1st Shave, autonomie 30 min', 'link': 'https://ff.md/products/philips-pc-trimer-oneblade-1st-shave-autonomie-30-min-incarcare-8h-nimh-1x-lama-anti-friction-qp132420?srsltid=AfmBOoqIMYaLhB6wCDRPNUBFORizzwZ2qThz-0U1iUcTufB-ifURa1FL', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ff.md/products/philips-pc-trimer-oneblade-1st-shave-autonomie-30-min-incarcare-8h-nimh-1x-lama-anti-friction-qp132420%3Fsrsltid%3DAfmBOoqIMYaLhB6wCDRPNUBFORizzwZ2qThz-0U1iUcTufB-ifURa1FL&ved=2ahUKEwi2msyxndWLAxVlSTABHfXXMcAQFnoECD8QAQ', 'displayed_link': 'https://ff.md › products › philips-pc-trimer-oneblade-1s...', 'thumbnail': 'https://serpapi.com/searches/67b8afa5266a0ab6304f1669/images/520ca08ca18f645750ed669a644102e7096b5e4ba788a3aab5ec6e5d86e576e8.jpeg', 'favicon': 'https://serpapi.com/searches/67b8afa5266a0ab6304f1669/images/520ca08ca18f645750ed669a644102e72eb1422b59a4f659bdf9ebdb24afb4ae.png', 'date': '1 ian. 2025', 'snippet': 'Philips PC Trimer OneBlade 1st Shave, autonomie 30 min/ incarcare 8h (NiMH), 1x lama Anti-friction QP1324/20 · Descriere · Părerile Clienţilor.', 'snippet_highlighted_words': ['Philips PC Trimer OneBlade 1st Shave'], 'source': 'ff.md'}
+
+ Analiză produs: {'position': 9, 'title': 'PHILIPS OneBlade Aparat de bărbierit și tuns barba, 1 buc', 'link': 'https://www.dm.ro/philips-oneblade-aparat-de-barbierit-si-tuns-barba-p8720689020725.html', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dm.ro/philips-oneblade-aparat-de-barbierit-si-tuns-barba-p8720689020725.html&ved=2ahUKEwi2msyxndWLAxVlSTABHfXXMcAQFnoECEUQAQ', 'displayed_link': 'https://www.dm.ro › philips-oneblade-aparat-de-barbier...', 'thumbnail': 'https://serpapi.com/searches/67b8afa5266a0ab6304f1669/images/520ca08ca18f645750ed669a644102e7f7028ae2ad20a91009f5ae7e06e7d595.jpeg', 'favicon': 'https://serpapi.com/searches/67b8afa5266a0ab6304f1669/images/520ca08ca18f645750ed669a644102e7f5bc55a252dd81a6d1e4beb1951df781.png', 'snippet': 'Philips OneBlade este un aparat hibrid nou şi revoluţionar pentru aranjarea bărbii, care poate să tundă, să bărbierească, precum şi să creeze linii şi ...', 'snippet_highlighted_words': ['Philips OneBlade'], 'source': 'dm România'}
+
+ Analiză produs: {'position': 10, 'title': 'Триммер Philips QP2821/20 One Blade', 'link': 'https://maximum.md/ru/6552023/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://maximum.md/ru/6552023/&ved=2ahUKEwi2msyxndWLAxVlSTABHfXXMcAQFnoECDkQAQ', 'displayed_link': 'https://maximum.md › ...', 'thumbnail': 'https://serpapi.com/searches/67b8afa5266a0ab6304f1669/images/520ca08ca18f645750ed669a644102e7d5a92eef8b9f67d60d0ecacfc179339a.jpeg', 'favicon': 'https://serpapi.com/searches/67b8afa5266a0ab6304f1669/images/520ca08ca18f645750ed669a644102e70482a745860aaa85be7f596edc981407.png', 'snippet': 'OneBlade повторяет контуры лица и обеспечивает легкое и комфортное подравнивание и бритье щетины на любых участках. Двустороннее лезвие можно перемещать в любом ...', 'snippet_highlighted_words': ['OneBlade'], 'source': 'MAXIMUM'}
+
+ Conținutul paginii https://maximum.md/ro/search?query=philips+one+blade (primele 2000 de caractere):
+<!DOCTYPE html> <html lang="ro"> <head>  <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <meta itemprop="name" content="About company"> <meta name="title" content="🅼 philips one blade cumpăra la preț avantajos în Chișinău, Bălți, Comrat, Comrat, Taraclia, Moldova / Internet-magazin MAXIMUM"> <meta name="description" content="Cumpără avantajos tehnica philips one blade în magazin online maximum.md ⭐În rate 0%, credit, plata în tranșe ⭐Garanție oficială ⭐Caracteristici, foto, recenzii, comentarii ⭐Orice metodă de achitare ⭐Consultație profesionale ⭐Redicare, livrare rapidă în Chișinău și Moldova ☎Comandă prin telefon: +373(22)54-54-54 🅼 Internet-magazin maximum.md"> <meta name="keywords" content=""> <meta name="yandex-verification" content="d33c9d00728a0753"/> <meta name="theme-color" content="#00aeef"> <meta name="google-site-verification" content="ytErcfonExGHs_GlvwYrulcQYTZ9LzIpoJvg1Kfh3Pw" /> <meta name="facebook-domain-verification" cont
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://www.usa.philips.com/c-m-pe/oneblade-trim-edge-and-shave (primele 2000 de caractere):
+<!DOCTYPE HTML><html lang="en-us" dir="ltr" class="no-js non-ie" xmlns:wb="http://open.weibo.com/wb"> <head> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1"> <link rel="preconnect" href="https://www.googletagmanager.com"> <link rel="preconnect" href="https://images.philips.com"> <link rel="preconnect" href="https://consent.trustarc.com/"> <link rel="preconnect" href="https://philipselectronicsne.tt.omtrdc.net" crossorigin="use-credentials"> <link rel="preconnect" href="https://www.googleoptimize.com"> <link rel="preload" href="/c-etc/philips/clientlibs/foundation-base/clientlibs-css-rb2014/fonts/neuefrutigerworld-1.20.0-w02/NeueFrutigerWorldW02-Book.woff2" as="font" type="font/woff2" media="(min-width:701px)" crossorigin> <link rel="preload" href="/c-etc/philips/clientlibs/foundation-base/clientlibs-css-rb2014/fonts/neuefrutigerworld-1.20.0-w02/NeueFrutigerWorldW02-Bold.woff2" as="font" type="font/woff2" media="(min-width:701px)" crossorigin> 
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://www.philips.ro/c-m-pe/oneblade-tuns-conturat-barbierit/latest (primele 2000 de caractere):
+<!DOCTYPE HTML><html lang="ro-ro" dir="ltr" class="no-js non-ie" xmlns:wb="http://open.weibo.com/wb"> <head> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1"> <link rel="preconnect" href="https://www.googletagmanager.com"> <link rel="preconnect" href="https://images.philips.com"> <link rel="preconnect" href="https://consent.trustarc.com/"> <link rel="preconnect" href="https://philipselectronicsne.tt.omtrdc.net" crossorigin="use-credentials"> <link rel="preconnect" href="https://www.googleoptimize.com"> <link rel="preload" href="/c-etc/philips/clientlibs/foundation-base/clientlibs-css-rb2014/fonts/neuefrutigerworld-1.20.0-w02/NeueFrutigerWorldW02-Book.woff2" as="font" type="font/woff2" media="(min-width:701px)" crossorigin> <link rel="preload" href="/c-etc/philips/clientlibs/foundation-base/clientlibs-css-rb2014/fonts/neuefrutigerworld-1.20.0-w02/NeueFrutigerWorldW02-Bold.woff2" as="font" type="font/woff2" media="(min-width:701px)" crossorigin> 
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://enter.online/aparate-de-ras-si-tuns/trimmer-facial/philips-qp2520-20-oneblade-green (primele 2000 de caractere):
+<!doctype html>
+<html lang="ro" dir="ltr">
+<head>
+            <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="https://enter.online/img/favicon-32x32.png?1" type="image/x-icon">
+    <link rel="shortcut icon" href="https://enter.online/img/favicon-32x32.png?1" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://enter.online/img/apple-touch-icon.png?2">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://enter.online/img/favicon-32x32.png?1">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://enter.online/img/favicon-16x16.png?1">
+        <title>
+        Trimmer facial Philips QP2520 20 OneBlade Philips - pe enter.online</title>
+    <meta
+        property="og:title"
+        content='Trimmer facial Philips QP2520 20 OneBlade Philips - pe enter.online'
+    />
+    <meta
+        name="description"
+        content='Cauti Trimmer facial Philips QP2520 20 OneBla
+ Preț găsit: 5000 lei
+
+ Conținutul paginii https://darwin.md/trimmer-philips-qp2824-20-oneblade-green.html (primele 2000 de caractere):
+<!DOCTYPE html>
+<html lang="ro">
+
+<head>
+    <meta charset="utf-8">
+    <!--Viewport-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!--csrf-token-->
+    <meta name="csrf-token" content="cO06AYwuGAxy7NUPVhewD3MHHwQFptflTKjGYvOF">
+
+            <title>Trimmer Philips QP2824/20 OneBlade Green</title>
+        <meta property="og:title" content="Trimmer Philips QP2824/20 OneBlade Green"/>
+                <meta name="description" content=""/>
+        <meta property="og:description" content=""/>
+        <meta property="og:image" content="https://darwin.md/media/621904/conversions/darwin-trimmer-philips-qp2824-20-oneblade-green-655399-thumb.jpeg"/>
+
+    <link rel="canonical" href="https://darwin.md/trimmer-philips-qp2824-20-oneblade-green.html"/>
+
+            <link
+            rel="alternate"
+            hreflang="ro-md"
+            href="https://darwin.md/trimmer-philips-qp2824-20-oneblade-green.html"
+            title="Română">
+            <link
+            r
+ Preț găsit: 5000 lei
+
+ Conținutul paginii https://ultra.md/product/trimmer-philips-qp655117 (primele 2000 de caractere):
+<!DOCTYPE html>
+<html lang="ro"
+      class="overflow-x-hidden">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=0">
+    <meta name="csrf-token" content="PLMRdSg9gxnHTrnZUlySHtTWlbbgBxWa8kli94K0">
+    <meta name="google-site-verification" content="65ytHDKEmWdsMQn2TXtz2tqzJoSsblE5FtTVQKjb4TE" />
+    <title>Trimmer pentru bărbați Philips OneBlade Pro 360 QP6551/17, Crom cumpara in Chisinau | Ultra.md</title>
+
+    <meta name="description" content="Trimmer pentru bărbați Philips OneBlade Pro 360 QP6551/17, Crom in credit 0%">
+    <meta name="keywords" content="Trimmer pentru bărbați Philips OneBlade Pro 360 QP6551/17, Crom livrare rapidă, cel mai bun pret, garantie, Chisinău, Moldova">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="application-name" content="Trimmer pentru bărbați Philips OneBlade Pro 360 QP6551/17, Crom cumpara in Chisinau | Ultra.md">
+
+    <meta name="og
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://www.amazon.co.uk/Philips-OneBlade-Original-Hybrid-Face/dp/B0CG6WXFCH (primele 2000 de caractere):
+<!doctype html><html lang="en-gb" class="a-no-js" data-19ax5a9jf="dingo"><!-- sp:feature:head-start -->
+<head><script>var aPageStart = (new Date()).getTime();</script><meta charset="utf-8"/>
+<!-- sp:end-feature:head-start -->
+<!-- sp:feature:csm:head-open-part1 -->
+
+<script type='text/javascript'>var ue_t0=ue_t0||+new Date();</script>
+<!-- sp:end-feature:csm:head-open-part1 -->
+<!-- sp:feature:cs-optimization -->
+<meta http-equiv='x-dns-prefetch-control' content='on'>
+<link rel="dns-prefetch" href="https://images-eu.ssl-images-amazon.com">
+<link rel="dns-prefetch" href="https://m.media-amazon.com">
+<link rel="dns-prefetch" href="https://completion.amazon.com">
+<!-- sp:end-feature:cs-optimization -->
+<!-- sp:feature:csm:head-open-part2 -->
+<script type='text/javascript'>
+window.ue_ihb = (window.ue_ihb || window.ueinit || 0) + 1;
+if (window.ue_ihb === 1) {
+
+var ue_csm = window,
+    ue_hob = +new Date();
+(function(d){var e=d.ue=d.ue||{},f=Date.now||function(){return+new Date};e.d=function
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://ff.md/products/philips-pc-trimer-oneblade-1st-shave-autonomie-30-min-incarcare-8h-nimh-1x-lama-anti-friction-qp132420?srsltid=AfmBOoqIMYaLhB6wCDRPNUBFORizzwZ2qThz-0U1iUcTufB-ifURa1FL (primele 2000 de caractere):
+<!doctype html>
+<html class="no-js" lang="ro-RO">
+  <head>
+    <!-- Meta Pixel Code --><script> !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window, document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '243636113830805'); fbq('track', 'PageView'); </script> <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=243636113830805&ev=PageView&noscript=1" /></noscript> <!-- End Meta Pixel Code -->
+    <meta name="google-site-verification" content="rktxMx94kH_VHqPdDfNhl53_KAqQ95ZzFfHUjoXYSAM" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://www.dm.ro/philips-oneblade-aparat-de-barbierit-si-tuns-barba-p8720689020725.html (primele 2000 de caractere):
+<!DOCTYPE html>
+<html lang="ro" dir="ltr">
+<head>
+	<meta charset="UTF-8">
+	<title>Pagina principală | dm drogerie markt România</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="manifest" href="/manifest.json">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#002878">
+    <link rel="apple-touch-startup-image"
+    	  media="(width: 414px) and (height: 896px) and (-webkit-device-pixel-ratio: 3)"
+    	  href="/screen/splashscreen_1242x2688.png">
+    <link rel="apple-touch-startup-image"
+    	  media="(width: 414px) and (height: 896px) and (-webkit-device-pixel-ratio: 2)"
+    	  href="/screen/splashscreen_828x1792.png">
+    <link rel="apple-touch-startup-image"
+    	  media="(width: 375px) and (height: 
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://maximum.md/ru/6552023/ (primele 2000 de caractere):
+<!DOCTYPE html> <html lang="ru"> <head>  <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <meta itemprop="name" content="About company"> <meta name="title" content="Триммер Philips QP2821/20 One Blade купить по низкой цене в Кишинёве, Бельцах, Кагул, Комрате, Тараклии, Молдове / Интернет-магазин MAXIMUM"> <meta name="description" content="Купить по лучшей цене Триммер Philips QP2821/20 One Blade в онлайн-магазине maximum.md ⭐Рассрочка 0%, кредит, оплата частями ⭐Официальная гарантия ⭐Характеристики, фото, отзывы, обзоры ⭐Любые способы оплаты ⭐Профессиональная консультация ⭐Самовывоз, быстрая доставка по Кишинёву и Молдове ☎Заказ по телефону: +373(22)54-54-54 🅼 Интернет-магазин maximum.md"> <meta name="keywords" content="Триммер Philips QP2821/20 One Blade,"> <meta name="yandex-verification" content="d33c9d00728a0753"/> <meta name="theme-color" content="#00aeef"> <meta name="google-site-verification" content="ytErcfonExGHs_GlvwYrulcQYTZ9LzIpo
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Analiză produs: {'position': 1, 'title': 'Noile Apple iPhone 14 in Chisinau si Moldova - Smartphone', 'link': 'https://darwin.md/telefoane/smartphone/apple-iphone-14', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/telefoane/smartphone/apple-iphone-14&ved=2ahUKEwiyttnvn9WLAxXZD9AFHX-aJLIQFnoECBQQAQ', 'displayed_link': 'https://darwin.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67b8b240198ce47c5d3e1a56/images/4f9e156daa21197fff6338759b7fa73d90871b5ff5c38f331f9ee1f03bdef835.png', 'snippet': 'Apple iPhone 14 la prețuri accesibile în gadget store-ul Darwin. Cumpără iPhone 14 cu garanție, posibilitate de creditare și livrare gratuită în Moldova.', 'snippet_highlighted_words': ['Apple iPhone 14 la prețuri accesibile în gadget store-ul Darwin'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 2, 'title': 'Apple iPhone 14 5G 128GB | Онлайн магазин Orange Moldova', 'link': 'https://eshop.orange.md/ro/catalog/telefoane/toate-telefoanele/iphone-14-128gb.html', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://eshop.orange.md/ro/catalog/telefoane/toate-telefoanele/iphone-14-128gb.html&ved=2ahUKEwiyttnvn9WLAxXZD9AFHX-aJLIQFnoECBwQAQ', 'displayed_link': 'https://eshop.orange.md › i...', 'favicon': 'https://serpapi.com/searches/67b8b240198ce47c5d3e1a56/images/4f9e156daa21197fff6338759b7fa73d171d9034375a7fb21789e4a487a8a05e.png', 'snippet': 'ДатчикиИдентификатор лица | Акселерометр, гироскоп, близость | Компас | Барометр | Поддержка сверхширокополосной связи (UWB) | Экстренная SOS через спутник.', 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 3, 'title': 'Apple iPhone 14 Chisinau | iPhone 14 Moldova', 'link': 'https://www.smart.md/ro/apple-iphone-14', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.smart.md/ro/apple-iphone-14&ved=2ahUKEwiyttnvn9WLAxXZD9AFHX-aJLIQFnoECBUQAQ', 'displayed_link': 'https://www.smart.md › ... › Smartphone Apple', 'favicon': 'https://serpapi.com/searches/67b8b240198ce47c5d3e1a56/images/4f9e156daa21197fff6338759b7fa73d5ab6d9dad67fd606da2aa969b5d0d149.png', 'snippet': 'In centrul iPhone 14 se afla puternicul cip A15 Bionic, conceput pentru a oferi performante fulgeratoare si eficienta de neegalat. Dispunand de o arhitectura de ...', 'snippet_highlighted_words': ['puternicul cip A15 Bionic'], 'source': 'smart.md'}
+
+ Analiză produs: {'position': 4, 'title': 'Apple iPhone 14, 14 Plus, 14 Pro si 14 Pro Max', 'link': 'https://enter.online/telefoane/smartphone-uri/apple-iphone-14-2022', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enter.online/telefoane/smartphone-uri/apple-iphone-14-2022&ved=2ahUKEwiyttnvn9WLAxXZD9AFHX-aJLIQFnoECBYQAQ', 'displayed_link': 'https://enter.online › telefoane › smartphone-uri › apple...', 'favicon': 'https://serpapi.com/searches/67b8b240198ce47c5d3e1a56/images/4f9e156daa21197fff6338759b7fa73d8602dd24c1ed7cd6e74e27fcf5860463.png', 'snippet': 'Noile smartphone-uri Apple iPhone 14, 14 Plus, 14 Pro și 14 Pro Max deja și în Moldova, de la Apple Authorized Reseller - ENTER. Cele mai bune preturi, ...', 'snippet_highlighted_words': ['Apple iPhone 14, 14 Plus, 14 Pro și 14 Pro Max'], 'source': 'enter.online'}
+
+ Analiză produs: {'position': 5, 'title': 'Apple iPhone 14 256GB SS Blue în Chișinău, Moldova', 'link': 'https://alo.md/ro/apple-4/apple-iphone-14-256gb-ss-blue', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://alo.md/ro/apple-4/apple-iphone-14-256gb-ss-blue&ved=2ahUKEwiyttnvn9WLAxXZD9AFHX-aJLIQFnoECBIQAQ', 'displayed_link': 'https://alo.md › ... › Smartphone toate brăndurile › Apple', 'favicon': 'https://serpapi.com/searches/67b8b240198ce47c5d3e1a56/images/4f9e156daa21197fff6338759b7fa73d4151a1e79a7737422e1685cd20fc4669.png', 'snippet': 'Bun venit în lumea tehnologiei inovatoare cu noul iPhone 14! Echipat cu un puternic procesor Apple A15 Bionic și 6 GB de memorie RAM, acest telefon este ...', 'snippet_highlighted_words': ['iPhone 14'], 'source': 'Alo. Md'}
+
+ Analiză produs: {'position': 6, 'title': 'Buy iPhone 14 and iPhone 14 Plus', 'link': 'https://www.apple.com/shop/buy-iphone/iphone-14', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.apple.com/shop/buy-iphone/iphone-14&ved=2ahUKEwiyttnvn9WLAxXZD9AFHX-aJLIQFnoECBoQAQ', 'displayed_link': 'https://www.apple.com › iPhone › iPhone 14', 'favicon': 'https://serpapi.com/searches/67b8b240198ce47c5d3e1a56/images/4f9e156daa21197fff6338759b7fa73d46a941cd8d117c0c3ebfc71630e2c613.png', 'snippet': 'Get iPhone 14 and iPhone 14 Plus for an amazing price with special carrier trade-in offers. Make low monthly payments at 0% APR. Buy now with fast, ...', 'snippet_highlighted_words': ['Get iPhone 14 and iPhone 14 Plus for an amazing price'], 'source': 'Apple'}
+
+ Analiză produs: {'position': 7, 'title': 'Apple iPhone 14 & 14 Plus în Chișinău și MD - ENTER.ONLINE', 'link': 'https://enter.online/telefoane/smartphone-uri/apple-iphone-14-si-14-plus', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enter.online/telefoane/smartphone-uri/apple-iphone-14-si-14-plus&ved=2ahUKEwiyttnvn9WLAxXZD9AFHX-aJLIQFnoECDwQAQ', 'displayed_link': 'https://enter.online › telefoane › smartphone-uri › apple...', 'favicon': 'https://serpapi.com/searches/67b8b240198ce47c5d3e1a56/images/4f9e156daa21197fff6338759b7fa73d9663259fdb559624978cf4295908d798.png', 'snippet': 'Fă cunoștință cu noile bestselleruri Apple iPhone 14 și 14 Plus în Moldova, la distribuitorul autorizat Apple - ENTER. În credit, cu garanție și livrare ...', 'snippet_highlighted_words': ['Apple iPhone 14 și 14 Plus'], 'source': 'enter.online'}
+
+ Analiză produs: {'position': 8, 'title': 'iPhone 14 128GB SS Midnight - Gorilla ELECTRONICS', 'link': 'https://gorilla.md/produs/iphone-14-128gb-midnight/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gorilla.md/produs/iphone-14-128gb-midnight/&ved=2ahUKEwiyttnvn9WLAxXZD9AFHX-aJLIQFnoECEEQAQ', 'displayed_link': 'https://gorilla.md › SMARTPHONE › Apple', 'favicon': 'https://serpapi.com/searches/67b8b240198ce47c5d3e1a56/images/4f9e156daa21197fff6338759b7fa73dac23c866e0a917764000771a81e50aec.png', 'snippet': 'iPhone 14 si iPhone 14 Plus. Alege intre ecranele Super Retina XDR stralucitor de 6,1 inchi sau 6,7 inchi. Realizeaza poze uimitoare in lumina slaba sau ...', 'snippet_highlighted_words': ['iPhone 14 si iPhone 14 Plus'], 'source': 'gorilla.md'}
+
+ Analiză produs: {'position': 9, 'title': 'Apple iPhone 14 Pro', 'link': 'https://darwin.md/telefoane/smartphone/apple-iphone-14-pro', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/telefoane/smartphone/apple-iphone-14-pro&ved=2ahUKEwiyttnvn9WLAxXZD9AFHX-aJLIQFnoECDkQAQ', 'displayed_link': 'https://darwin.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67b8b240198ce47c5d3e1a56/images/4f9e156daa21197fff6338759b7fa73dd1921fd5b60ea9a145f1658f821040b2.png', 'snippet': 'Noua generație Apple iPhone 14 PRO la preț avantajos în Moldova. Cumpără iPhone 14 PRO cu garanție, cashback garantat și livrare gratuită în magazinul ...', 'snippet_highlighted_words': ['iPhone 14 PRO'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 10, 'title': 'Smartphone-uri APPLE iPhone 14 Pro', 'link': 'https://breezy.md/smartphone/vendor=apple/series=iphone-14-pro', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://breezy.md/smartphone/vendor%3Dapple/series%3Diphone-14-pro&ved=2ahUKEwiyttnvn9WLAxXZD9AFHX-aJLIQFnoECDYQAQ', 'displayed_link': 'https://breezy.md › ... › APPLE', 'favicon': 'https://serpapi.com/searches/67b8b240198ce47c5d3e1a56/images/4f9e156daa21197fff6338759b7fa73d8b4a5c5451fd511d7e5e064a36c1de5f.png', 'snippet': 'iPhone 14 Pro este un adevărat flagship de la Apple, care îmbină tehnologii avansate, un design elegant și o performanță incredibilă. Acest smartphone este ...', 'snippet_highlighted_words': ['iPhone 14 Pro'], 'source': 'BREEZY.MD'}
+
+ Conținutul paginii https://darwin.md/telefoane/smartphone/apple-iphone-14 (primele 2000 de caractere):
+<!DOCTYPE html>
+<html lang="ro">
+
+<head>
+    <meta charset="utf-8">
+    <!--Viewport-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!--csrf-token-->
+    <meta name="csrf-token" content="qFZY1AJ0v5PGYemTYM8HworYkXBvNMI3vGdQkP2H">
+
+            <title>Noile Apple iPhone 14 in Chisinau si Moldova – Darwin</title>
+        <meta property="og:title" content="Noile Apple iPhone 14 in Chisinau si Moldova – Darwin"/>
+                <meta name="description" content="Apple iPhone 14 la prețuri accesibile în gadget store-ul Darwin. Cumpără iPhone 14 cu garanție, posibilitate de creditare și livrare gratuită în Moldova."/>
+        <meta property="og:description" content="Apple iPhone 14 la prețuri accesibile în gadget store-ul Darwin. Cumpără iPhone 14 cu garanție, posibilitate de creditare și livrare gratuită în Moldova."/>
+        <meta property="og:image" content="https://darwin.md/build/assets/logo-jB5Wpaac.png"/>
+
+    <link rel="canonical" href="https://darwi
+ Preț găsit: 5000 lei
+
+ Conținutul paginii https://eshop.orange.md/ro/catalog/telefoane/toate-telefoanele/iphone-14-128gb.html (primele 2000 de caractere):
+<!--meta_robots= noindex, nofollow-->
+
+
+<!doctype html>
+<html lang="ro">
+<head>
+
+  <title>Orange Eshop</title>
+  <meta charset="utf-8">
+  <meta http-equiv="cache-control" content="no-cache">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=2,shrink-to-fit=no">
+  <meta name="google-site-verification" content="ySApXMT5QOR8kMV5DQz-L-4UsAqLh4PZ_9OdaeK1UtA" />
+  <link href="https://cdn.omd.md/assets/media/img/favicon.png" rel="shortcut icon" type="image/x-icon" />
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+  <!--SEO-->
+  <meta name="robots" content="index, follow" />
+
+  <meta name="description" content="Toate serviciile Â· Abonamente Â· Telefoane Â· TV Â· Tablete Â· Laptopuri Â· Modeme Â· Gadgeturi Â· Accesorii." />
+  <meta name="keywords" content="cumpara telefoane mobile in magazinul online Orange Moldova la preturi speciale cele mai mici livrare gratuita in mu
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://www.smart.md/ro/apple-iphone-14 (primele 2000 de caractere):
+<!DOCTYPE html>
+<html dir="ltr" lang="ro">
+
+<head>
+	<base href="https://www.smart.md/"/>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title>Apple iPhone 14 Chisinau | iPhone 14 Moldova | Smart.md</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="theme-color" content="#ffcc33"/>
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="#ffcc33">
+	<meta name="msapplication-navbutton-color" content="#ffcc33">
+	<meta name="robots" content="INDEX,FOLLOW">
+	<meta name="author" content="Smart Click SRL">
+	<meta property="og:title" content="Apple iPhone 14 Chisinau | iPhone 14 Moldova | Smart.md">
+			<meta property="og:image" content="https://www.smart.md/image/data/undefined/smart_logo.png">
+	
+			<meta property="og:description" content="Apple iPhone 14 la smart.md: descoperiti inovatia Apple de
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://enter.online/telefoane/smartphone-uri/apple-iphone-14-2022 (primele 2000 de caractere):
+<!doctype html>
+<html lang="ro" dir="ltr">
+<head>
+            <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="https://enter.online/img/favicon-32x32.png?1" type="image/x-icon">
+    <link rel="shortcut icon" href="https://enter.online/img/favicon-32x32.png?1" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://enter.online/img/apple-touch-icon.png?2">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://enter.online/img/favicon-32x32.png?1">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://enter.online/img/favicon-16x16.png?1">
+        <title>Apple iPhone 14, 14 Plus, 14 Pro si 14 Pro Max | ENTER.ONLINE</title>
+    <meta
+        property="og:title"
+        content="Apple iPhone 14, 14 Plus, 14 Pro si 14 Pro Max | ENTER.ONLINE"
+    />
+    <meta
+        name="description"
+        content="Noile smartphone-uri Apple iPhone 14, 14 Plus, 14 Pro și 14 Pro Ma
+ Preț găsit: 5000 lei
+
+ Conținutul paginii https://alo.md/ro/apple-4/apple-iphone-14-256gb-ss-blue (primele 2000 de caractere):
+<!doctype html>
+<html data-n-head-ssr lang="ru" data-n-head="%7B%22lang%22:%7B%22ssr%22:%22ru%22%7D%7D">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+        <script>const $buildCannonicalUrl=t=>{if(!t)return;let i="https://alo.md/";return i.endsWith("/")&&(i=i.slice(0,-1)),t.startsWith(i)||t.includes("http")?t:t.startsWith("/")?i+t:i+"/"+t};if(window.location.href.includes("/ru/")){let t=window.location.href;window.location=t.replace("/ru/","/")}</script>
+
+        <script>let projectName="alo.md";"mi.md"===projectName&&(!function(e,t,n,c,o,a,s){e.fbq||(o=e.fbq=function(){o.callMethod?o.callMethod.apply(o,arguments):o.queue.push(arguments)},e._fbq||(e._fbq=o),o.push=o,o.loaded=!0,o.version="2.0",o.queue=[],(a=t.createElement(n)).async=!0,a.src="https://connect.facebook.net/en_US/fbevents.js",(s=t.getElementsByTagName(n)[0]).parentNode.insertBefore(a,s))}(window,document,"script"),fbq("init","273977092168320"),fbq("track","PageView"))</script>
+
+ Preț găsit: 1000 lei
+
+ Conținutul paginii https://www.apple.com/shop/buy-iphone/iphone-14 (primele 2000 de caractere):
+<!DOCTYPE html>
+<html class="no-js" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" dir="ltr" prefix="og: http://ogp.me/ns#">
+<head>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta charset="utf-8" />
+<link rel="canonical" href="https://www.apple.com/iphone/" />
+
+
+	
+	<link rel="alternate" href="https://www.apple.com/ae-ar/iphone/" hreflang="ar-AE" /><link rel="alternate" href="https://www.apple.com/ae/iphone/" hreflang="en-AE" /><link rel="alternate" href="https://www.apple.com/am/iphone/" hreflang="en-AM" /><link rel="alternate" href="https://www.apple.com/at/iphone/" hreflang="de-AT" /><link rel="alternate" href="https://www.apple.com/au/iphone/" hreflang="en-AU" /><link rel="alternate" href="https://www.apple.com/az/iphone/" hreflang="en-AZ" /><link rel="alternate" href="https://www.apple.com/befr/iphone/" hreflang="fr-BE" /><link rel="alternate" href="https://www.apple.com/benl/iphone/" hreflang="nl-BE" /><link rel="alternate" href="https://www.apple.com/bg/iphone/" hre
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://enter.online/telefoane/smartphone-uri/apple-iphone-14-si-14-plus (primele 2000 de caractere):
+<!doctype html>
+<html lang="ro" dir="ltr">
+<head>
+            <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="https://enter.online/img/favicon-32x32.png?1" type="image/x-icon">
+    <link rel="shortcut icon" href="https://enter.online/img/favicon-32x32.png?1" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://enter.online/img/apple-touch-icon.png?2">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://enter.online/img/favicon-32x32.png?1">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://enter.online/img/favicon-16x16.png?1">
+        <title>Apple iPhone 14 & 14 Plus în Chișinău și MD - ENTER.ONLINE</title>
+    <meta
+        property="og:title"
+        content="Apple iPhone 14 & 14 Plus în Chișinău și MD - ENTER.ONLINE"
+    />
+    <meta
+        name="description"
+        content="Fă cunoștință cu noile bestselleruri Apple iPhone 14 și 14 Plus în Moldo
+ Preț găsit: 5000 lei
+
+ Conținutul paginii https://gorilla.md/produs/iphone-14-128gb-midnight/ (primele 2000 de caractere):
+<!DOCTYPE html>
+<html lang="ro-RO">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v23.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>iPhone 14 128GB SS Midnight - Gorilla ELECTRONICS</title>
+	<meta name="description" content="Купите iPhone 14 128GB SS Midnight по низкой цене на Gorilla ELECTRONICS в Молдове! Быстрая доставка, гарантия. Выгодные предложения!" />
+	<link rel="canonical" href="https://gorilla.md/produs/iphone-14-128gb-midnight/" />
+	<meta property="og:locale" content="ro_RO" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="iPhone 14 128GB SS Midnight - Gorilla ELECTRONICS" />
+	<meta property="og:description" content="Купите iPhone 14 128GB SS Midnight по низкой цене на Gorilla ELECTRONICS 
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://darwin.md/telefoane/smartphone/apple-iphone-14-pro (primele 2000 de caractere):
+<!DOCTYPE html>
+<html lang="ro">
+
+<head>
+    <meta charset="utf-8">
+    <!--Viewport-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!--csrf-token-->
+    <meta name="csrf-token" content="UeBBMj3GwVjXTkLfpp9i8r6bBcvvAIbX8mboh4e4">
+
+            <title>Noul iPhone 14 Pro în MD – DARWIN.MD</title>
+        <meta property="og:title" content="Noul iPhone 14 Pro în MD – DARWIN.MD"/>
+                <meta name="description" content="Noua generație Apple iPhone 14 PRO la preț avantajos în Moldova. Cumpără iPhone 14 PRO cu garanție, cashback garantat și livrare gratuită în magazinul Darwin."/>
+        <meta property="og:description" content="Noua generație Apple iPhone 14 PRO la preț avantajos în Moldova. Cumpără iPhone 14 PRO cu garanție, cashback garantat și livrare gratuită în magazinul Darwin."/>
+        <meta property="og:image" content="https://darwin.md/build/assets/logo-jB5Wpaac.png"/>
+
+    <link rel="canonical" href="https://darwin.md/telefoane/smartphon
+ Preț găsit: 5000 lei
+
+ Conținutul paginii https://breezy.md/smartphone/vendor=apple/series=iphone-14-pro (primele 2000 de caractere):
+<!doctype html>
+
+<html lang="ro">
+
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Cache-Control" content="private">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="initial-scale=1.0, width=device-width, maximum-scale=1.0, viewport-fit=cover">
+
+    
+    <meta name="csrf-token" content="JR5qI5WZ3WD9MYjwFvPy1EZLZaPmpgIRRhnoBW0x">
+
+            
+        <meta name="robots" content="index, follow" />
+<title>Smartphone-uri APPLE iPhone 14 Pro Cumpără în Moldova ᐉ Cel mai bun preț pe Breezy.md</title>
+<meta name="description" content="Cumpara Smartphone-uri APPLE iPhone 14 Pro în Moldova ᐉ Livrare rapidă ✅ Plată în rate până la 12 luni ✅ Garanție ✅ Retur în 7 zile ✅ Produse originale verificate în magazinul nostru Breezy" />
+<link rel="canonical" href="https://breezy.md/smartphone/vendor=apple/series=iphone-14-pro" />
+<link href="https://breezy.md/smartphone/vendor=apple/series=iphone-14-pro
+ Preț găsit: 3075 lei
+
+ Analiză produs: {'position': 1, 'title': 'Cumpăra un smartphone Samsung Galaxy S24', 'link': 'https://darwin.md/telefoane/smartphone/samsung-galaxy-s-24', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/telefoane/smartphone/samsung-galaxy-s-24&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECBYQAQ', 'displayed_link': 'https://darwin.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc4f66d8352d61c3ad54396d9cc17fe74be.png', 'snippet': 'Cumpara Samsung Galaxy S24 în Moldova, la cel mai bun preț în Darwin MD. Livrare gratuita, reduceri mari!', 'snippet_highlighted_words': ['Cumpara Samsung Galaxy S24'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 2, 'title': 'Samsung Galaxy S24 - Orange Eshop', 'link': 'https://eshop.orange.md/ro/catalog/telefoane/samsung-galaxy-s24', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://eshop.orange.md/ro/catalog/telefoane/samsung-galaxy-s24&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECBQQAQ', 'displayed_link': 'https://eshop.orange.md › catalog › telefoane › samsun...', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc4975d2eb5c690519eea58c229d7736e49.png', 'snippet': 'Samsung Galaxy S24 Ultra 5G 12/1TB. 27 999 lei. - 4700 lei. 32 699 lei. Vezi ... Samsung Galaxy S24 Ultra 5G 12/256GB. 23 499 lei. - 1900 lei. 25 399 lei. Vezi ...', 'snippet_highlighted_words': ['Samsung Galaxy S24 Ultra 5G 12/1TB'], 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 3, 'title': 'Cumpara Samsung Galaxy S24 smartphone la cele mai ...', 'link': 'https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECBMQAQ', 'displayed_link': 'https://enter.online › telefoane › smartphone-uri › sams...', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc48372fd777bb03172daeda012adfcdfcc.png', 'snippet': 'Samsung Galaxy S24, S24 + si S24 Ultra la preturi competitive in Moldova, comanda cu livrare gratuita doar in ▷ ENTER.ONLINE.', 'snippet_highlighted_words': ['Samsung Galaxy S24'], 'source': 'Enter'}
+
+ Analiză produs: {'position': 4, 'title': 'Samsung S24 Galaxy 8/128Gb Marble Grey', 'link': 'https://gorilla.md/produs/samsung-s24-galaxy-8-128gb-marble-grey-2/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gorilla.md/produs/samsung-s24-galaxy-8-128gb-marble-grey-2/&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECB0QAQ', 'displayed_link': 'https://gorilla.md › SMARTPHONE › Samsung', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc410faea6564e738f9c03017b1fba4df83.png', 'snippet': 'Descriere · Sistem de operare:Android 14 · Diagonală display:6.2 " · Chipset:Exynos 2400 · Număr de nuclee:8 · Frecvență de actualizare:120 GHz · Memorie RAM:8 GB ...', 'snippet_highlighted_words': ['Sistem de operare:Android 14'], 'source': 'gorilla.md'}
+
+ Analiză produs: {'position': 5, 'title': 'Samsung Galaxy S24 8/128 GB Marble Grey', 'link': 'https://alo.md/ro/samsung-6/samsung-galaxy-s24-8128-gb-marble-grey', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://alo.md/ro/samsung-6/samsung-galaxy-s24-8128-gb-marble-grey&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECCQQAQ', 'displayed_link': 'https://alo.md › ... › Smartphone › Samsung', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc404cd1a7a55caa2fbf09e356a096741c8.png', 'snippet': 'Acest model este echipat cu un ecran AMOLED plat de 6,2 inci cu o rată variabilă de actualizare de la 1 la 120 Hz, asigurând afișarea incredibil de clară și ...', 'snippet_highlighted_words': ['ecran AMOLED plat de 6,2 inci'], 'source': 'Alo. Md'}
+
+ Analiză produs: {'position': 6, 'title': 'Cumpara Samsung S24 | S24 + | S24 Ultra in Darwin MD', 'link': 'https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECCUQAQ', 'displayed_link': 'https://darwin.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc40b801e92936d027b6d54566787f654e5.png', 'snippet': 'Samsung Galaxy S24+ este o versiune mai mare a modelului S24. Cu un ecran de 6,6 inch, acest telefon este perfect pentru cei care preferă să vizioneze filme sau ...', 'snippet_highlighted_words': ['Samsung Galaxy S24'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 7, 'title': 'Galaxy S24 & S24+ | Galaxy AI', 'link': 'https://www.samsung.com/ro/smartphones/galaxy-s24/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.samsung.com/ro/smartphones/galaxy-s24/&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECCoQAQ', 'displayed_link': 'https://www.samsung.com › ... › Smartphones', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc4e02c4cdce0d808dfacacb447a8b41c32.png', 'snippet': 'Iti prezentam telefoanele Galaxy S24 si S24+, smartphone-urile care stabilesc noile standarde in telefonia mobila, acum cu noua functie Galaxy AI.', 'snippet_highlighted_words': ['smartphone-urile care stabilesc noile standarde in telefonia mobila'], 'source': 'samsung.com'}
+
+ Analiză produs: {'position': 8, 'title': 'Samsung Galaxy S24 🔥 Cele mai bune preţuri ⭐', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/samsung-galaxy-s24', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orange.md/ro/shop/catalog/telefoane/samsung-galaxy-s24&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECCYQAQ', 'displayed_link': 'https://www.orange.md › ... › Samsung Galaxy S24', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc47e82bec470fed67ba354ec12e2e04432.png', 'snippet': 'Samsung Galaxy S24+ 5G 12/256GB. 18 999 lei. - 1500 lei. 20 499 lei. Vezi detalii. Stoc epuizat. Samsung Galaxy S24+ 5G 12/512GB. 19 999 lei. - 3000 lei.', 'snippet_highlighted_words': ['Samsung Galaxy S24+ 5G 12/256GB'], 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 9, 'title': 'Cumpara Galaxy S24 si S24 Plus | Pret si Oferte', 'link': 'https://www.samsung.com/ro/smartphones/galaxy-s24/buy/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.samsung.com/ro/smartphones/galaxy-s24/buy/&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECCwQAQ', 'displayed_link': 'https://www.samsung.com › ... › Galaxy S24 | S24+', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc4557bd924c80020bd0ac97ad6ec69f7d6.png', 'snippet': 'Cumpara Samsung Galaxy S24 si S24+, cu noi functii AI si ai parte de oferte exclusive, doar pentru o perioada de timp limitata. Disponibil pe Samsung.com.', 'snippet_highlighted_words': ['Cumpara Samsung Galaxy S24 si S24'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 4.7, 'reviews': 3435}, 'extensions': ['4,7(3.435)']}}, 'source': 'samsung.com'}
+
+ Conținutul paginii https://darwin.md/telefoane/smartphone/samsung-galaxy-s-24 (primele 2000 de caractere):
+<!DOCTYPE html>
+<html lang="ro">
+
+<head>
+    <meta charset="utf-8">
+    <!--Viewport-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!--csrf-token-->
+    <meta name="csrf-token" content="77Ic133AwaZhnQvnkGgkbOKGngqFu2nzbN2LxWzM">
+
+            <title>Cumpăra un smartphone Samsung Galaxy S24</title>
+        <meta property="og:title" content="Cumpăra un smartphone Samsung Galaxy S24"/>
+                <meta name="description" content="Cumpara Samsung Galaxy S24 în Moldova, la cel mai bun preț în Darwin MD. Livrare gratuita, reduceri mari!"/>
+        <meta property="og:description" content="Cumpara Samsung Galaxy S24 în Moldova, la cel mai bun preț în Darwin MD. Livrare gratuita, reduceri mari!"/>
+        <meta property="og:image" content="https://darwin.md/build/assets/logo-jB5Wpaac.png"/>
+
+    <link rel="canonical" href="https://darwin.md/telefoane/smartphone/samsung-galaxy-s-24"/>
+
+            <link
+            rel="alternate"
+            hreflang="ro-m
+ Preț găsit: 5000 lei
+
+ Conținutul paginii https://eshop.orange.md/ro/catalog/telefoane/samsung-galaxy-s24 (primele 2000 de caractere):
+<!--meta_robots= noindex, nofollow-->
+
+
+<!doctype html>
+<html lang="ro">
+<head>
+
+  <title>Orange Eshop</title>
+  <meta charset="utf-8">
+  <meta http-equiv="cache-control" content="no-cache">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=2,shrink-to-fit=no">
+  <meta name="google-site-verification" content="ySApXMT5QOR8kMV5DQz-L-4UsAqLh4PZ_9OdaeK1UtA" />
+  <link href="https://cdn.omd.md/assets/media/img/favicon.png" rel="shortcut icon" type="image/x-icon" />
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+  <!--SEO-->
+  <meta name="robots" content="index, follow" />
+
+  <meta name="description" content="Toate serviciile Â· Abonamente Â· Telefoane Â· TV Â· Tablete Â· Laptopuri Â· Modeme Â· Gadgeturi Â· Accesorii." />
+  <meta name="keywords" content="cumpara telefoane mobile in magazinul online Orange Moldova la preturi speciale cele mai mici livrare gratuita in mu
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24 (primele 2000 de caractere):
+<!doctype html>
+<html lang="ro" dir="ltr">
+<head>
+            <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="https://enter.online/img/favicon-32x32.png?1" type="image/x-icon">
+    <link rel="shortcut icon" href="https://enter.online/img/favicon-32x32.png?1" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://enter.online/img/apple-touch-icon.png?2">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://enter.online/img/favicon-32x32.png?1">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://enter.online/img/favicon-16x16.png?1">
+        <title>Cumpara Samsung Galaxy S24 smartphone la cele mai bune preturi din Enter!</title>
+    <meta
+        property="og:title"
+        content="Cumpara Samsung Galaxy S24 smartphone la cele mai bune preturi din Enter!"
+    />
+    <meta
+        name="description"
+        content="Samsung Galaxy S24, S24 + si S24 Ultra la 
+ Preț găsit: 5000 lei
+
+ Conținutul paginii https://gorilla.md/produs/samsung-s24-galaxy-8-128gb-marble-grey-2/ (primele 2000 de caractere):
+<!DOCTYPE html>
+<html lang="ro-RO">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v23.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Samsung S24 Galaxy 8/128Gb Marble Grey - Gorilla ELECTRONICS</title>
+	<meta name="description" content="Купите Samsung S24 Galaxy 8/128Gb Marble Grey по низкой цене на Gorilla ELECTRONICS в Молдове! Быстрая доставка, гарантия. Выгодные предложения!" />
+	<link rel="canonical" href="https://gorilla.md/produs/samsung-s24-galaxy-8-128gb-marble-grey-2/" />
+	<meta property="og:locale" content="ro_RO" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Samsung S24 Galaxy 8/128Gb Marble Grey - Gorilla ELECTRONICS" />
+	<meta property="og:description" content="Купите Samsung S24 Galax
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://alo.md/ro/samsung-6/samsung-galaxy-s24-8128-gb-marble-grey (primele 2000 de caractere):
+<!doctype html>
+<html data-n-head-ssr lang="ru" data-n-head="%7B%22lang%22:%7B%22ssr%22:%22ru%22%7D%7D">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+        <script>const $buildCannonicalUrl=t=>{if(!t)return;let i="https://alo.md/";return i.endsWith("/")&&(i=i.slice(0,-1)),t.startsWith(i)||t.includes("http")?t:t.startsWith("/")?i+t:i+"/"+t};if(window.location.href.includes("/ru/")){let t=window.location.href;window.location=t.replace("/ru/","/")}</script>
+
+        <script>let projectName="alo.md";"mi.md"===projectName&&(!function(e,t,n,c,o,a,s){e.fbq||(o=e.fbq=function(){o.callMethod?o.callMethod.apply(o,arguments):o.queue.push(arguments)},e._fbq||(e._fbq=o),o.push=o,o.loaded=!0,o.version="2.0",o.queue=[],(a=t.createElement(n)).async=!0,a.src="https://connect.facebook.net/en_US/fbevents.js",(s=t.getElementsByTagName(n)[0]).parentNode.insertBefore(a,s))}(window,document,"script"),fbq("init","273977092168320"),fbq("track","PageView"))</script>
+
+ Preț găsit: 1000 lei
+
+ Conținutul paginii https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra (primele 2000 de caractere):
+<!DOCTYPE html>
+<html lang="ro">
+
+<head>
+    <meta charset="utf-8">
+    <!--Viewport-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!--csrf-token-->
+    <meta name="csrf-token" content="6TOOUCg9WGXsvQGzg9i5pT3HkBWbE6OiVGtPE89N">
+
+            <title>Cumpara Samsung S24 | S24 + | S24 Ultra in Darwin MD</title>
+        <meta property="og:title" content="Cumpara Samsung S24 | S24 + | S24 Ultra in Darwin MD"/>
+                <meta name="description" content="Samsung S24, Samsung S24 +, Samsung S24 Ultra la pret accesibil cu credit 0% si livrare gratuita numai in Darwin!"/>
+        <meta property="og:description" content="Samsung S24, Samsung S24 +, Samsung S24 Ultra la pret accesibil cu credit 0% si livrare gratuita numai in Darwin!"/>
+        <meta property="og:image" content="https://darwin.md/build/assets/logo-jB5Wpaac.png"/>
+
+    <link rel="canonical" href="https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra"/>
+
+            <link
+            r
+ Preț găsit: 5000 lei
+
+ Conținutul paginii https://www.samsung.com/ro/smartphones/galaxy-s24/ (primele 2000 de caractere):
+<!DOCTYPE html>
+
+<html lang="ro-RO">
+    
+    <head>
+	<!-- PWA - manifest
+	<link rel="manifest" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/ro.json">
+	 -->
+	<!-- PWA - Browser Compatible
+	<script async src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
+	 -->
+	<!-- <meta name="theme-color" content="#0c4da2"> -->
+	<!-- Add to home screen for Safari on iOS -->
+    <!-- <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Samsung Shop">
+    <link rel="apple-touch-icon" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/icon/pwa_icon_192x192.png"> -->
+    <!-- Add to home screen for Windows -->
+    <!-- <meta name="msapplication-TileImage" content="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-c
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://www.orange.md/ro/shop/catalog/telefoane/samsung-galaxy-s24 (primele 2000 de caractere):
+<!--meta_robots= noindex, nofollow-->
+
+
+<!doctype html>
+<html lang="ro">
+<head>
+
+  <title>Orange Eshop</title>
+  <meta charset="utf-8">
+  <meta http-equiv="cache-control" content="no-cache">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=2,shrink-to-fit=no">
+  <meta name="google-site-verification" content="ySApXMT5QOR8kMV5DQz-L-4UsAqLh4PZ_9OdaeK1UtA" />
+  <link href="https://cdn.omd.md/assets/media/img/favicon.png" rel="shortcut icon" type="image/x-icon" />
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+  <!--SEO-->
+  <meta name="robots" content="index, follow" />
+
+  <meta name="description" content="Toate serviciile Â· Abonamente Â· Telefoane Â· TV Â· Tablete Â· Laptopuri Â· Modeme Â· Gadgeturi Â· Accesorii." />
+  <meta name="keywords" content="cumpara telefoane mobile in magazinul online Orange Moldova la preturi speciale cele mai mici livrare gratuita in mu
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://www.samsung.com/ro/smartphones/galaxy-s24/buy/ (primele 2000 de caractere):
+<!DOCTYPE html>
+
+
+<html lang="ro-RO" itemscope="">
+    
+    <head>
+	<!-- PWA - manifest
+	<link rel="manifest" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/ro.json">
+	 -->
+	<!-- PWA - Browser Compatible
+	<script async src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
+	 -->
+	<!-- <meta name="theme-color" content="#0c4da2"> -->
+	<!-- Add to home screen for Safari on iOS -->
+    <!-- <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Samsung Shop">
+    <link rel="apple-touch-icon" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/icon/pwa_icon_192x192.png"> -->
+    <!-- Add to home screen for Windows -->
+    <!-- <meta name="msapplication-TileImage" content="/etc.clientlibs/samsung/clientlib
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Analiză produs: {'position': 1, 'title': 'Cumpăra un smartphone Samsung Galaxy S24', 'link': 'https://darwin.md/telefoane/smartphone/samsung-galaxy-s-24', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/telefoane/smartphone/samsung-galaxy-s-24&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECBYQAQ', 'displayed_link': 'https://darwin.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc4f66d8352d61c3ad54396d9cc17fe74be.png', 'snippet': 'Cumpara Samsung Galaxy S24 în Moldova, la cel mai bun preț în Darwin MD. Livrare gratuita, reduceri mari!', 'snippet_highlighted_words': ['Cumpara Samsung Galaxy S24'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 1, 'title': 'Cumpăra un smartphone Samsung Galaxy S24', 'link': 'https://darwin.md/telefoane/smartphone/samsung-galaxy-s-24', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/telefoane/smartphone/samsung-galaxy-s-24&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECBYQAQ', 'displayed_link': 'https://darwin.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc4f66d8352d61c3ad54396d9cc17fe74be.png', 'snippet': 'Cumpara Samsung Galaxy S24 în Moldova, la cel mai bun preț în Darwin MD. Livrare gratuita, reduceri mari!', 'snippet_highlighted_words': ['Cumpara Samsung Galaxy S24'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 2, 'title': 'Samsung Galaxy S24 - Orange Eshop', 'link': 'https://eshop.orange.md/ro/catalog/telefoane/samsung-galaxy-s24', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://eshop.orange.md/ro/catalog/telefoane/samsung-galaxy-s24&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECBQQAQ', 'displayed_link': 'https://eshop.orange.md › catalog › telefoane › samsun...', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc4975d2eb5c690519eea58c229d7736e49.png', 'snippet': 'Samsung Galaxy S24 Ultra 5G 12/1TB. 27 999 lei. - 4700 lei. 32 699 lei. Vezi ... Samsung Galaxy S24 Ultra 5G 12/256GB. 23 499 lei. - 1900 lei. 25 399 lei. Vezi ...', 'snippet_highlighted_words': ['Samsung Galaxy S24 Ultra 5G 12/1TB'], 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 2, 'title': 'Samsung Galaxy S24 - Orange Eshop', 'link': 'https://eshop.orange.md/ro/catalog/telefoane/samsung-galaxy-s24', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://eshop.orange.md/ro/catalog/telefoane/samsung-galaxy-s24&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECBQQAQ', 'displayed_link': 'https://eshop.orange.md › catalog › telefoane › samsun...', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc4975d2eb5c690519eea58c229d7736e49.png', 'snippet': 'Samsung Galaxy S24 Ultra 5G 12/1TB. 27 999 lei. - 4700 lei. 32 699 lei. Vezi ... Samsung Galaxy S24 Ultra 5G 12/256GB. 23 499 lei. - 1900 lei. 25 399 lei. Vezi ...', 'snippet_highlighted_words': ['Samsung Galaxy S24 Ultra 5G 12/1TB'], 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 3, 'title': 'Cumpara Samsung Galaxy S24 smartphone la cele mai ...', 'link': 'https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECBMQAQ', 'displayed_link': 'https://enter.online › telefoane › smartphone-uri › sams...', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc48372fd777bb03172daeda012adfcdfcc.png', 'snippet': 'Samsung Galaxy S24, S24 + si S24 Ultra la preturi competitive in Moldova, comanda cu livrare gratuita doar in ▷ ENTER.ONLINE.', 'snippet_highlighted_words': ['Samsung Galaxy S24'], 'source': 'Enter'}
+
+ Analiză produs: {'position': 3, 'title': 'Cumpara Samsung Galaxy S24 smartphone la cele mai ...', 'link': 'https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECBMQAQ', 'displayed_link': 'https://enter.online › telefoane › smartphone-uri › sams...', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc48372fd777bb03172daeda012adfcdfcc.png', 'snippet': 'Samsung Galaxy S24, S24 + si S24 Ultra la preturi competitive in Moldova, comanda cu livrare gratuita doar in ▷ ENTER.ONLINE.', 'snippet_highlighted_words': ['Samsung Galaxy S24'], 'source': 'Enter'}
+
+ Analiză produs: {'position': 4, 'title': 'Samsung S24 Galaxy 8/128Gb Marble Grey', 'link': 'https://gorilla.md/produs/samsung-s24-galaxy-8-128gb-marble-grey-2/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gorilla.md/produs/samsung-s24-galaxy-8-128gb-marble-grey-2/&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECB0QAQ', 'displayed_link': 'https://gorilla.md › SMARTPHONE › Samsung', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc410faea6564e738f9c03017b1fba4df83.png', 'snippet': 'Descriere · Sistem de operare:Android 14 · Diagonală display:6.2 " · Chipset:Exynos 2400 · Număr de nuclee:8 · Frecvență de actualizare:120 GHz · Memorie RAM:8 GB ...', 'snippet_highlighted_words': ['Sistem de operare:Android 14'], 'source': 'gorilla.md'}
+
+ Analiză produs: {'position': 4, 'title': 'Samsung S24 Galaxy 8/128Gb Marble Grey', 'link': 'https://gorilla.md/produs/samsung-s24-galaxy-8-128gb-marble-grey-2/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gorilla.md/produs/samsung-s24-galaxy-8-128gb-marble-grey-2/&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECB0QAQ', 'displayed_link': 'https://gorilla.md › SMARTPHONE › Samsung', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc410faea6564e738f9c03017b1fba4df83.png', 'snippet': 'Descriere · Sistem de operare:Android 14 · Diagonală display:6.2 " · Chipset:Exynos 2400 · Număr de nuclee:8 · Frecvență de actualizare:120 GHz · Memorie RAM:8 GB ...', 'snippet_highlighted_words': ['Sistem de operare:Android 14'], 'source': 'gorilla.md'}
+
+ Analiză produs: {'position': 5, 'title': 'Samsung Galaxy S24 8/128 GB Marble Grey', 'link': 'https://alo.md/ro/samsung-6/samsung-galaxy-s24-8128-gb-marble-grey', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://alo.md/ro/samsung-6/samsung-galaxy-s24-8128-gb-marble-grey&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECCQQAQ', 'displayed_link': 'https://alo.md › ... › Smartphone › Samsung', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc404cd1a7a55caa2fbf09e356a096741c8.png', 'snippet': 'Acest model este echipat cu un ecran AMOLED plat de 6,2 inci cu o rată variabilă de actualizare de la 1 la 120 Hz, asigurând afișarea incredibil de clară și ...', 'snippet_highlighted_words': ['ecran AMOLED plat de 6,2 inci'], 'source': 'Alo. Md'}
+
+ Analiză produs: {'position': 5, 'title': 'Samsung Galaxy S24 8/128 GB Marble Grey', 'link': 'https://alo.md/ro/samsung-6/samsung-galaxy-s24-8128-gb-marble-grey', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://alo.md/ro/samsung-6/samsung-galaxy-s24-8128-gb-marble-grey&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECCQQAQ', 'displayed_link': 'https://alo.md › ... › Smartphone › Samsung', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc404cd1a7a55caa2fbf09e356a096741c8.png', 'snippet': 'Acest model este echipat cu un ecran AMOLED plat de 6,2 inci cu o rată variabilă de actualizare de la 1 la 120 Hz, asigurând afișarea incredibil de clară și ...', 'snippet_highlighted_words': ['ecran AMOLED plat de 6,2 inci'], 'source': 'Alo. Md'}
+
+ Analiză produs: {'position': 6, 'title': 'Cumpara Samsung S24 | S24 + | S24 Ultra in Darwin MD', 'link': 'https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECCUQAQ', 'displayed_link': 'https://darwin.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc40b801e92936d027b6d54566787f654e5.png', 'snippet': 'Samsung Galaxy S24+ este o versiune mai mare a modelului S24. Cu un ecran de 6,6 inch, acest telefon este perfect pentru cei care preferă să vizioneze filme sau ...', 'snippet_highlighted_words': ['Samsung Galaxy S24'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 6, 'title': 'Cumpara Samsung S24 | S24 + | S24 Ultra in Darwin MD', 'link': 'https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECCUQAQ', 'displayed_link': 'https://darwin.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc40b801e92936d027b6d54566787f654e5.png', 'snippet': 'Samsung Galaxy S24+ este o versiune mai mare a modelului S24. Cu un ecran de 6,6 inch, acest telefon este perfect pentru cei care preferă să vizioneze filme sau ...', 'snippet_highlighted_words': ['Samsung Galaxy S24'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 7, 'title': 'Galaxy S24 & S24+ | Galaxy AI', 'link': 'https://www.samsung.com/ro/smartphones/galaxy-s24/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.samsung.com/ro/smartphones/galaxy-s24/&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECCoQAQ', 'displayed_link': 'https://www.samsung.com › ... › Smartphones', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc4e02c4cdce0d808dfacacb447a8b41c32.png', 'snippet': 'Iti prezentam telefoanele Galaxy S24 si S24+, smartphone-urile care stabilesc noile standarde in telefonia mobila, acum cu noua functie Galaxy AI.', 'snippet_highlighted_words': ['smartphone-urile care stabilesc noile standarde in telefonia mobila'], 'source': 'samsung.com'}
+
+ Analiză produs: {'position': 7, 'title': 'Galaxy S24 & S24+ | Galaxy AI', 'link': 'https://www.samsung.com/ro/smartphones/galaxy-s24/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.samsung.com/ro/smartphones/galaxy-s24/&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECCoQAQ', 'displayed_link': 'https://www.samsung.com › ... › Smartphones', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc4e02c4cdce0d808dfacacb447a8b41c32.png', 'snippet': 'Iti prezentam telefoanele Galaxy S24 si S24+, smartphone-urile care stabilesc noile standarde in telefonia mobila, acum cu noua functie Galaxy AI.', 'snippet_highlighted_words': ['smartphone-urile care stabilesc noile standarde in telefonia mobila'], 'source': 'samsung.com'}
+
+ Analiză produs: {'position': 8, 'title': 'Samsung Galaxy S24 🔥 Cele mai bune preţuri ⭐', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/samsung-galaxy-s24', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orange.md/ro/shop/catalog/telefoane/samsung-galaxy-s24&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECCYQAQ', 'displayed_link': 'https://www.orange.md › ... › Samsung Galaxy S24', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc47e82bec470fed67ba354ec12e2e04432.png', 'snippet': 'Samsung Galaxy S24+ 5G 12/256GB. 18 999 lei. - 1500 lei. 20 499 lei. Vezi detalii. Stoc epuizat. Samsung Galaxy S24+ 5G 12/512GB. 19 999 lei. - 3000 lei.', 'snippet_highlighted_words': ['Samsung Galaxy S24+ 5G 12/256GB'], 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 8, 'title': 'Samsung Galaxy S24 🔥 Cele mai bune preţuri ⭐', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/samsung-galaxy-s24', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orange.md/ro/shop/catalog/telefoane/samsung-galaxy-s24&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECCYQAQ', 'displayed_link': 'https://www.orange.md › ... › Samsung Galaxy S24', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc47e82bec470fed67ba354ec12e2e04432.png', 'snippet': 'Samsung Galaxy S24+ 5G 12/256GB. 18 999 lei. - 1500 lei. 20 499 lei. Vezi detalii. Stoc epuizat. Samsung Galaxy S24+ 5G 12/512GB. 19 999 lei. - 3000 lei.', 'snippet_highlighted_words': ['Samsung Galaxy S24+ 5G 12/256GB'], 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 9, 'title': 'Cumpara Galaxy S24 si S24 Plus | Pret si Oferte', 'link': 'https://www.samsung.com/ro/smartphones/galaxy-s24/buy/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.samsung.com/ro/smartphones/galaxy-s24/buy/&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECCwQAQ', 'displayed_link': 'https://www.samsung.com › ... › Galaxy S24 | S24+', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc4557bd924c80020bd0ac97ad6ec69f7d6.png', 'snippet': 'Cumpara Samsung Galaxy S24 si S24+, cu noi functii AI si ai parte de oferte exclusive, doar pentru o perioada de timp limitata. Disponibil pe Samsung.com.', 'snippet_highlighted_words': ['Cumpara Samsung Galaxy S24 si S24'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 4.7, 'reviews': 3435}, 'extensions': ['4,7(3.435)']}}, 'source': 'samsung.com'}
+
+ Analiză produs: {'position': 9, 'title': 'Cumpara Galaxy S24 si S24 Plus | Pret si Oferte', 'link': 'https://www.samsung.com/ro/smartphones/galaxy-s24/buy/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.samsung.com/ro/smartphones/galaxy-s24/buy/&ved=2ahUKEwiBme_TnNWLAxUGD7kGHcINJ70QFnoECCwQAQ', 'displayed_link': 'https://www.samsung.com › ... › Galaxy S24 | S24+', 'favicon': 'https://serpapi.com/searches/67b8aed7c8872791343b3653/images/8bf132fc6fe1c476a73b6d13e59accc4557bd924c80020bd0ac97ad6ec69f7d6.png', 'snippet': 'Cumpara Samsung Galaxy S24 si S24+, cu noi functii AI si ai parte de oferte exclusive, doar pentru o perioada de timp limitata. Disponibil pe Samsung.com.', 'snippet_highlighted_words': ['Cumpara Samsung Galaxy S24 si S24'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 4.7, 'reviews': 3435}, 'extensions': ['4,7(3.435)']}}, 'source': 'samsung.com'}
+
+ Conținutul paginii https://darwin.md/telefoane/smartphone/samsung-galaxy-s-24 (primele 2000 de caractere):
+<!DOCTYPE html>
+<html lang="ro">
+
+<head>
+    <meta charset="utf-8">
+    <!--Viewport-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!--csrf-token-->
+    <meta name="csrf-token" content="NG1MSY4iZoGwM8R4ovhjWayV4BkWzj6pmdLpfqvY">
+
+            <title>Cumpăra un smartphone Samsung Galaxy S24</title>
+        <meta property="og:title" content="Cumpăra un smartphone Samsung Galaxy S24"/>
+                <meta name="description" content="Cumpara Samsung Galaxy S24 în Moldova, la cel mai bun preț în Darwin MD. Livrare gratuita, reduceri mari!"/>
+        <meta property="og:description" content="Cumpara Samsung Galaxy S24 în Moldova, la cel mai bun preț în Darwin MD. Livrare gratuita, reduceri mari!"/>
+        <meta property="og:image" content="https://darwin.md/build/assets/logo-jB5Wpaac.png"/>
+
+    <link rel="canonical" href="https://darwin.md/telefoane/smartphone/samsung-galaxy-s-24"/>
+
+            <link
+            rel="alternate"
+            hreflang="ro-m
+ Preț găsit: 5000 lei
+
+ Conținutul paginii https://darwin.md/telefoane/smartphone/samsung-galaxy-s-24 (primele 2000 de caractere):
+<!DOCTYPE html>
+<html lang="ro">
+
+<head>
+    <meta charset="utf-8">
+    <!--Viewport-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!--csrf-token-->
+    <meta name="csrf-token" content="zcCDu3ieRQsleq1CjYHsCVaB6uxTratwUl7IqZAa">
+
+            <title>Cumpăra un smartphone Samsung Galaxy S24</title>
+        <meta property="og:title" content="Cumpăra un smartphone Samsung Galaxy S24"/>
+                <meta name="description" content="Cumpara Samsung Galaxy S24 în Moldova, la cel mai bun preț în Darwin MD. Livrare gratuita, reduceri mari!"/>
+        <meta property="og:description" content="Cumpara Samsung Galaxy S24 în Moldova, la cel mai bun preț în Darwin MD. Livrare gratuita, reduceri mari!"/>
+        <meta property="og:image" content="https://darwin.md/build/assets/logo-jB5Wpaac.png"/>
+
+    <link rel="canonical" href="https://darwin.md/telefoane/smartphone/samsung-galaxy-s-24"/>
+
+            <link
+            rel="alternate"
+            hreflang="ro-m
+ Preț găsit: 5000 lei
+
+ Conținutul paginii https://eshop.orange.md/ro/catalog/telefoane/samsung-galaxy-s24 (primele 2000 de caractere):
+<!--meta_robots= noindex, nofollow-->
+
+
+<!doctype html>
+<html lang="ro">
+<head>
+
+  <title>Orange Eshop</title>
+  <meta charset="utf-8">
+  <meta http-equiv="cache-control" content="no-cache">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=2,shrink-to-fit=no">
+  <meta name="google-site-verification" content="ySApXMT5QOR8kMV5DQz-L-4UsAqLh4PZ_9OdaeK1UtA" />
+  <link href="https://cdn.omd.md/assets/media/img/favicon.png" rel="shortcut icon" type="image/x-icon" />
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+  <!--SEO-->
+  <meta name="robots" content="index, follow" />
+
+  <meta name="description" content="Toate serviciile Â· Abonamente Â· Telefoane Â· TV Â· Tablete Â· Laptopuri Â· Modeme Â· Gadgeturi Â· Accesorii." />
+  <meta name="keywords" content="cumpara telefoane mobile in magazinul online Orange Moldova la preturi speciale cele mai mici livrare gratuita in mu
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://eshop.orange.md/ro/catalog/telefoane/samsung-galaxy-s24 (primele 2000 de caractere):
+<!--meta_robots= noindex, nofollow-->
+
+
+<!doctype html>
+<html lang="ro">
+<head>
+
+  <title>Orange Eshop</title>
+  <meta charset="utf-8">
+  <meta http-equiv="cache-control" content="no-cache">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=2,shrink-to-fit=no">
+  <meta name="google-site-verification" content="ySApXMT5QOR8kMV5DQz-L-4UsAqLh4PZ_9OdaeK1UtA" />
+  <link href="https://cdn.omd.md/assets/media/img/favicon.png" rel="shortcut icon" type="image/x-icon" />
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+  <!--SEO-->
+  <meta name="robots" content="index, follow" />
+
+  <meta name="description" content="Toate serviciile Â· Abonamente Â· Telefoane Â· TV Â· Tablete Â· Laptopuri Â· Modeme Â· Gadgeturi Â· Accesorii." />
+  <meta name="keywords" content="cumpara telefoane mobile in magazinul online Orange Moldova la preturi speciale cele mai mici livrare gratuita in mu
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24 (primele 2000 de caractere):
+<!doctype html>
+<html lang="ro" dir="ltr">
+<head>
+            <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="https://enter.online/img/favicon-32x32.png?1" type="image/x-icon">
+    <link rel="shortcut icon" href="https://enter.online/img/favicon-32x32.png?1" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://enter.online/img/apple-touch-icon.png?2">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://enter.online/img/favicon-32x32.png?1">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://enter.online/img/favicon-16x16.png?1">
+        <title>Cumpara Samsung Galaxy S24 smartphone la cele mai bune preturi din Enter!</title>
+    <meta
+        property="og:title"
+        content="Cumpara Samsung Galaxy S24 smartphone la cele mai bune preturi din Enter!"
+    />
+    <meta
+        name="description"
+        content="Samsung Galaxy S24, S24 + si S24 Ultra la 
+ Preț găsit: 5000 lei
+
+ Conținutul paginii https://gorilla.md/produs/samsung-s24-galaxy-8-128gb-marble-grey-2/ (primele 2000 de caractere):
+<!DOCTYPE html>
+<html lang="ro-RO">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v23.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Samsung S24 Galaxy 8/128Gb Marble Grey - Gorilla ELECTRONICS</title>
+	<meta name="description" content="Купите Samsung S24 Galaxy 8/128Gb Marble Grey по низкой цене на Gorilla ELECTRONICS в Молдове! Быстрая доставка, гарантия. Выгодные предложения!" />
+	<link rel="canonical" href="https://gorilla.md/produs/samsung-s24-galaxy-8-128gb-marble-grey-2/" />
+	<meta property="og:locale" content="ro_RO" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Samsung S24 Galaxy 8/128Gb Marble Grey - Gorilla ELECTRONICS" />
+	<meta property="og:description" content="Купите Samsung S24 Galax
+
+ Conținutul paginii https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24 (primele 2000 de caractere):
+ Niciun preț MDL/lei găsit pe pagină.
+<!doctype html>
+<html lang="ro" dir="ltr">
+<head>
+            <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="https://enter.online/img/favicon-32x32.png?1" type="image/x-icon">
+    <link rel="shortcut icon" href="https://enter.online/img/favicon-32x32.png?1" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://enter.online/img/apple-touch-icon.png?2">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://enter.online/img/favicon-32x32.png?1">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://enter.online/img/favicon-16x16.png?1">
+        <title>Cumpara Samsung Galaxy S24 smartphone la cele mai bune preturi din Enter!</title>
+    <meta
+        property="og:title"
+        content="Cumpara Samsung Galaxy S24 smartphone la cele mai bune preturi din Enter!"
+    />
+    <meta
+        name="description"
+        content="Samsung Galaxy S24, S24 + si S24 Ultra la 
+ Preț găsit: 5000 lei
+
+ Conținutul paginii https://alo.md/ro/samsung-6/samsung-galaxy-s24-8128-gb-marble-grey (primele 2000 de caractere):
+<!doctype html>
+<html data-n-head-ssr lang="ru" data-n-head="%7B%22lang%22:%7B%22ssr%22:%22ru%22%7D%7D">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+        <script>const $buildCannonicalUrl=t=>{if(!t)return;let i="https://alo.md/";return i.endsWith("/")&&(i=i.slice(0,-1)),t.startsWith(i)||t.includes("http")?t:t.startsWith("/")?i+t:i+"/"+t};if(window.location.href.includes("/ru/")){let t=window.location.href;window.location=t.replace("/ru/","/")}</script>
+
+        <script>let projectName="alo.md";"mi.md"===projectName&&(!function(e,t,n,c,o,a,s){e.fbq||(o=e.fbq=function(){o.callMethod?o.callMethod.apply(o,arguments):o.queue.push(arguments)},e._fbq||(e._fbq=o),o.push=o,o.loaded=!0,o.version="2.0",o.queue=[],(a=t.createElement(n)).async=!0,a.src="https://connect.facebook.net/en_US/fbevents.js",(s=t.getElementsByTagName(n)[0]).parentNode.insertBefore(a,s))}(window,document,"script"),fbq("init","273977092168320"),fbq("track","PageView"))</script>
+
+ Preț găsit: 1000 lei
+
+ Conținutul paginii https://gorilla.md/produs/samsung-s24-galaxy-8-128gb-marble-grey-2/ (primele 2000 de caractere):
+<!DOCTYPE html>
+<html lang="ro-RO">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v23.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Samsung S24 Galaxy 8/128Gb Marble Grey - Gorilla ELECTRONICS</title>
+	<meta name="description" content="Купите Samsung S24 Galaxy 8/128Gb Marble Grey по низкой цене на Gorilla ELECTRONICS в Молдове! Быстрая доставка, гарантия. Выгодные предложения!" />
+	<link rel="canonical" href="https://gorilla.md/produs/samsung-s24-galaxy-8-128gb-marble-grey-2/" />
+	<meta property="og:locale" content="ro_RO" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Samsung S24 Galaxy 8/128Gb Marble Grey - Gorilla ELECTRONICS" />
+	<meta property="og:description" content="Купите Samsung S24 Galax
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://alo.md/ro/samsung-6/samsung-galaxy-s24-8128-gb-marble-grey (primele 2000 de caractere):
+<!doctype html>
+<html data-n-head-ssr lang="ru" data-n-head="%7B%22lang%22:%7B%22ssr%22:%22ru%22%7D%7D">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+        <script>const $buildCannonicalUrl=t=>{if(!t)return;let i="https://alo.md/";return i.endsWith("/")&&(i=i.slice(0,-1)),t.startsWith(i)||t.includes("http")?t:t.startsWith("/")?i+t:i+"/"+t};if(window.location.href.includes("/ru/")){let t=window.location.href;window.location=t.replace("/ru/","/")}</script>
+
+        <script>let projectName="alo.md";"mi.md"===projectName&&(!function(e,t,n,c,o,a,s){e.fbq||(o=e.fbq=function(){o.callMethod?o.callMethod.apply(o,arguments):o.queue.push(arguments)},e._fbq||(e._fbq=o),o.push=o,o.loaded=!0,o.version="2.0",o.queue=[],(a=t.createElement(n)).async=!0,a.src="https://connect.facebook.net/en_US/fbevents.js",(s=t.getElementsByTagName(n)[0]).parentNode.insertBefore(a,s))}(window,document,"script"),fbq("init","273977092168320"),fbq("track","PageView"))</script>
+
+ Preț găsit: 1000 lei
+
+ Conținutul paginii https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra (primele 2000 de caractere):
+<!DOCTYPE html>
+<html lang="ro">
+
+<head>
+    <meta charset="utf-8">
+    <!--Viewport-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!--csrf-token-->
+    <meta name="csrf-token" content="kIR9ADeKXVG03y3JYr8uMmQTdWveOHEOv5147vvm">
+
+            <title>Cumpara Samsung S24 | S24 + | S24 Ultra in Darwin MD</title>
+        <meta property="og:title" content="Cumpara Samsung S24 | S24 + | S24 Ultra in Darwin MD"/>
+                <meta name="description" content="Samsung S24, Samsung S24 +, Samsung S24 Ultra la pret accesibil cu credit 0% si livrare gratuita numai in Darwin!"/>
+        <meta property="og:description" content="Samsung S24, Samsung S24 +, Samsung S24 Ultra la pret accesibil cu credit 0% si livrare gratuita numai in Darwin!"/>
+        <meta property="og:image" content="https://darwin.md/build/assets/logo-jB5Wpaac.png"/>
+
+    <link rel="canonical" href="https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra"/>
+
+            <link
+            r
+ Preț găsit: 5000 lei
+
+ Conținutul paginii https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra (primele 2000 de caractere):
+<!DOCTYPE html>
+<html lang="ro">
+
+<head>
+    <meta charset="utf-8">
+    <!--Viewport-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!--csrf-token-->
+    <meta name="csrf-token" content="5gUYZisUPlI9bIeeIBJ0x3zoB5QvCYXb9gdAkygv">
+
+            <title>Cumpara Samsung S24 | S24 + | S24 Ultra in Darwin MD</title>
+        <meta property="og:title" content="Cumpara Samsung S24 | S24 + | S24 Ultra in Darwin MD"/>
+                <meta name="description" content="Samsung S24, Samsung S24 +, Samsung S24 Ultra la pret accesibil cu credit 0% si livrare gratuita numai in Darwin!"/>
+        <meta property="og:description" content="Samsung S24, Samsung S24 +, Samsung S24 Ultra la pret accesibil cu credit 0% si livrare gratuita numai in Darwin!"/>
+        <meta property="og:image" content="https://darwin.md/build/assets/logo-jB5Wpaac.png"/>
+
+    <link rel="canonical" href="https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra"/>
+
+            <link
+            r
+ Preț găsit: 5000 lei
+
+ Conținutul paginii https://www.samsung.com/ro/smartphones/galaxy-s24/ (primele 2000 de caractere):
+<!DOCTYPE html>
+
+<html lang="ro-RO">
+    
+    <head>
+	<!-- PWA - manifest
+	<link rel="manifest" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/ro.json">
+	 -->
+	<!-- PWA - Browser Compatible
+	<script async src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
+	 -->
+	<!-- <meta name="theme-color" content="#0c4da2"> -->
+	<!-- Add to home screen for Safari on iOS -->
+    <!-- <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Samsung Shop">
+    <link rel="apple-touch-icon" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/icon/pwa_icon_192x192.png"> -->
+    <!-- Add to home screen for Windows -->
+    <!-- <meta name="msapplication-TileImage" content="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-c
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://www.samsung.com/ro/smartphones/galaxy-s24/ (primele 2000 de caractere):
+<!DOCTYPE html>
+
+<html lang="ro-RO">
+    
+    <head>
+	<!-- PWA - manifest
+	<link rel="manifest" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/ro.json">
+	 -->
+	<!-- PWA - Browser Compatible
+	<script async src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
+	 -->
+	<!-- <meta name="theme-color" content="#0c4da2"> -->
+	<!-- Add to home screen for Safari on iOS -->
+    <!-- <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Samsung Shop">
+    <link rel="apple-touch-icon" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/icon/pwa_icon_192x192.png"> -->
+    <!-- Add to home screen for Windows -->
+    <!-- <meta name="msapplication-TileImage" content="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-c
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://www.orange.md/ro/shop/catalog/telefoane/samsung-galaxy-s24 (primele 2000 de caractere):
+<!--meta_robots= noindex, nofollow-->
+
+
+<!doctype html>
+<html lang="ro">
+<head>
+
+  <title>Orange Eshop</title>
+  <meta charset="utf-8">
+  <meta http-equiv="cache-control" content="no-cache">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=2,shrink-to-fit=no">
+  <meta name="google-site-verification" content="ySApXMT5QOR8kMV5DQz-L-4UsAqLh4PZ_9OdaeK1UtA" />
+  <link href="https://cdn.omd.md/assets/media/img/favicon.png" rel="shortcut icon" type="image/x-icon" />
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+  <!--SEO-->
+  <meta name="robots" content="index, follow" />
+
+  <meta name="description" content="Toate serviciile Â· Abonamente Â· Telefoane Â· TV Â· Tablete Â· Laptopuri Â· Modeme Â· Gadgeturi Â· Accesorii." />
+  <meta name="keywords" content="cumpara telefoane mobile in magazinul online Orange Moldova la preturi speciale cele mai mici livrare gratuita in mu
+
+ Conținutul paginii https://www.orange.md/ro/shop/catalog/telefoane/samsung-galaxy-s24 (primele 2000 de caractere):
+ Niciun preț MDL/lei găsit pe pagină.
+<!--meta_robots= noindex, nofollow-->
+
+
+<!doctype html>
+<html lang="ro">
+<head>
+
+  <title>Orange Eshop</title>
+  <meta charset="utf-8">
+  <meta http-equiv="cache-control" content="no-cache">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=2,shrink-to-fit=no">
+  <meta name="google-site-verification" content="ySApXMT5QOR8kMV5DQz-L-4UsAqLh4PZ_9OdaeK1UtA" />
+  <link href="https://cdn.omd.md/assets/media/img/favicon.png" rel="shortcut icon" type="image/x-icon" />
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+  <!--SEO-->
+  <meta name="robots" content="index, follow" />
+
+  <meta name="description" content="Toate serviciile Â· Abonamente Â· Telefoane Â· TV Â· Tablete Â· Laptopuri Â· Modeme Â· Gadgeturi Â· Accesorii." />
+  <meta name="keywords" content="cumpara telefoane mobile in magazinul online Orange Moldova la preturi speciale cele mai mici livrare gratuita in mu
+ Niciun preț MDL/lei găsit pe pagină.
+
+ Conținutul paginii https://www.samsung.com/ro/smartphones/galaxy-s24/buy/ (primele 2000 de caractere):
+
+ Conținutul paginii https://www.samsung.com/ro/smartphones/galaxy-s24/buy/ (primele 2000 de caractere):
+<!DOCTYPE html>
+
+
+<html lang="ro-RO" itemscope="">
+    
+    <head>
+	<!-- PWA - manifest
+	<link rel="manifest" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/ro.json">
+	 -->
+	<!-- PWA - Browser Compatible
+	<script async src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
+	 -->
+	<!-- <meta name="theme-color" content="#0c4da2"> -->
+	<!-- Add to home screen for Safari on iOS -->
+    <!-- <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Samsung Shop">
+    <link rel="apple-touch-icon" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/icon/pwa_icon_192x192.png"> -->
+    <!-- Add to home screen for Windows -->
+    <!-- <meta name="msapplication-TileImage" content="/etc.clientlibs/samsung/clientlib
+<!DOCTYPE html>
+
+
+<html lang="ro-RO" itemscope="">
+    
+    <head>
+	<!-- PWA - manifest
+	<link rel="manifest" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/ro.json">
+	 -->
+	<!-- PWA - Browser Compatible
+	<script async src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/js/pwacompat.js"></script>
+	 -->
+	<!-- <meta name="theme-color" content="#0c4da2"> -->
+	<!-- Add to home screen for Safari on iOS -->
+    <!-- <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Samsung Shop">
+    <link rel="apple-touch-icon" href="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/icon/pwa_icon_192x192.png"> -->
+    <!-- Add to home screen for Windows -->
+    <!-- <meta name="msapplication-TileImage" content="/etc.clientlibs/samsung/clientlib
+ Niciun preț MDL/lei găsit pe pagină.
+ Niciun preț MDL/lei găsit pe pagină.

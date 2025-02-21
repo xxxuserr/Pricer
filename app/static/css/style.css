@@ -7,7 +7,26 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    justify-content: space-between; /* Asigură că footerul stă jos */
+    justify-content: space-between;
+}
+
+/* Mod Întunecat */
+.dark-mode {
+    background: #1e1e1e;
+    color: white;
+}
+
+.dark-mode header, .dark-mode footer {
+    background: #111;
+}
+
+.dark-mode li {
+    background: #2a2a2a;
+    color: white;
+}
+
+.dark-mode strong a {
+    color: #62afff;
 }
 
 /* Wrapper pentru conținut */
@@ -39,46 +58,73 @@ header h1 {
 }
 
 #search {
-    width: 50%;
-    padding: 10px;
-    border: 2px solid #ccc;
-    border-radius: 5px;
+    width: 60%;
+    padding: 12px;
+    border-radius: 25px;
+    border: 2px solid #007bff;
     font-size: 1em;
+    transition: 0.3s ease-in-out;
+}
+
+#search:focus {
+    border-color: #0056b3;
+    box-shadow: 0 0 10px rgba(0, 91, 187, 0.5);
 }
 
 #searchButton {
-    padding: 10px 20px;
+    padding: 12px 20px;
     margin-left: 10px;
     background-color: #007bff;
     color: white;
     border: none;
-    border-radius: 5px;
+    border-radius: 25px;
     cursor: pointer;
+    transition: background 0.3s;
 }
 
 #searchButton:hover {
-    background-color: #0056b3;
+    background-color: #004494;
 }
 
-/* Containerul cu produsele */
-ul {
-    padding: 0 20px; /* Adăugăm 20px la stânga și dreapta pentru a lăsa spațiu */
-    margin: 0 auto; /* Centrarea pe orizontală a listei de produse */
-    max-width: 1200px; /* Maximizează lățimea pentru a nu merge la marginea paginii */
-    list-style-type: none; /* Elimină bullet points-ul din listă */
+/* Loader */
+.hidden {
+    display: none;
 }
 
-/* Carduri pentru produse (li) */
+#loader {
+    border: 5px solid #f3f3f3;
+    border-top: 5px solid #007bff;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    animation: spin 1s linear infinite;
+    margin: 20px auto;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Grid pentru produse */
+#productList {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+/* Carduri pentru produse */
 li {
     background-color: white;
-    padding: 30px;
-    margin-bottom: 30px;
+    padding: 20px;
     border-radius: 15px;
     box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
     display: flex;
-    align-items: flex-start;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    width: 100%; /* Fă-l să ocupe toată lățimea disponibilă */
 }
 
 li:hover {
@@ -90,25 +136,14 @@ li:hover {
 li img {
     max-width: 150px;
     max-height: 150px;
-    margin-right: 25px;
     border-radius: 10px;
 }
 
-/* Textul și descrierea produsului */
-li div {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-}
-
-strong a {
-    font-size: 1.1em;
-    color: #007bff;
-    text-decoration: none;
-}
-
-strong a:hover {
-    text-decoration: underline;
+/* Preț vizibil */
+.price {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #28a745;
 }
 
 /* Footer */
@@ -117,20 +152,5 @@ footer {
     color: white;
     text-align: center;
     padding: 20px 0;
-    position: relative;
-    bottom: 0;
-    width: 100%; /* Asigură că footerul are lățimea completă */
+    width: 100%;
 }
-
-/* Mesajul 'Nu au fost găsite produse' - tranzitie graduală */
-.no-results {
-    opacity: 0;
-    transition: opacity 1s ease-in-out;
-    visibility: hidden;
-}
-
-.no-results.show {
-    opacity: 1;
-    visibility: visible;
-}
-
