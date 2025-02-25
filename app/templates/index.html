@@ -16,12 +16,10 @@
         <button id="darkModeToggle">🌙 Dark Mode</button>
 
         <div class="main-content">
-            <form method="POST">
-                <div class="search-container">
-                    <input type="text" name="query" id="search" placeholder="Caută un produs..." required>
-                    <button type="submit" id="searchButton">Caută</button>
-                </div>
-            </form>
+            <div class="search-container">
+                <input type="text" id="search" placeholder="Caută un produs..." required>
+                <button type="button" id="searchButton">Caută</button>
+            </div>
 
             <div id="loader" class="hidden"></div>
 
@@ -31,7 +29,7 @@
                         <img src="{{ product.image }}" alt="{{ product.name }}">
                         <div>
                             <strong><a href="{{ product.link }}" target="_blank">{{ product.name }}</a></strong><br>
-                            <span class="price">{{ product.price }} RON</span>
+                            <span class="price">{{ product.price }} MDL</span>
                         </div>
                     </li>
                 {% endfor %}

@@ -5,10 +5,9 @@ def log_debug(message):
     with open("debug_log.txt", "a", encoding="utf-8") as log_file:
         log_file.write(message + "\n")
 
-def search_product(query, sort_option="popular"):
+def search_product(query):
     api_key = "ea6b45bcc8887da0b4c0aacb646fde0eea09cc2e950cf21c3408d795abc81bfb"
-    search_url = f"https://serpapi.com/search.json?q={query}&api_key={api_key}&hl=ro&gl=MD"
-
+    search_url = f"https://serpapi.com/search.json?q={query}&api_key={api_key}&gl=MD"
     
     try:
         response = requests.get(search_url)
@@ -46,15 +45,6 @@ def search_product(query, sort_option="popular"):
                 product_details['price'] = price
 
         products.append(product_details)
-    
-    if sort_option == "price_asc":
-        products = sorted(products, key=lambda x: x.get('price_value', float('inf')))
-    elif sort_option == "price_desc":
-        products = sorted(products, key=lambda x: x.get('price_value', float('inf')), reverse=True)
-    elif sort_option == "popular":
-        products = sorted(products, key=lambda x: x.get('rating', 0), reverse=True)
-    elif sort_option == "recommended":
-        products = sorted(products, key=lambda x: (x.get('rating', 0), x.get('price_value', float('inf'))), reverse=True)
     
     return products
 

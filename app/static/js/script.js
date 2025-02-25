@@ -1,11 +1,14 @@
-document.getElementById('searchButton').addEventListener('click', function() {
+document.getElementById('searchButton').addEventListener('click', function(e) {
+    e.preventDefault();  // Previne comportamentul implicit de trimitere al formularului
+
     let query = document.getElementById('search').value;
     let productList = document.getElementById('productList');
     let loader = document.getElementById('loader');
 
-    productList.innerHTML = '';
+    productList.innerHTML = '';  // Curăță lista de produse
     loader.classList.remove('hidden'); // Afișează loader-ul
 
+    // Trimite cererea AJAX pentru a căuta produsele
     fetch(`/search?query=${query}`)
         .then(response => response.json())
         .then(data => {
@@ -26,6 +29,11 @@ document.getElementById('searchButton').addEventListener('click', function() {
                     productList.appendChild(li);
                 });
             }
+        })
+        .catch(error => {
+            loader.classList.add('hidden'); // Ascunde loader-ul în caz de eroare
+            productList.innerHTML = '<p class="no-results show">A apărut o eroare la căutare.</p>';
+            console.error('Error:', error);
         });
 });
 

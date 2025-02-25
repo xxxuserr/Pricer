@@ -13,6 +13,7 @@ def index():
 
 @app.route("/search")
 def search():
-    query = request.args.get("query", "").lower()
+    query = request.args.get("query", "").lower()  # Preia query-ul din URL
     results = search_product(query)
-    return jsonify(results)
+
+    return jsonify(results)  # Răspunde cu un JSON ce conține produsele găsite
