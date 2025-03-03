@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Favorite</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+    <header>
+        <h1>Produse Favorite</h1>
+        <a href="/">🏠 Înapoi la căutare</a>
+    </header>
+
+    <ul id="favoriteList">
+        {% for product in favorites %}
+            <li>
+                <img src="{{ product.image }}" alt="{{ product.name }}">
+                <div>
+                    <strong><a href="{{ product.link }}" target="_blank">{{ product.name }}</a></strong><br>
+                    <span class="price">{{ product.price }} MDL</span>
+                    <button class="remove-favorite" onclick="removeFromFavorites('{{ product.name }}')">❌ Elimină</button>
+                </div>
+            </li>
+        {% endfor %}
+    </ul>
+
+    <script>
+        function removeFromFavorites(name) {
+            fetch('/remove_favorite', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ name: name })
+            })
+            .then(response => response.json())
+            .then(data => {
+                alert(data.message);
+                location.reload();  // Reîncarcă pagina pentru a reflecta modificările
+            })
+            .catch(error => console.error('Eroare la eliminarea din favorite:', error));
+        }
+    </script>
+
+</body>
+</html>

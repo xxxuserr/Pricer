@@ -15,6 +15,9 @@
 
         <button id="darkModeToggle">🌙 Dark Mode</button>
 
+        <a href="/favorites" class="favorite-link">❤️ Favorite</a>
+
+
         <div class="main-content">
             <div class="search-container">
                 <input type="text" id="search" placeholder="Caută un produs..." required>
@@ -25,17 +28,24 @@
 
             <ul id="productList">
                 {% for product in products %}
-                    <li>
-                        <img src="{{ product.image }}" alt="{{ product.name }}">
-                        <div>
-                            <strong><a href="{{ product.link }}" target="_blank">{{ product.name }}</a></strong><br>
-                            <span class="price">{{ product.price }} MDL</span>
-                        </div>
-                    </li>
+                <li>
+                    <img src="{{ product.image }}" alt="{{ product.name }}">
+                    <div>
+                        <strong><a href="{{ product.link }}" target="_blank">{{ product.name }}</a></strong><br>
+                        <span class="price">{{ product.price }} MDL</span>
+                        <button class="favorite-button" onclick="addToFavorites({
+                            name: '{{ product.name }}',
+                            price: '{{ product.price }}',
+                            image: '{{ product.image }}',
+                            link: '{{ product.link }}'
+                        })">⭐ Adaugă la favorite</button>
+                    </div>
+                </li>
+                
                 {% endfor %}
             </ul>
 
-            <p class="no-results" id="noResultsMessage">Nu au fost găsite produse.</p>
+            <p class="no-results" id="noResultsMessage"></p>
         </div>
 
         <footer>

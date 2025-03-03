@@ -23,7 +23,7 @@ document.getElementById('searchButton').addEventListener('click', function(e) {
                         <img src="${product.image}" alt="${product.name}">
                         <div>
                             <strong><a href="${product.link}" target="_blank">${product.name}</a></strong><br>
-                            <span class="price">${product.price} RON</span>
+                            <span class="price">${product.price} lei</span>
                         </div>
                     `;
                     productList.appendChild(li);
@@ -41,3 +41,62 @@ document.getElementById('searchButton').addEventListener('click', function(e) {
 document.getElementById('darkModeToggle').addEventListener('click', function() {
     document.body.classList.toggle('dark-mode');
 });
+
+// Funcție pentru a adăuga la favorite
+function addToFavorites(product) {
+    fetch('/add_favorite', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(product)
+    })
+    .then(response => response.json())
+    .then(data => {
+        alert(data.message);  // Notificare utilizator
+    })
+    .catch(error => console.error('Eroare la adăugarea în favorite:', error));
+}
+
+// Funcție pentru a încărca favoritele
+function loadFavorites() {
+    fetch('/get_favorites')
+        .then(response => response.json())
+        .then(data => {
+            let favoriteList = document.getElementById('favoriteList');
+            favoriteList.innerHTML = '';  // Curăță lista înainte de afișare
+
+            if (data.length === 0) {
+                favoriteList.innerHTML = '<p>Nu ai produse favorite.</p>';
+            } else {
+                data.forEach(product => {
+                    let li = document.createElement('li');
+                    li.innerHTML = `
+                        <img src="${product.image}" alt="${product.name}">
+                        <div>
+                            <strong><a href="${product.link}" target="_blank">${product.name}</a></strong><br>
+                            <span class="price">${product.price} MDL</span>
+                            <button class="remove-favorite" onclick="removeFromFavorites('${product.name}')">❌ Elimină</button>
+                        </div>
+                    `;
+                    favoriteList.appendChild(li);
+                });
+            }
+        })
+        .catch(error => console.error('Eroare la încărcarea favoritelor:', error));
+}
+
+// Funcție pentru eliminarea din favorite
+function removeFromFavorites(name) {
+    fetch('/remove_favorite', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ name: name })
+    })
+    .then(response => response.json())
+    .then(data => {
+        alert(data.message);
+        loadFavorites();  // Reîncarcă lista de favorite
+    })
+    .catch(error => console.error('Eroare la eliminarea din favorite:', error));
+}
