@@ -5,3 +5,4 @@ __pycache__/
 instance/
 .env
 tempCodeRunnerFile.py
+debug_log.txt
