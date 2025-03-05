@@ -1,5 +1,5 @@
 let allProducts = [];
-let currentIndex = 10; // Începem de la produsul 10
+let currentIndex = 0; // Începem de la primul produs
 const productsPerPage = 10; // Câte produse încărcăm pe pagină
 
 // Funcție pentru afișarea produselor
@@ -18,35 +18,15 @@ function displayProducts(products) {
         productList.appendChild(li);
     }
     currentIndex += productsPerPage;
-
-    if (currentIndex >= products.length) {
-        document.getElementById('loadMore').style.display = 'none';
-    } else {
-        document.getElementById('loadMore').style.display = 'block';
-    }
 }
 
-// Asigurăm că butonul este vizibil
-window.onload = function () {
-    let loadMoreButton = document.getElementById('loadMore');
-    if (loadMoreButton) {
-        loadMoreButton.style.display = 'block';
-    }
-};
-
-// Preluăm toate produsele disponibile la prima încărcare
-fetch('/search?query=')
-    .then(response => response.json())
-    .then(data => {
-        allProducts = data;
-        if (allProducts.length <= currentIndex) {
-            document.getElementById('loadMore').style.display = 'none';
+// Funcție pentru detectarea scroll-ului și încărcarea produselor
+window.addEventListener('scroll', function() {
+    if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 100) {
+        if (currentIndex < allProducts.length) {
+            displayProducts(allProducts);
         }
-    });
-
-// Eveniment pentru butonul „Load More”
-document.getElementById('loadMore').addEventListener('click', function () {
-    displayProducts(allProducts);
+    }
 });
 
 // Debounce pentru căutare
@@ -154,9 +134,15 @@ function removeFromFavorites(name) {
 
 function updateFavCount() {
     fetch('/get_favorites')
-        .then(response => response.json())
-        .then(data => {
-            document.getElementById('favCount').innerText = data.length;
-        });
+    .then(response => response.json())
+    .then(data => {
+        if (data.length > 0) {
+            document.querySelector('.fav-icon i').classList.add('active');
+        }
+    });
+
+document.querySelector('.fav-icon i').addEventListener('click', function() {
+    this.classList.toggle('active');
+});
 }
 updateFavCount();

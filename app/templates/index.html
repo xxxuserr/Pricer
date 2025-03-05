@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PRICER</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
 </head>
 <body>
 
@@ -15,13 +17,16 @@
 
         <button id="darkModeToggle">🌙 Dark Mode</button>
 
-        <a href="/favorites" class="favorite-link">❤️ Favorite</a>
+        
 
 
         <div class="main-content">
             <div class="search-container">
                 <input type="text" id="search" placeholder="Caută un produs..." required>
                 <button type="button" id="searchButton">Caută</button>
+                <a href="/favorites" class="fav-icon">
+                    <i class="fas fa-heart"></i>
+                </a>
             </div>
 
             <div id="loader" class="hidden"></div>
@@ -45,7 +50,6 @@
                 {% endfor %}
             </ul>
             
-            <button id="loadMore">Încarcă mai multe</button>
             <p class="no-results" id="noResultsMessage"></p>
         </div>
 

@@ -114,6 +114,25 @@ body {
     background-color: #004494;
 }
 
+.fav-icon {
+    font-size: 48px; /* Mărește dimensiunea iconiței */
+    color: #999;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 15px; /* Adaugă puțin spațiu între buton și inimă */
+}
+
+.fav-icon i {
+    transition: color 0.3s ease, transform 0.2s ease;
+}
+
+.fav-icon:hover i {
+    color: red;
+    transform: scale(1.2); /* Ușor efect de mărire la hover */
+}
+
+
+
 
 
 
@@ -237,27 +256,6 @@ li img {
 .favorite-link:hover {
     transform: scale(1.1);
     background-color: #c82333;
-}
-
-/* Load more */
-
-#loadMore {
-    display: block;
-    width: 200px;
-    margin: 20px auto;
-    padding: 10px;
-    font-size: 1.2em;
-    background-color: #007bff;
-    color: white;
-    border: none;
-    border-radius: 10px;
-    cursor: pointer;
-    transition: transform 0.3s ease;
-}
-
-#loadMore:hover {
-    transform: scale(1.1);
-    background-color: #0056b3;
 }
 
 
