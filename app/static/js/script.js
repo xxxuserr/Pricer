@@ -5,6 +5,8 @@ const productsPerPage = 10; // Câte produse încărcăm pe pagină
 // Funcție pentru afișarea produselor
 function displayProducts(products) {
     let productList = document.getElementById('productList');
+    productList.innerHTML = ""; // Curățăm lista înainte de a adăuga noi produse
+    
     for (let i = currentIndex; i < currentIndex + productsPerPage && i < products.length; i++) {
         let product = products[i];
         let li = document.createElement('li');
@@ -20,6 +22,22 @@ function displayProducts(products) {
     currentIndex += productsPerPage;
 }
 
+// Funcție pentru afișarea loader-ului
+function showLoader() {
+    let productList = document.getElementById('productList');
+    productList.innerHTML = "";
+    let loaderDiv = document.createElement("div");
+    loaderDiv.className = "loader-container";
+    loaderDiv.innerHTML = `<div class="spinner"></div>`;
+    productList.appendChild(loaderDiv);
+}
+
+// Funcție pentru ascunderea loader-ului
+function hideLoader() {
+    let loader = document.querySelector(".loader-container");
+    if (loader) loader.remove();
+}
+
 // Funcție pentru detectarea scroll-ului și încărcarea produselor
 window.addEventListener('scroll', function() {
     if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 100) {
@@ -29,13 +47,13 @@ window.addEventListener('scroll', function() {
     }
 });
 
-// Debounce pentru căutare
+// Debounce pentru căutare (evităm căutarea automată nedorită)
 let debounceTimer;
 document.getElementById('search').addEventListener('input', function() {
     clearTimeout(debounceTimer);
     debounceTimer = setTimeout(() => {
-        document.getElementById('searchButton').click();
-    }, 500);
+        console.log("Căutare inițiată");
+    }, 500); // Doar debufferează input-ul, fără a căuta automat
 });
 
 // Căutare produse
@@ -43,20 +61,18 @@ document.getElementById('searchButton').addEventListener('click', function(e) {
     e.preventDefault();
     let query = document.getElementById('search').value.trim();
     let productList = document.getElementById('productList');
-    let loader = document.getElementById('loader');
 
     if (query.length < 3) {
         alert("Introduceți cel puțin 3 caractere pentru căutare.");
         return;
     }
 
-    productList.innerHTML = ''; // Curățăm lista
-    loader.classList.remove('hidden');
+    showLoader(); // Afișează loader-ul înainte de a trimite cererea
 
     fetch(`/search?query=${query}`)
         .then(response => response.json())
         .then(data => {
-            loader.classList.add('hidden');
+            hideLoader(); // Ascunde loader-ul
             if (data.length === 0) {
                 productList.innerHTML = '<p class="no-results show">Nu au fost găsite produse.</p>';
             } else {
@@ -66,7 +82,7 @@ document.getElementById('searchButton').addEventListener('click', function(e) {
             }
         })
         .catch(error => {
-            loader.classList.add('hidden');
+            hideLoader(); // Ascunde loader-ul în caz de eroare
             productList.innerHTML = '<p class="no-results show">A apărut o eroare la căutare.</p>';
             console.error('Eroare la căutare:', error);
         });
@@ -134,15 +150,9 @@ function removeFromFavorites(name) {
 
 function updateFavCount() {
     fetch('/get_favorites')
-    .then(response => response.json())
-    .then(data => {
-        if (data.length > 0) {
-            document.querySelector('.fav-icon i').classList.add('active');
-        }
-    });
-
-document.querySelector('.fav-icon i').addEventListener('click', function() {
-    this.classList.toggle('active');
-});
+        .then(response => response.json())
+        .then(data => {
+            document.getElementById('favCount').innerText = data.length;
+        });
 }
 updateFavCount();
