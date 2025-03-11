@@ -5,7 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PRICER</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    
 
 </head>
 <body>
@@ -45,6 +47,11 @@
                             link: '{{ product.link }}'
                         })">⭐ Adaugă la favorite</button>
                     </div>
+                    <a href="{{ url_for('login') }}" class="auth-icon">
+                        <i class="fas fa-user"></i>
+                    </a>
+                    
+                    
                 </li>
                 
                 {% endfor %}
@@ -53,10 +60,15 @@
             <p class="no-results" id="noResultsMessage"></p>
         </div>
         {% if current_user.is_authenticated %}
-        <a href="{{ url_for('logout') }}">Deconectare</a>
-    {% else %}
-        <a href="{{ url_for('login') }}">Autentificare</a>
-    {% endif %}
+    <a href="{{ url_for('logout') }}" class="auth-icon">
+        <i class="fas fa-sign-out-alt"></i>
+    </a>
+{% else %}
+    <a href="{{ url_for('login') }}" class="auth-icon">
+        <i class="fas fa-user"></i>
+    </a>
+{% endif %}
+
         <footer>
             <p>&copy; 2025 PRICER. Toate drepturile rezervate.</p>
         </footer>
