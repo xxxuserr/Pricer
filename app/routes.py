@@ -101,6 +101,20 @@ def login():
 
     return render_template("login.html")
 
+
+@app.route("/profile", methods=["GET", "POST"])
+@login_required
+def profile():
+    return render_template("profile.html", user=current_user)
+
+@app.route("/update_profile", methods=["POST"])
+@login_required
+def update_profile():
+    current_user.username = request.form.get("username")
+    db.session.commit()
+    flash("Profil actualizat cu succes!", "success")
+    return redirect(url_for("profile"))
+
 @app.route("/logout")
 @login_required
 def logout():

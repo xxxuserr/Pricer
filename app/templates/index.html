@@ -60,14 +60,15 @@
             <p class="no-results" id="noResultsMessage"></p>
         </div>
         {% if current_user.is_authenticated %}
-    <a href="{{ url_for('logout') }}" class="auth-icon">
-        <i class="fas fa-sign-out-alt"></i>
+    <a href="{{ url_for('profile') }}" class="auth-icon">
+        <i class="fas fa-user"></i>
     </a>
 {% else %}
     <a href="{{ url_for('login') }}" class="auth-icon">
         <i class="fas fa-user"></i>
     </a>
 {% endif %}
+
 
         <footer>
             <p>&copy; 2025 PRICER. Toate drepturile rezervate.</p>

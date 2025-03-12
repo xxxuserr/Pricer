@@ -21,5 +21,9 @@ def home():
     
     return render_template('index.html', shopping_results=shopping_results, search_query=search_query)
 
+
+
+
+
 if __name__ == '__main__':
     app.run(debug=True)
