@@ -1,5 +1,8 @@
 import requests
 import re
+from bs4 import BeautifulSoup
+from app.price_scraper import get_price_from_link_selenium
+
 
 def log_debug(message):
     with open("debug_log.txt", "a", encoding="utf-8") as log_file:
@@ -16,7 +19,6 @@ def search_product(query):
             return []
 
         results = response.json()
-        print(results)
         for result in results.get('organic_results', []):
             log_debug(f"\n Analiză produs: {result}")
         for result in results.get('shopping_results', []):
@@ -49,22 +51,59 @@ def search_product(query):
     return products
 
 def get_price_from_link(link):
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
+    
     try:
-        response = requests.get(link)
-        if response.status_code == 200:
-            log_debug(f"\n Conținutul paginii {link} (primele 2000 de caractere):")
-            log_debug(response.text[:1000])
+        response = requests.get(link, headers=headers, timeout=10)
+        if response.status_code != 200:
+            log_debug(f"Eroare la accesarea paginii: {response.status_code}")
+            return get_price_from_link_selenium(link)  # Trecem la Selenium dacă requestul eșuează
 
-            matches = re.findall(r'(\d{4,}[\.,]?\d*)\s*(MDL|lei)', response.text)
-            if matches:
-                for match in matches:
-                    price = match[0].replace(',', '.')
-                    log_debug(f" Preț găsit: {price} {match[1]}")
-                    return float(price)
-                log_debug(" Nu s-a găsit un preț valid.")
-            else:
-                log_debug(" Niciun preț MDL/lei găsit pe pagină.")
+        soup = BeautifulSoup(response.text, "lxml")
+        
+        # 🔹 Caută prețul în clasele specifice ale site-urilor
+        price_elements = [
+            "span.price-new",  
+            "div.price-new",   
+            "span.grid-price", 
+            "div.product-price",
+            "span.regular",     
+            "div.custom_product_price",
+            "p.text-[20px]",  # Adăugat pentru noul site
+        ]
+
+        for selector in price_elements:
+            element = soup.select_one(selector)
+            if element:
+                raw_price = element.get_text(strip=True)
+                extracted_price = extract_price(raw_price)
+                if extracted_price:
+                    return extracted_price
+
+        # 🔹 Dacă nu găsește nimic în elementele CSS, folosim Selenium
+        return get_price_from_link_selenium(link)
+    
     except Exception as e:
-        log_debug(f" Eroare la obținerea prețului de la link: {e}")
+        log_debug(f"Eroare la parsarea paginii: {e}")
+        return None
+
+def extract_price(text):
+    """
+    Funcție care extrage un preț dintr-un text folosind regex îmbunătățit.
+    """
+    pattern = r'(\d{1,3}(?:[\s,.]?\d{3})*(?:[\.,]\d{2})?)\s*(MDL|lei|RON|€|\$)'
+    
+    matches = re.findall(pattern, text)
+    if matches:
+        price = matches[0][0].replace(",", ".").replace(" ", "")
+        return float(price)
     
     return None
+
+#  Testare pe un URL de produs
+#if __name__ == "__main__":
+#   test_url = "https://www.smart.md/apple-iphone-15-pro-max-256gb-blue-titanium"
+#    price = get_price_from_link(test_url)
+#    print(f"Preț extras: {price} lei")
