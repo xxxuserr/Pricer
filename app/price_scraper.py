@@ -3,7 +3,8 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
-import time
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 import re
 
 def extract_price(text):
@@ -24,26 +25,36 @@ def get_price_from_link_selenium(link):
     chrome_options = Options()
     chrome_options.add_argument("--headless")
     chrome_options.add_argument("--disable-gpu")
+    chrome_options.add_argument("--disable-software-rasterizer")
     chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+    chrome_options.add_argument("--log-level=3")  # 🔹 Ascunde warning-urile din ChromeDriver
+    chrome_options.add_argument("--silent")  # 🔹 Face Selenium mai tăcut
 
     service = Service(ChromeDriverManager().install())
     driver = webdriver.Chrome(service=service, options=chrome_options)
 
     try:
         driver.get(link)
-        time.sleep(5)  # Așteptăm să se încarce pagina complet
 
-        # 🔍 Verificăm mai multe clase posibile unde poate fi prețul
+        # 🔹 Așteptăm ca pagina să fie complet încărcată
+        WebDriverWait(driver, 15).until(
+            EC.presence_of_element_located((By.TAG_NAME, "body"))
+        )
+        
+        # 🔹 Verificăm mai multe clase posibile pentru preț
         price_selectors = [
+            "//span[contains(@class, 'text-blue') and contains(@class, 'font-bold')]",  # Ultra.md
             "//p[contains(@class, 'regular')]",  
             "//div[contains(@class, 'custom_product_price')]",
-            "//span[contains(@class, 'text-blue') and contains(@class, 'font-bold')]",  # Ultra.md
             "//span[contains(text(), 'lei')]"  
         ]
 
         for selector in price_selectors:
             try:
-                price_element = driver.find_element(By.XPATH, selector)
+                price_element = WebDriverWait(driver, 15).until(
+                    EC.presence_of_element_located((By.XPATH, selector))
+                )
                 price_text = price_element.text.strip()
                 extracted_price = extract_price(price_text)
                 if extracted_price:
@@ -56,10 +67,10 @@ def get_price_from_link_selenium(link):
         return None
 
     except Exception as e:
-        print(f"Eroare Selenium: {e}")
+        print(f"❌ Eroare Selenium: {e}")
         driver.quit()
         return None
 
 # 🔥 Testare
-#url = "https://ultra.md/product/s928-s24-ultra-12512gb-black"
+#url = "https://www.orange.md/ro/shop/catalog/telefoane/samsung-galaxy-s24"
 #print(f"Preț extras: {get_price_from_link_selenium(url)} lei")

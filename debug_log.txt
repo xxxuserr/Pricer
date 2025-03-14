@@ -20294,3 +20294,474 @@ Eroare la parsarea paginii: Malformed attribute selector at position 7
   line 1:
 p.text-[20px]
        ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+
+ Analiză produs: {'position': 1, 'title': 'Apple iPhone 15 Pro Max - Darwin.md', 'link': 'https://darwin.md/telefoane/smartphone/apple-iphone-15-pro-max', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/telefoane/smartphone/apple-iphone-15-pro-max&ved=2ahUKEwi92oPjp4mMAxUy8MkDHYkTK3cQFnoECBgQAQ', 'displayed_link': 'https://darwin.md › Telefoane › Smartphone', 'thumbnail': 'https://serpapi.com/searches/67d3fdd9984db46c3f6a3efe/images/7f103a136e9905406e997a912e294bc62a31329d09644dec892b6830ed2f5ae5.jpeg', 'favicon': 'https://serpapi.com/searches/67d3fdd9984db46c3f6a3efe/images/7f103a136e9905406e997a912e294bc6920b6ac21ce2c9b629a91123b7e04121.png', 'snippet': 'Noul iPhone 15 Pro Max oferă o creștere vizibilă a performanțelor, cu un design îmbunătățit și capacități îmbunătățite ale camerei foto care depășesc modelele ...', 'snippet_highlighted_words': ['iPhone 15 Pro Max oferă o creștere vizibilă a performanțelor'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 2, 'title': 'iPhone 15 Pro și 15 Pro Max din titanium - ENTER.ONLINE', 'link': 'https://enter.online/telefoane/smartphone-uri/apple-iphone-15-pro-si-pro-max', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enter.online/telefoane/smartphone-uri/apple-iphone-15-pro-si-pro-max&ved=2ahUKEwi92oPjp4mMAxUy8MkDHYkTK3cQFnoECBcQAQ', 'displayed_link': 'https://enter.online › telefoane › smartphone-uri › apple...', 'favicon': 'https://serpapi.com/searches/67d3fdd9984db46c3f6a3efe/images/7f103a136e9905406e997a912e294bc6609c9bc7667341fca2170cef8e7b7c84.png', 'snippet': 'Alege iPhone din seria Pro pentru o experiență cu adevărat profesională. Efectuează o precomandă de iPhone 15 Pro sau Pro Max la Enter cu livrare gratuită ...', 'snippet_highlighted_words': ['iPhone 15 Pro sau Pro Max'], 'source': 'enter.online'}
+
+ Analiză produs: {'position': 3, 'title': 'Cumpără Apple iPhone 15 Pro Max 5G 256GB', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/iphone-15-pro-max-256gb.html', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/iphone-15-pro-max-256gb.html&ved=2ahUKEwi92oPjp4mMAxUy8MkDHYkTK3cQFnoECBoQAQ', 'displayed_link': 'https://www.orange.md › ... › Toate telefoanele', 'favicon': 'https://serpapi.com/searches/67d3fdd9984db46c3f6a3efe/images/7f103a136e9905406e997a912e294bc6a18c4092d48449a772ae1df6c9b8e34f.png', 'snippet': 'Ecran Imersiv: Bucură-te de un ecran Super Retina XDR de 6.7 inch, cu contrast deosebit și acuratețe a culorilor, care aduce fiecare detaliu la viață cu o ...', 'snippet_highlighted_words': ['ecran Super Retina XDR de 6.7 inch'], 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 4, 'title': 'iPhone 15 Pro Max - Tech Specs', 'link': 'https://support.apple.com/en-us/111828', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://support.apple.com/en-us/111828&ved=2ahUKEwi92oPjp4mMAxUy8MkDHYkTK3cQFnoECBMQAQ', 'displayed_link': 'https://support.apple.com › ...', 'favicon': 'https://serpapi.com/searches/67d3fdd9984db46c3f6a3efe/images/7f103a136e9905406e997a912e294bc693fffca678349a330d40e94651b8cc6b.png', 'snippet': 'Display · Super Retina XDR display · 6.7‑inch (diagonal) all‑screen OLED display · 2796‑by‑1290-pixel resolution at 460 ppi · Dynamic Island · Always-On display.', 'snippet_highlighted_words': ['Super Retina XDR display'], 'source': 'Apple Support'}
+
+ Analiză produs: {'position': 5, 'title': 'Smartphone-uri APPLE iPhone 15 Pro Max', 'link': 'https://breezy.md/smartphone/vendor=apple/series=iphone-15-pro-max', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://breezy.md/smartphone/vendor%3Dapple/series%3Diphone-15-pro-max&ved=2ahUKEwi92oPjp4mMAxUy8MkDHYkTK3cQFnoECBkQAQ', 'displayed_link': 'https://breezy.md › ... › APPLE', 'thumbnail': 'https://serpapi.com/searches/67d3fdd9984db46c3f6a3efe/images/7f103a136e9905406e997a912e294bc6cf7d4efed2a90346e8567255f4336457.jpeg', 'favicon': 'https://serpapi.com/searches/67d3fdd9984db46c3f6a3efe/images/7f103a136e9905406e997a912e294bc6d2f3993eb885aa37cd42e5acb921bad6.png', 'snippet': 'Apple iPhone 15 Pro Max 256 GB Natural Titanium, 17 499 lei ; Apple iPhone 15 Pro Max 1 TB Black Titanium, 25 809 lei ; Apple iPhone 15 Pro Max 512 GB ...', 'snippet_highlighted_words': ['Apple iPhone 15 Pro Max 256 GB Natural Titanium, 17 499 lei'], 'source': 'BREEZY.MD'}
+
+ Analiză produs: {'position': 6, 'title': 'iPhone 15 Pro Max 256GB Natural Titanium', 'link': 'https://gorilla.md/produs/iphone-15-pro-max-256gb-natural-titanium/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gorilla.md/produs/iphone-15-pro-max-256gb-natural-titanium/&ved=2ahUKEwi92oPjp4mMAxUy8MkDHYkTK3cQFnoECBYQAQ', 'displayed_link': 'https://gorilla.md › SMARTPHONE › Apple', 'thumbnail': 'https://serpapi.com/searches/67d3fdd9984db46c3f6a3efe/images/7f103a136e9905406e997a912e294bc66126642c509112d7d75202dc0348886b.jpeg', 'favicon': 'https://serpapi.com/searches/67d3fdd9984db46c3f6a3efe/images/7f103a136e9905406e997a912e294bc6f5c4dfed9e0d4f30f0b5811ad4372016.png', 'snippet': 'Sistem de operare: iOS 17 · Diagonală display: 6.7 " · Chipset: Apple A17 Pro (3 nm) · Număr de nuclee: 6 · Frecvență de actualizare: 120 GHz · GPU: Apple GPU (6- ...', 'snippet_highlighted_words': ['Pro'], 'source': 'gorilla.md'}
+
+ Analiză produs: {'position': 7, 'title': 'iPhone 15 PRO Max. Vezi preturi si Comanda ...', 'link': 'https://www.emag.ro/telefoane-mobile/brand/apple/filter/model-f9396,iphone-15-pro-max-v-12731584/c', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.emag.ro/telefoane-mobile/brand/apple/filter/model-f9396,iphone-15-pro-max-v-12731584/c&ved=2ahUKEwi92oPjp4mMAxUy8MkDHYkTK3cQFnoECBUQAQ', 'displayed_link': 'https://www.emag.ro › brand › apple › filter › model-f...', 'thumbnail': 'https://serpapi.com/searches/67d3fdd9984db46c3f6a3efe/images/7f103a136e9905406e997a912e294bc6b40664745195307cad96017cc2853c0c.jpeg', 'favicon': 'https://serpapi.com/searches/67d3fdd9984db46c3f6a3efe/images/7f103a136e9905406e997a912e294bc66a7774db2afdad7032329c8f0c062164.png', 'snippet': 'Telefon mobil Apple iPhone 15 Pro Max, 256GB, 5G, Black Titanium · 6.299 ; RESIGILAT: Telefon mobil Apple iPhone 15 Pro Max, independent de card, 256 GB, 5G, ...', 'snippet_highlighted_words': ['Telefon mobil Apple iPhone 15 Pro Max'], 'source': 'eMAG'}
+
+ Analiză produs: {'position': 8, 'title': 'Apple iPhone 15 - Chișinău - smart.md', 'link': 'https://www.smart.md/ro/apple-iphone-15', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.smart.md/ro/apple-iphone-15&ved=2ahUKEwi92oPjp4mMAxUy8MkDHYkTK3cQFnoECDIQAQ', 'displayed_link': 'https://www.smart.md › ... › Smartphone Apple', 'thumbnail': 'https://serpapi.com/searches/67d3fdd9984db46c3f6a3efe/images/7f103a136e9905406e997a912e294bc61ad7a1bcb2fdcbcc111eca3a73346221.jpeg', 'favicon': 'https://serpapi.com/searches/67d3fdd9984db46c3f6a3efe/images/7f103a136e9905406e997a912e294bc6135367556a40ef9c1dd1212bc2ee65dc.png', 'snippet': 'Descoperă și experimentează inovația adusă de iPhone 15, inclusiv variantele Pro și Pro Max. Fie că îți dorești performanță maximă, funcționalități avansate sau ...', 'snippet_highlighted_words': ['iPhone 15', 'Pro Max'], 'source': 'smart.md'}
+
+ Analiză produs: {'position': 9, 'title': 'Apple iPhone 15 Pro Max 256GB', 'link': 'https://moldcell.md/rom/business/devices/apple-iphone-15-pro-max-256gb', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://moldcell.md/rom/business/devices/apple-iphone-15-pro-max-256gb&ved=2ahUKEwi92oPjp4mMAxUy8MkDHYkTK3cQFnoECDcQAQ', 'displayed_link': 'https://moldcell.md › rom › business › devices › apple-i...', 'thumbnail': 'https://serpapi.com/searches/67d3fdd9984db46c3f6a3efe/images/7f103a136e9905406e997a912e294bc6c4f5e205208e71be4eb0de907eae77cd.jpeg', 'favicon': 'https://serpapi.com/searches/67d3fdd9984db46c3f6a3efe/images/7f103a136e9905406e997a912e294bc64159c2ae75130fd80328f0b3e776bf56.png', 'snippet': 'Preț online. 27 999 lei. Preț în rate. Avans 10899 lei + 1810 lei / lunar Contract 10 luni. Dimensiuni, 159.9 x 76.7 x 8.3. Greutate, 221 g.', 'snippet_highlighted_words': ['Preț online. 27 999 lei'], 'source': 'Moldcell'}
+
+ Analiză produs: {'position': 10, 'title': 'iPhone 15 Pro Max', 'link': 'https://ispace.md/iphone/iphone-15-pro-max', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ispace.md/iphone/iphone-15-pro-max&ved=2ahUKEwi92oPjp4mMAxUy8MkDHYkTK3cQFnoECC8QAQ', 'displayed_link': 'https://ispace.md › iPhone', 'thumbnail': 'https://serpapi.com/searches/67d3fdd9984db46c3f6a3efe/images/7f103a136e9905406e997a912e294bc67e446ddefc51ff490309a657bafa4ba5.jpeg', 'favicon': 'https://serpapi.com/searches/67d3fdd9984db46c3f6a3efe/images/7f103a136e9905406e997a912e294bc676a3df36f3e1fc4bbb2ff9d21df37e2f.png', 'snippet': 'iPhone 15 pro max are multe avantaje, inclusiv performanțe de top, un ecran uimitor, un sistem de cameră foto avansat și fiabilitatea ecosistemului Apple.', 'snippet_highlighted_words': ['iPhone 15 pro max'], 'source': 'ispace.md'}
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+
+ Analiză produs: {'position': 1, 'title': 'Smartphone Samsung Galaxy S24 Ultra, 12GB/512GB ...', 'link': 'https://ultra.md/product/s928-s24-ultra-12512gb-black', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ultra.md/product/s928-s24-ultra-12512gb-black&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECCAQAQ', 'displayed_link': 'https://ultra.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32d6f023e2970ac627166abbafec715d779.png', 'snippet': 'Smartphone Samsung Galaxy S24 Ultra, 12GB/512GB, Titanium Black · Rezumat · Diagonala ecranului: 6,8 " · Rezolutia ecranului: 3120x1440 · Max. Rezoluția camerei: ...', 'snippet_highlighted_words': ['Smartphone Samsung Galaxy S24 Ultra'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 5.0, 'reviews': 5}, 'extensions': ['5,0(5)']}}, 'source': 'Ultra.md'}
+
+ Analiză produs: {'position': 2, 'title': 'Cumpara Samsung S24 | S24 + | S24 Ultra in Darwin MD', 'link': 'https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECBUQAQ', 'displayed_link': 'https://darwin.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32ddd902ecdbf40f03bbad7aed122310080.png', 'snippet': 'Samsung Galaxy S24 Ultra este flagship-ul seriei S24. Cu un ecran de 6,8 inch și camere de 200 MP, acest dispozitiv este destinat celor mai pretențioși ...', 'snippet_highlighted_words': ['Samsung Galaxy S24 Ultra'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 3, 'title': 'Samsung Galaxy S24 Ultra 12 GB/ 256 GB/ Dual SIM', 'link': 'https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-5g-dual-sim-titanium-gray', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-5g-dual-sim-titanium-gray&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECBYQAQ', 'displayed_link': 'https://enter.online › telefoane › smartphone-uri › sams...', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32da47ac3b49afd6deb40b2241529f45e02.png', 'snippet': 'Samsung Galaxy S24 Ultra 12 GB/ 256 GB/ Dual SIM/ Gray Titanium ; Standard HDR, 10+ ; Refresh rate, 120 Hz ; Densitate pixeli, 416 ppi ; Protecție ecran, Corning ...', 'snippet_highlighted_words': ['Samsung Galaxy S24 Ultra 12 GB/ 256 GB/ Dual SIM'], 'source': 'enter.online'}
+
+ Analiză produs: {'position': 4, 'title': 'Cumpara Galaxy S24 Ultra | Preț si Oferte', 'link': 'https://www.samsung.com/ro/smartphones/galaxy-s24-ultra/buy/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.samsung.com/ro/smartphones/galaxy-s24-ultra/buy/&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECBwQAQ', 'displayed_link': 'https://www.samsung.com › ... › Galaxy S24 Ultra', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32dba81c3040a3b464dee8c6bd35d2634e6.png', 'snippet': 'Cumpara Samsung Galaxy S24 Ultra, cu noi functii AI si beneficiezi de oferte exclusive, doar pentru o perioada de timp limitata. Disponibil pe Samsung.com.', 'snippet_highlighted_words': ['Cumpara Samsung Galaxy S24 Ultra'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 4.8, 'reviews': 6948}, 'extensions': ['4,8(6.948)']}}, 'source': 'Samsung'}
+
+ Analiză produs: {'position': 5, 'title': 'Telefon SAMSUNG Galaxy S24 Ultra 5G, 512GB, 12GB ...', 'link': 'https://altex.ro/telefon-samsung-galaxy-s24-ultra-5g-512gb-12gb-ram-dual-sim-titanium-black/cpd/SMTS24U5BK/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://altex.ro/telefon-samsung-galaxy-s24-ultra-5g-512gb-12gb-ram-dual-sim-titanium-black/cpd/SMTS24U5BK/&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECBkQAQ', 'displayed_link': 'https://altex.ro › Telefoane, Tablete › Telefoane', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32d8fb079c747b921551d5be568dee9b424.png', 'snippet': 'Cumpara acum Telefon SAMSUNG Galaxy S24 Ultra 5G, 512GB, 12GB RAM, Dual SIM, Titanium Black la pretul de 5408.7 lei.', 'snippet_highlighted_words': ['Telefon SAMSUNG Galaxy S24 Ultra 5G, 512GB, 12GB RAM'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 4.8, 'reviews': 81}, 'extensions': ['4,8(81)']}}, 'source': 'Altex'}
+
+ Analiză produs: {'position': 6, 'title': 'Samsung Galaxy S24 Ultra 12/512GB | Лучшие цены ⭐', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/samsung-galaxy-s24-ultra-12-512gb.html', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/samsung-galaxy-s24-ultra-12-512gb.html&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECCYQAQ', 'displayed_link': 'https://www.orange.md › sa...', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32dec94d0db3bf5a0726f5b63dd8e581d72.png', 'snippet': 'Погружающий Экран: Наслаждайтесь экраном Dynamic AMOLED 2X размером 6,8 дюйма с разрешением WQHD+ и технологией HDR10+, который обеспечивает яркие цвета и ...', 'rich_snippet': {'top': {'detected_extensions': {'rating': 100, 'reviews': 54}, 'extensions': ['100 %(54)']}}, 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 7, 'title': 'Samsung Galaxy S24 Ultra 256GB Titanium Black', 'link': 'https://eshop.moldcell.md/ro/telefoane/samsung-galaxy-s24-ultra-256gb-titanium-black', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://eshop.moldcell.md/ro/telefoane/samsung-galaxy-s24-ultra-256gb-titanium-black&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECDQQAQ', 'displayed_link': 'https://eshop.moldcell.md › telefoane › samsung-galaxy-...', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32d8671fef9a40361aeb6e89e26d1f84057.png', 'snippet': 'Ai 1000 lei reducere la portare*. Samsung Galaxy S24 Ultra. 256GB Titanium Black. 25 899 lei. Solicită oferta.', 'snippet_highlighted_words': ['Samsung Galaxy S24 Ultra'], 'source': 'Magazin Online Moldcell'}
+
+ Analiză produs: {'position': 8, 'title': 'Samsung S24 Ultra - eMAG.ro', 'link': 'https://www.emag.ro/telefoane-mobile/brand/samsung/filter/model-f9396,galaxy-s24-ultra-v-13067039/c', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.emag.ro/telefoane-mobile/brand/samsung/filter/model-f9396,galaxy-s24-ultra-v-13067039/c&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECDMQAQ', 'displayed_link': 'https://www.emag.ro › brand › samsung › filter › mode...', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32d145382ebba1d83440a82d1be9e5dee14.png', 'snippet': 'Telefon mobil Samsung Galaxy S24 Ultra, Dual SIM, 12GB RAM, 256GB, 5G, Titanium Black · 4.74802 review-uri(802) · VerdePortocaliuGri titanAlbastru.', 'snippet_highlighted_words': ['Telefon mobil Samsung Galaxy S24 Ultra'], 'source': 'eMAG'}
+
+ Analiză produs: {'position': 9, 'title': 'Купить Samsung S24 | S24 + | S24 Ultra в Darwin!', 'link': 'https://darwin.md/ru/telefoane/smartphone/s24-s24plus-s24ultra', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/ru/telefoane/smartphone/s24-s24plus-s24ultra&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECC8QAQ', 'displayed_link': 'https://darwin.md › telefoane', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32d87ba97a926e3cc6594f5d5a521322bec.png', 'snippet': 'Samsung Galaxy S24 Ultra — это флагман среди моделей S24. С экраном 6,8 дюйма и камерами на 200 МП, это устройство предназначено для самых требовательных ...', 'snippet_highlighted_words': ['Samsung Galaxy S24 Ultra'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 10, 'title': 'Samsung Galaxy S24 Ultra – 12GB/256GB, Titanium Black', 'link': 'https://xstore.md/telefoane/smartphone/samsung-galaxy-s24-ultra-titanium-black-12-gb-256gb', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://xstore.md/telefoane/smartphone/samsung-galaxy-s24-ultra-titanium-black-12-gb-256gb&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECDAQAQ', 'displayed_link': 'https://xstore.md › telefoane › smartphone › samsung-g...', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32d523f7826425fd7e2b67637db7a046622.png', 'snippet': 'Samsung Galaxy S24 Ultra, Titanium Black ; Diagonală 6.8" ; Capacitatea RAM 12 GB ; Memorie interna 256 GB ; Cameră frontală 12 MP ; Camera principală 200 MP, 10 MP, ...', 'snippet_highlighted_words': ['Samsung Galaxy S24 Ultra'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 5.0, 'reviews': 1}, 'extensions': ['5,0(1)']}}, 'source': 'Xstore.md'}
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+
+ Analiză produs: {'position': 1, 'title': 'Apple iPhone 15 - Chișinău - Darwin.md', 'link': 'https://darwin.md/telefoane/smartphone/apple-iphone-15', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/telefoane/smartphone/apple-iphone-15&ved=2ahUKEwjK9s2Xr4mMAxV3KlkFHVOvCpAQFnoECBsQAQ', 'displayed_link': 'https://darwin.md › Telefoane › Smartphone', 'thumbnail': 'https://serpapi.com/searches/67d4059c8a28b0eec60aee9b/images/b45cd9c1be1bc1f8e2c419b5d27be3350f072c8e49e206e07feb1fc251af4879.jpeg', 'favicon': 'https://serpapi.com/searches/67d4059c8a28b0eec60aee9b/images/b45cd9c1be1bc1f8e2c419b5d27be33563d4df4d292293ff7b50817ca2840d37.png', 'snippet': 'Apple iPhone 15 deja disponibile pentru precomandă doar în magazinul online Darwin. Cumpără iPhone 15 cu garanție și livrare gratuită în toată Moldova.', 'snippet_highlighted_words': ['Apple iPhone 15 deja disponibile pentru precomandă doar în magazinul online Darwin'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 2, 'title': 'iPhone 15 128GB Black - Gorilla ELECTRONICS', 'link': 'https://gorilla.md/produs/iphone-15-128gb-black/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gorilla.md/produs/iphone-15-128gb-black/&ved=2ahUKEwjK9s2Xr4mMAxV3KlkFHVOvCpAQFnoECB4QAQ', 'displayed_link': 'https://gorilla.md › SMARTPHONE › Apple', 'thumbnail': 'https://serpapi.com/searches/67d4059c8a28b0eec60aee9b/images/b45cd9c1be1bc1f8e2c419b5d27be335357e4c9ec68f8a6159ff48d0c0800f8e.jpeg', 'favicon': 'https://serpapi.com/searches/67d4059c8a28b0eec60aee9b/images/b45cd9c1be1bc1f8e2c419b5d27be3355777588509dd5a184afa1ccc90d24cd5.png', 'snippet': 'Sistem de operare: iOS 17 · Diagonală display: 6.1 " · Chipset: Apple A16 Bionic (4 nm) · Număr de nuclee: 6 · Memorie RAM: 6 GB · Memorie incorporata: 512 GB · Tip ...', 'snippet_highlighted_words': ['Sistem de operare: iOS 17'], 'source': 'gorilla.md'}
+
+ Analiză produs: {'position': 3, 'title': 'Apple iPhone 15 - Chișinău - smart.md', 'link': 'https://www.smart.md/ro/apple-iphone-15', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.smart.md/ro/apple-iphone-15&ved=2ahUKEwjK9s2Xr4mMAxV3KlkFHVOvCpAQFnoECBwQAQ', 'displayed_link': 'https://www.smart.md › ... › Smartphone Apple', 'thumbnail': 'https://serpapi.com/searches/67d4059c8a28b0eec60aee9b/images/b45cd9c1be1bc1f8e2c419b5d27be33598c39d2c31b9d8bf8503f65242995836.jpeg', 'favicon': 'https://serpapi.com/searches/67d4059c8a28b0eec60aee9b/images/b45cd9c1be1bc1f8e2c419b5d27be3356ceb80ccc435ee3efbeab05819abf300.png', 'snippet': 'Apple iPhone 15 descopera la smart.md. Cumpara acum Apple iPhone 15 la preturi imbatabile, oferte speciale si calitate garantata!', 'snippet_highlighted_words': ['Apple iPhone 15'], 'source': 'smart.md'}
+
+ Analiză produs: {'position': 4, 'title': 'Noua serie de iPhone 15 la precomandă și prețuri accesibile', 'link': 'https://enter.online/telefoane/smartphone-uri/apple-iphone-15-2023', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enter.online/telefoane/smartphone-uri/apple-iphone-15-2023&ved=2ahUKEwjK9s2Xr4mMAxV3KlkFHVOvCpAQFnoECBoQAQ', 'displayed_link': 'https://enter.online › telefoane › apple-iphone-15-2023', 'favicon': 'https://serpapi.com/searches/67d4059c8a28b0eec60aee9b/images/b45cd9c1be1bc1f8e2c419b5d27be33532254d4f3ffd4443f51ed069d15812f4.png', 'snippet': 'Precomandă unul din seria iPhone 15 și fii primul posesor de acest smartphone cu livrare gratuită și de la reselleri autorizați doar pe Enter.Online.', 'snippet_highlighted_words': ['Precomandă unul din seria iPhone 15'], 'source': 'enter.online'}
+
+ Analiză produs: {'position': 5, 'title': 'Apple iPhone 15 5G 128GB - Orange Moldova', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/iphone-15-128gb.html', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/iphone-15-128gb.html&ved=2ahUKEwjK9s2Xr4mMAxV3KlkFHVOvCpAQFnoECDMQAQ', 'displayed_link': 'https://www.orange.md › ... › Toate telefoanele', 'thumbnail': 'https://serpapi.com/searches/67d4059c8a28b0eec60aee9b/images/b45cd9c1be1bc1f8e2c419b5d27be335b5b7b910d1b549afbb3872d2d685653e.jpeg', 'favicon': 'https://serpapi.com/searches/67d4059c8a28b0eec60aee9b/images/b45cd9c1be1bc1f8e2c419b5d27be335fc852cc1639f4e28e80e0b7013457b8d.png', 'snippet': 'Cumpără Apple iPhone 15 5G 128GB online de la Orange ⚡️ Rate fără dobândă, ⭐️ prețuri avantajoase ⭐️ Garanție. Livrare gratuită în Chișinău și în Moldova.', 'snippet_highlighted_words': ['Cumpără Apple iPhone 15 5G 128GB online de la Orange'], 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 6, 'title': 'Apple iPhone 15 cumpara in Chisinau si Moldova', 'link': 'https://bomba.md/ro/category/apple-iphone-15/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bomba.md/ro/category/apple-iphone-15/&ved=2ahUKEwjK9s2Xr4mMAxV3KlkFHVOvCpAQFnoECDEQAQ', 'displayed_link': 'https://bomba.md › ... › Smartphone', 'thumbnail': 'https://serpapi.com/searches/67d4059c8a28b0eec60aee9b/images/b45cd9c1be1bc1f8e2c419b5d27be3350c33fca9759f8ab95acd57e93a32a69f.jpeg', 'favicon': 'https://serpapi.com/searches/67d4059c8a28b0eec60aee9b/images/b45cd9c1be1bc1f8e2c419b5d27be335b1ff0053667f6519591a791283e369be.png', 'snippet': 'Apple iPhone 15 Plus a primit port USB-C, suportă 5G și Wi-Fi 6. „Inima” smartphone-ului este procesorul A16 Bionic, utilizat pe modelele de top iPhone 14 Pro ...', 'snippet_highlighted_words': ['Apple iPhone 15 Plus'], 'source': 'BOMBA'}
+
+ Analiză produs: {'position': 7, 'title': 'Buy iPhone 15', 'link': 'https://www.apple.com/ca/shop/buy-iphone/iphone-15', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.apple.com/ca/shop/buy-iphone/iphone-15&ved=2ahUKEwjK9s2Xr4mMAxV3KlkFHVOvCpAQFnoECEMQAQ', 'displayed_link': 'https://www.apple.com › shop', 'thumbnail': 'https://serpapi.com/searches/67d4059c8a28b0eec60aee9b/images/b45cd9c1be1bc1f8e2c419b5d27be33546d89650855c6a8e00c69009865b5f1b.jpeg', 'favicon': 'https://serpapi.com/searches/67d4059c8a28b0eec60aee9b/images/b45cd9c1be1bc1f8e2c419b5d27be33565e98b823823f5d7f8dcdf044b7a2b9b.png', 'snippet': 'Get $50–$865 off a new iPhone 15 or iPhone 15 Plus when you trade in an iPhone 8 or newer. Buy now with free shipping.', 'snippet_highlighted_words': ['Get $50–$865 off a new iPhone 15'], 'sitelinks': {'inline': [{'title': 'Learn more', 'link': 'https://www.apple.com/ca/iphone-15/specs/'}, {'title': 'Buy iPhone 15 256GB Black', 'link': 'https://www.apple.com/ca/shop/buy-iphone/iphone-15/6.1-inch-display-256gb-black'}, {'title': 'Buy iPhone 15 128GB Black', 'link': 'https://www.apple.com/ca/shop/buy-iphone/iphone-15/6.1-inch-display-128gb-black'}]}, 'source': 'Apple'}
+
+ Analiză produs: {'position': 8, 'title': 'iPhone 15 🔥 Купить в Кишиневе по лучшей цене ...', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/iphone-15', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orange.md/ro/shop/catalog/telefoane/iphone-15&ved=2ahUKEwjK9s2Xr4mMAxV3KlkFHVOvCpAQFnoECEAQAQ', 'displayed_link': 'https://www.orange.md › ip...', 'thumbnail': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHw1MjbQz_qnKDqBQTqoBFa1BdYDm5ynWEfP-pwYJFWMKmwWR4V5oK&usqp=CAE&s', 'favicon': 'https://serpapi.com/searches/67d4059c8a28b0eec60aee9b/images/b45cd9c1be1bc1f8e2c419b5d27be3353c1be2e900b3c5ccc77dce8e8b5d7849.png', 'snippet': 'Apple iPhone 15 Pro 5G 128GB. 22 399 ; Apple iPhone 15 Pro Max 5G 256GB. 26 399 ; Apple iPhone 15 Pro Max 5G 512GB. 32 599 ; Apple iPhone 15 5G 128GB. 16 899 ...', 'snippet_highlighted_words': ['Apple iPhone 15 Pro 5G 128GB. 22 399'], 'sitelinks': {'inline': [{'title': 'RO', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/iphone-15-128gb.html'}, {'title': 'iPhone 15', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/iphone-15/iphone-15-'}, {'title': 'iPhone 15 Pro', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/iphone-15/iphone-15-pro'}, {'title': 'iPhone 15 Plus', 'link': 'https://www.orange.md/ru/shop/catalog/telefoane/iphone-15/iphone-15-plus'}]}, 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 9, 'title': 'Apple iPhone 15 128GB SS Black в Кишиневе, Молдова', 'link': 'https://alo.md/ro/apple-4/apple-iphone-15-128gb-ss-black', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://alo.md/ro/apple-4/apple-iphone-15-128gb-ss-black&ved=2ahUKEwjK9s2Xr4mMAxV3KlkFHVOvCpAQFnoECDIQAQ', 'displayed_link': 'https://alo.md › ... › Smartphone toate brăndurile › Apple', 'thumbnail': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtjayeydSAcbgk5iZ4u3bNX1iLULQxmC85QeG7WYB7ZOJlTBCJ4O-U&usqp=CAE&s', 'favicon': 'https://serpapi.com/searches/67d4059c8a28b0eec60aee9b/images/b45cd9c1be1bc1f8e2c419b5d27be335d4ac505e8084f54613d6a715a7eb3400.png', 'snippet': 'Cu sistemul de operare iOS 17, chipsetul Apple A16 Bionic și opțiuni generoase de stocare, cum ar fi 128GB, 256GB sau 512GB, iPhone 15 oferă performanțe de top ...', 'snippet_highlighted_words': ['iPhone 15'], 'source': 'Alo. Md'}
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la accesarea paginii: 403
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+
+ Analiză produs: {'position': 1, 'title': 'Smartphone Samsung Galaxy S24 Ultra, 12GB/512GB ...', 'link': 'https://ultra.md/product/s928-s24-ultra-12512gb-black', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ultra.md/product/s928-s24-ultra-12512gb-black&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECCAQAQ', 'displayed_link': 'https://ultra.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32d6f023e2970ac627166abbafec715d779.png', 'snippet': 'Smartphone Samsung Galaxy S24 Ultra, 12GB/512GB, Titanium Black · Rezumat · Diagonala ecranului: 6,8 " · Rezolutia ecranului: 3120x1440 · Max. Rezoluția camerei: ...', 'snippet_highlighted_words': ['Smartphone Samsung Galaxy S24 Ultra'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 5.0, 'reviews': 5}, 'extensions': ['5,0(5)']}}, 'source': 'Ultra.md'}
+
+ Analiză produs: {'position': 2, 'title': 'Cumpara Samsung S24 | S24 + | S24 Ultra in Darwin MD', 'link': 'https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECBUQAQ', 'displayed_link': 'https://darwin.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32ddd902ecdbf40f03bbad7aed122310080.png', 'snippet': 'Samsung Galaxy S24 Ultra este flagship-ul seriei S24. Cu un ecran de 6,8 inch și camere de 200 MP, acest dispozitiv este destinat celor mai pretențioși ...', 'snippet_highlighted_words': ['Samsung Galaxy S24 Ultra'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 3, 'title': 'Samsung Galaxy S24 Ultra 12 GB/ 256 GB/ Dual SIM', 'link': 'https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-5g-dual-sim-titanium-gray', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-5g-dual-sim-titanium-gray&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECBYQAQ', 'displayed_link': 'https://enter.online › telefoane › smartphone-uri › sams...', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32da47ac3b49afd6deb40b2241529f45e02.png', 'snippet': 'Samsung Galaxy S24 Ultra 12 GB/ 256 GB/ Dual SIM/ Gray Titanium ; Standard HDR, 10+ ; Refresh rate, 120 Hz ; Densitate pixeli, 416 ppi ; Protecție ecran, Corning ...', 'snippet_highlighted_words': ['Samsung Galaxy S24 Ultra 12 GB/ 256 GB/ Dual SIM'], 'source': 'enter.online'}
+
+ Analiză produs: {'position': 4, 'title': 'Cumpara Galaxy S24 Ultra | Preț si Oferte', 'link': 'https://www.samsung.com/ro/smartphones/galaxy-s24-ultra/buy/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.samsung.com/ro/smartphones/galaxy-s24-ultra/buy/&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECBwQAQ', 'displayed_link': 'https://www.samsung.com › ... › Galaxy S24 Ultra', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32dba81c3040a3b464dee8c6bd35d2634e6.png', 'snippet': 'Cumpara Samsung Galaxy S24 Ultra, cu noi functii AI si beneficiezi de oferte exclusive, doar pentru o perioada de timp limitata. Disponibil pe Samsung.com.', 'snippet_highlighted_words': ['Cumpara Samsung Galaxy S24 Ultra'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 4.8, 'reviews': 6948}, 'extensions': ['4,8(6.948)']}}, 'source': 'Samsung'}
+
+ Analiză produs: {'position': 5, 'title': 'Telefon SAMSUNG Galaxy S24 Ultra 5G, 512GB, 12GB ...', 'link': 'https://altex.ro/telefon-samsung-galaxy-s24-ultra-5g-512gb-12gb-ram-dual-sim-titanium-black/cpd/SMTS24U5BK/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://altex.ro/telefon-samsung-galaxy-s24-ultra-5g-512gb-12gb-ram-dual-sim-titanium-black/cpd/SMTS24U5BK/&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECBkQAQ', 'displayed_link': 'https://altex.ro › Telefoane, Tablete › Telefoane', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32d8fb079c747b921551d5be568dee9b424.png', 'snippet': 'Cumpara acum Telefon SAMSUNG Galaxy S24 Ultra 5G, 512GB, 12GB RAM, Dual SIM, Titanium Black la pretul de 5408.7 lei.', 'snippet_highlighted_words': ['Telefon SAMSUNG Galaxy S24 Ultra 5G, 512GB, 12GB RAM'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 4.8, 'reviews': 81}, 'extensions': ['4,8(81)']}}, 'source': 'Altex'}
+
+ Analiză produs: {'position': 6, 'title': 'Samsung Galaxy S24 Ultra 12/512GB | Лучшие цены ⭐', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/samsung-galaxy-s24-ultra-12-512gb.html', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/samsung-galaxy-s24-ultra-12-512gb.html&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECCYQAQ', 'displayed_link': 'https://www.orange.md › sa...', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32dec94d0db3bf5a0726f5b63dd8e581d72.png', 'snippet': 'Погружающий Экран: Наслаждайтесь экраном Dynamic AMOLED 2X размером 6,8 дюйма с разрешением WQHD+ и технологией HDR10+, который обеспечивает яркие цвета и ...', 'rich_snippet': {'top': {'detected_extensions': {'rating': 100, 'reviews': 54}, 'extensions': ['100 %(54)']}}, 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 7, 'title': 'Samsung Galaxy S24 Ultra 256GB Titanium Black', 'link': 'https://eshop.moldcell.md/ro/telefoane/samsung-galaxy-s24-ultra-256gb-titanium-black', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://eshop.moldcell.md/ro/telefoane/samsung-galaxy-s24-ultra-256gb-titanium-black&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECDQQAQ', 'displayed_link': 'https://eshop.moldcell.md › telefoane › samsung-galaxy-...', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32d8671fef9a40361aeb6e89e26d1f84057.png', 'snippet': 'Ai 1000 lei reducere la portare*. Samsung Galaxy S24 Ultra. 256GB Titanium Black. 25 899 lei. Solicită oferta.', 'snippet_highlighted_words': ['Samsung Galaxy S24 Ultra'], 'source': 'Magazin Online Moldcell'}
+
+ Analiză produs: {'position': 8, 'title': 'Samsung S24 Ultra - eMAG.ro', 'link': 'https://www.emag.ro/telefoane-mobile/brand/samsung/filter/model-f9396,galaxy-s24-ultra-v-13067039/c', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.emag.ro/telefoane-mobile/brand/samsung/filter/model-f9396,galaxy-s24-ultra-v-13067039/c&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECDMQAQ', 'displayed_link': 'https://www.emag.ro › brand › samsung › filter › mode...', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32d145382ebba1d83440a82d1be9e5dee14.png', 'snippet': 'Telefon mobil Samsung Galaxy S24 Ultra, Dual SIM, 12GB RAM, 256GB, 5G, Titanium Black · 4.74802 review-uri(802) · VerdePortocaliuGri titanAlbastru.', 'snippet_highlighted_words': ['Telefon mobil Samsung Galaxy S24 Ultra'], 'source': 'eMAG'}
+
+ Analiză produs: {'position': 9, 'title': 'Купить Samsung S24 | S24 + | S24 Ultra в Darwin!', 'link': 'https://darwin.md/ru/telefoane/smartphone/s24-s24plus-s24ultra', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/ru/telefoane/smartphone/s24-s24plus-s24ultra&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECC8QAQ', 'displayed_link': 'https://darwin.md › telefoane', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32d87ba97a926e3cc6594f5d5a521322bec.png', 'snippet': 'Samsung Galaxy S24 Ultra — это флагман среди моделей S24. С экраном 6,8 дюйма и камерами на 200 МП, это устройство предназначено для самых требовательных ...', 'snippet_highlighted_words': ['Samsung Galaxy S24 Ultra'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 10, 'title': 'Samsung Galaxy S24 Ultra – 12GB/256GB, Titanium Black', 'link': 'https://xstore.md/telefoane/smartphone/samsung-galaxy-s24-ultra-titanium-black-12-gb-256gb', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://xstore.md/telefoane/smartphone/samsung-galaxy-s24-ultra-titanium-black-12-gb-256gb&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECDAQAQ', 'displayed_link': 'https://xstore.md › telefoane › smartphone › samsung-g...', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32d523f7826425fd7e2b67637db7a046622.png', 'snippet': 'Samsung Galaxy S24 Ultra, Titanium Black ; Diagonală 6.8" ; Capacitatea RAM 12 GB ; Memorie interna 256 GB ; Cameră frontală 12 MP ; Camera principală 200 MP, 10 MP, ...', 'snippet_highlighted_words': ['Samsung Galaxy S24 Ultra'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 5.0, 'reviews': 1}, 'extensions': ['5,0(1)']}}, 'source': 'Xstore.md'}
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: HTTPSConnectionPool(host='altex.ro', port=443): Read timed out. (read timeout=5)
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+
+ Analiză produs: {'position': 1, 'title': 'Smartphone Samsung Galaxy S24 Ultra, 12GB/512GB ...', 'link': 'https://ultra.md/product/s928-s24-ultra-12512gb-black', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ultra.md/product/s928-s24-ultra-12512gb-black&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECCAQAQ', 'displayed_link': 'https://ultra.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32d6f023e2970ac627166abbafec715d779.png', 'snippet': 'Smartphone Samsung Galaxy S24 Ultra, 12GB/512GB, Titanium Black · Rezumat · Diagonala ecranului: 6,8 " · Rezolutia ecranului: 3120x1440 · Max. Rezoluția camerei: ...', 'snippet_highlighted_words': ['Smartphone Samsung Galaxy S24 Ultra'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 5.0, 'reviews': 5}, 'extensions': ['5,0(5)']}}, 'source': 'Ultra.md'}
+
+ Analiză produs: {'position': 2, 'title': 'Cumpara Samsung S24 | S24 + | S24 Ultra in Darwin MD', 'link': 'https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECBUQAQ', 'displayed_link': 'https://darwin.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32ddd902ecdbf40f03bbad7aed122310080.png', 'snippet': 'Samsung Galaxy S24 Ultra este flagship-ul seriei S24. Cu un ecran de 6,8 inch și camere de 200 MP, acest dispozitiv este destinat celor mai pretențioși ...', 'snippet_highlighted_words': ['Samsung Galaxy S24 Ultra'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 3, 'title': 'Samsung Galaxy S24 Ultra 12 GB/ 256 GB/ Dual SIM', 'link': 'https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-5g-dual-sim-titanium-gray', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-5g-dual-sim-titanium-gray&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECBYQAQ', 'displayed_link': 'https://enter.online › telefoane › smartphone-uri › sams...', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32da47ac3b49afd6deb40b2241529f45e02.png', 'snippet': 'Samsung Galaxy S24 Ultra 12 GB/ 256 GB/ Dual SIM/ Gray Titanium ; Standard HDR, 10+ ; Refresh rate, 120 Hz ; Densitate pixeli, 416 ppi ; Protecție ecran, Corning ...', 'snippet_highlighted_words': ['Samsung Galaxy S24 Ultra 12 GB/ 256 GB/ Dual SIM'], 'source': 'enter.online'}
+
+ Analiză produs: {'position': 4, 'title': 'Cumpara Galaxy S24 Ultra | Preț si Oferte', 'link': 'https://www.samsung.com/ro/smartphones/galaxy-s24-ultra/buy/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.samsung.com/ro/smartphones/galaxy-s24-ultra/buy/&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECBwQAQ', 'displayed_link': 'https://www.samsung.com › ... › Galaxy S24 Ultra', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32dba81c3040a3b464dee8c6bd35d2634e6.png', 'snippet': 'Cumpara Samsung Galaxy S24 Ultra, cu noi functii AI si beneficiezi de oferte exclusive, doar pentru o perioada de timp limitata. Disponibil pe Samsung.com.', 'snippet_highlighted_words': ['Cumpara Samsung Galaxy S24 Ultra'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 4.8, 'reviews': 6948}, 'extensions': ['4,8(6.948)']}}, 'source': 'Samsung'}
+
+ Analiză produs: {'position': 5, 'title': 'Telefon SAMSUNG Galaxy S24 Ultra 5G, 512GB, 12GB ...', 'link': 'https://altex.ro/telefon-samsung-galaxy-s24-ultra-5g-512gb-12gb-ram-dual-sim-titanium-black/cpd/SMTS24U5BK/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://altex.ro/telefon-samsung-galaxy-s24-ultra-5g-512gb-12gb-ram-dual-sim-titanium-black/cpd/SMTS24U5BK/&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECBkQAQ', 'displayed_link': 'https://altex.ro › Telefoane, Tablete › Telefoane', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32d8fb079c747b921551d5be568dee9b424.png', 'snippet': 'Cumpara acum Telefon SAMSUNG Galaxy S24 Ultra 5G, 512GB, 12GB RAM, Dual SIM, Titanium Black la pretul de 5408.7 lei.', 'snippet_highlighted_words': ['Telefon SAMSUNG Galaxy S24 Ultra 5G, 512GB, 12GB RAM'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 4.8, 'reviews': 81}, 'extensions': ['4,8(81)']}}, 'source': 'Altex'}
+
+ Analiză produs: {'position': 6, 'title': 'Samsung Galaxy S24 Ultra 12/512GB | Лучшие цены ⭐', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/samsung-galaxy-s24-ultra-12-512gb.html', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/samsung-galaxy-s24-ultra-12-512gb.html&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECCYQAQ', 'displayed_link': 'https://www.orange.md › sa...', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32dec94d0db3bf5a0726f5b63dd8e581d72.png', 'snippet': 'Погружающий Экран: Наслаждайтесь экраном Dynamic AMOLED 2X размером 6,8 дюйма с разрешением WQHD+ и технологией HDR10+, который обеспечивает яркие цвета и ...', 'rich_snippet': {'top': {'detected_extensions': {'rating': 100, 'reviews': 54}, 'extensions': ['100 %(54)']}}, 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 7, 'title': 'Samsung Galaxy S24 Ultra 256GB Titanium Black', 'link': 'https://eshop.moldcell.md/ro/telefoane/samsung-galaxy-s24-ultra-256gb-titanium-black', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://eshop.moldcell.md/ro/telefoane/samsung-galaxy-s24-ultra-256gb-titanium-black&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECDQQAQ', 'displayed_link': 'https://eshop.moldcell.md › telefoane › samsung-galaxy-...', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32d8671fef9a40361aeb6e89e26d1f84057.png', 'snippet': 'Ai 1000 lei reducere la portare*. Samsung Galaxy S24 Ultra. 256GB Titanium Black. 25 899 lei. Solicită oferta.', 'snippet_highlighted_words': ['Samsung Galaxy S24 Ultra'], 'source': 'Magazin Online Moldcell'}
+
+ Analiză produs: {'position': 8, 'title': 'Samsung S24 Ultra - eMAG.ro', 'link': 'https://www.emag.ro/telefoane-mobile/brand/samsung/filter/model-f9396,galaxy-s24-ultra-v-13067039/c', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.emag.ro/telefoane-mobile/brand/samsung/filter/model-f9396,galaxy-s24-ultra-v-13067039/c&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECDMQAQ', 'displayed_link': 'https://www.emag.ro › brand › samsung › filter › mode...', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32d145382ebba1d83440a82d1be9e5dee14.png', 'snippet': 'Telefon mobil Samsung Galaxy S24 Ultra, Dual SIM, 12GB RAM, 256GB, 5G, Titanium Black · 4.74802 review-uri(802) · VerdePortocaliuGri titanAlbastru.', 'snippet_highlighted_words': ['Telefon mobil Samsung Galaxy S24 Ultra'], 'source': 'eMAG'}
+
+ Analiză produs: {'position': 9, 'title': 'Купить Samsung S24 | S24 + | S24 Ultra в Darwin!', 'link': 'https://darwin.md/ru/telefoane/smartphone/s24-s24plus-s24ultra', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/ru/telefoane/smartphone/s24-s24plus-s24ultra&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECC8QAQ', 'displayed_link': 'https://darwin.md › telefoane', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32d87ba97a926e3cc6594f5d5a521322bec.png', 'snippet': 'Samsung Galaxy S24 Ultra — это флагман среди моделей S24. С экраном 6,8 дюйма и камерами на 200 МП, это устройство предназначено для самых требовательных ...', 'snippet_highlighted_words': ['Samsung Galaxy S24 Ultra'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 10, 'title': 'Samsung Galaxy S24 Ultra – 12GB/256GB, Titanium Black', 'link': 'https://xstore.md/telefoane/smartphone/samsung-galaxy-s24-ultra-titanium-black-12-gb-256gb', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://xstore.md/telefoane/smartphone/samsung-galaxy-s24-ultra-titanium-black-12-gb-256gb&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECDAQAQ', 'displayed_link': 'https://xstore.md › telefoane › smartphone › samsung-g...', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32d523f7826425fd7e2b67637db7a046622.png', 'snippet': 'Samsung Galaxy S24 Ultra, Titanium Black ; Diagonală 6.8" ; Capacitatea RAM 12 GB ; Memorie interna 256 GB ; Cameră frontală 12 MP ; Camera principală 200 MP, 10 MP, ...', 'snippet_highlighted_words': ['Samsung Galaxy S24 Ultra'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 5.0, 'reviews': 1}, 'extensions': ['5,0(1)']}}, 'source': 'Xstore.md'}
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: HTTPSConnectionPool(host='altex.ro', port=443): Read timed out. (read timeout=5)
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: HTTPSConnectionPool(host='eshop.moldcell.md', port=443): Read timed out. (read timeout=5)
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+
+ Analiză produs: {'position': 1, 'title': 'Smartphone Samsung Galaxy S24 Ultra, 12GB/512GB ...', 'link': 'https://ultra.md/product/s928-s24-ultra-12512gb-black', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ultra.md/product/s928-s24-ultra-12512gb-black&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECCAQAQ', 'displayed_link': 'https://ultra.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32d6f023e2970ac627166abbafec715d779.png', 'snippet': 'Smartphone Samsung Galaxy S24 Ultra, 12GB/512GB, Titanium Black · Rezumat · Diagonala ecranului: 6,8 " · Rezolutia ecranului: 3120x1440 · Max. Rezoluția camerei: ...', 'snippet_highlighted_words': ['Smartphone Samsung Galaxy S24 Ultra'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 5.0, 'reviews': 5}, 'extensions': ['5,0(5)']}}, 'source': 'Ultra.md'}
+
+ Analiză produs: {'position': 2, 'title': 'Cumpara Samsung S24 | S24 + | S24 Ultra in Darwin MD', 'link': 'https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECBUQAQ', 'displayed_link': 'https://darwin.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32ddd902ecdbf40f03bbad7aed122310080.png', 'snippet': 'Samsung Galaxy S24 Ultra este flagship-ul seriei S24. Cu un ecran de 6,8 inch și camere de 200 MP, acest dispozitiv este destinat celor mai pretențioși ...', 'snippet_highlighted_words': ['Samsung Galaxy S24 Ultra'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 3, 'title': 'Samsung Galaxy S24 Ultra 12 GB/ 256 GB/ Dual SIM', 'link': 'https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-5g-dual-sim-titanium-gray', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-5g-dual-sim-titanium-gray&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECBYQAQ', 'displayed_link': 'https://enter.online › telefoane › smartphone-uri › sams...', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32da47ac3b49afd6deb40b2241529f45e02.png', 'snippet': 'Samsung Galaxy S24 Ultra 12 GB/ 256 GB/ Dual SIM/ Gray Titanium ; Standard HDR, 10+ ; Refresh rate, 120 Hz ; Densitate pixeli, 416 ppi ; Protecție ecran, Corning ...', 'snippet_highlighted_words': ['Samsung Galaxy S24 Ultra 12 GB/ 256 GB/ Dual SIM'], 'source': 'enter.online'}
+
+ Analiză produs: {'position': 4, 'title': 'Cumpara Galaxy S24 Ultra | Preț si Oferte', 'link': 'https://www.samsung.com/ro/smartphones/galaxy-s24-ultra/buy/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.samsung.com/ro/smartphones/galaxy-s24-ultra/buy/&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECBwQAQ', 'displayed_link': 'https://www.samsung.com › ... › Galaxy S24 Ultra', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32dba81c3040a3b464dee8c6bd35d2634e6.png', 'snippet': 'Cumpara Samsung Galaxy S24 Ultra, cu noi functii AI si beneficiezi de oferte exclusive, doar pentru o perioada de timp limitata. Disponibil pe Samsung.com.', 'snippet_highlighted_words': ['Cumpara Samsung Galaxy S24 Ultra'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 4.8, 'reviews': 6948}, 'extensions': ['4,8(6.948)']}}, 'source': 'Samsung'}
+
+ Analiză produs: {'position': 5, 'title': 'Telefon SAMSUNG Galaxy S24 Ultra 5G, 512GB, 12GB ...', 'link': 'https://altex.ro/telefon-samsung-galaxy-s24-ultra-5g-512gb-12gb-ram-dual-sim-titanium-black/cpd/SMTS24U5BK/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://altex.ro/telefon-samsung-galaxy-s24-ultra-5g-512gb-12gb-ram-dual-sim-titanium-black/cpd/SMTS24U5BK/&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECBkQAQ', 'displayed_link': 'https://altex.ro › Telefoane, Tablete › Telefoane', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32d8fb079c747b921551d5be568dee9b424.png', 'snippet': 'Cumpara acum Telefon SAMSUNG Galaxy S24 Ultra 5G, 512GB, 12GB RAM, Dual SIM, Titanium Black la pretul de 5408.7 lei.', 'snippet_highlighted_words': ['Telefon SAMSUNG Galaxy S24 Ultra 5G, 512GB, 12GB RAM'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 4.8, 'reviews': 81}, 'extensions': ['4,8(81)']}}, 'source': 'Altex'}
+
+ Analiză produs: {'position': 6, 'title': 'Samsung Galaxy S24 Ultra 12/512GB | Лучшие цены ⭐', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/samsung-galaxy-s24-ultra-12-512gb.html', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/samsung-galaxy-s24-ultra-12-512gb.html&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECCYQAQ', 'displayed_link': 'https://www.orange.md › sa...', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32dec94d0db3bf5a0726f5b63dd8e581d72.png', 'snippet': 'Погружающий Экран: Наслаждайтесь экраном Dynamic AMOLED 2X размером 6,8 дюйма с разрешением WQHD+ и технологией HDR10+, который обеспечивает яркие цвета и ...', 'rich_snippet': {'top': {'detected_extensions': {'rating': 100, 'reviews': 54}, 'extensions': ['100 %(54)']}}, 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 7, 'title': 'Samsung Galaxy S24 Ultra 256GB Titanium Black', 'link': 'https://eshop.moldcell.md/ro/telefoane/samsung-galaxy-s24-ultra-256gb-titanium-black', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://eshop.moldcell.md/ro/telefoane/samsung-galaxy-s24-ultra-256gb-titanium-black&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECDQQAQ', 'displayed_link': 'https://eshop.moldcell.md › telefoane › samsung-galaxy-...', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32d8671fef9a40361aeb6e89e26d1f84057.png', 'snippet': 'Ai 1000 lei reducere la portare*. Samsung Galaxy S24 Ultra. 256GB Titanium Black. 25 899 lei. Solicită oferta.', 'snippet_highlighted_words': ['Samsung Galaxy S24 Ultra'], 'source': 'Magazin Online Moldcell'}
+
+ Analiză produs: {'position': 8, 'title': 'Samsung S24 Ultra - eMAG.ro', 'link': 'https://www.emag.ro/telefoane-mobile/brand/samsung/filter/model-f9396,galaxy-s24-ultra-v-13067039/c', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.emag.ro/telefoane-mobile/brand/samsung/filter/model-f9396,galaxy-s24-ultra-v-13067039/c&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECDMQAQ', 'displayed_link': 'https://www.emag.ro › brand › samsung › filter › mode...', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32d145382ebba1d83440a82d1be9e5dee14.png', 'snippet': 'Telefon mobil Samsung Galaxy S24 Ultra, Dual SIM, 12GB RAM, 256GB, 5G, Titanium Black · 4.74802 review-uri(802) · VerdePortocaliuGri titanAlbastru.', 'snippet_highlighted_words': ['Telefon mobil Samsung Galaxy S24 Ultra'], 'source': 'eMAG'}
+
+ Analiză produs: {'position': 9, 'title': 'Купить Samsung S24 | S24 + | S24 Ultra в Darwin!', 'link': 'https://darwin.md/ru/telefoane/smartphone/s24-s24plus-s24ultra', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/ru/telefoane/smartphone/s24-s24plus-s24ultra&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECC8QAQ', 'displayed_link': 'https://darwin.md › telefoane', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32d87ba97a926e3cc6594f5d5a521322bec.png', 'snippet': 'Samsung Galaxy S24 Ultra — это флагман среди моделей S24. С экраном 6,8 дюйма и камерами на 200 МП, это устройство предназначено для самых требовательных ...', 'snippet_highlighted_words': ['Samsung Galaxy S24 Ultra'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 10, 'title': 'Samsung Galaxy S24 Ultra – 12GB/256GB, Titanium Black', 'link': 'https://xstore.md/telefoane/smartphone/samsung-galaxy-s24-ultra-titanium-black-12-gb-256gb', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://xstore.md/telefoane/smartphone/samsung-galaxy-s24-ultra-titanium-black-12-gb-256gb&ved=2ahUKEwjzpra2q4mMAxUVg4kEHbUXDBwQFnoECDAQAQ', 'displayed_link': 'https://xstore.md › telefoane › smartphone › samsung-g...', 'favicon': 'https://serpapi.com/searches/67d401aeecc6741ac30c0487/images/586b8de0eb090f04bb019da70905a32d523f7826425fd7e2b67637db7a046622.png', 'snippet': 'Samsung Galaxy S24 Ultra, Titanium Black ; Diagonală 6.8" ; Capacitatea RAM 12 GB ; Memorie interna 256 GB ; Cameră frontală 12 MP ; Camera principală 200 MP, 10 MP, ...', 'snippet_highlighted_words': ['Samsung Galaxy S24 Ultra'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 5.0, 'reviews': 1}, 'extensions': ['5,0(1)']}}, 'source': 'Xstore.md'}
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: HTTPSConnectionPool(host='altex.ro', port=443): Read timed out. (read timeout=5)
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+
+ Analiză produs: {'position': 1, 'title': 'Apple iPhone 15 Pro Max - Darwin.md', 'link': 'https://darwin.md/telefoane/smartphone/apple-iphone-15-pro-max', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/telefoane/smartphone/apple-iphone-15-pro-max&ved=2ahUKEwiUi5K_t4mMAxU078kDHbr3NpQQFnoECBcQAQ', 'displayed_link': 'https://darwin.md › Telefoane › Smartphone', 'thumbnail': 'https://serpapi.com/searches/67d40e56890ed11a60625a3b/images/7f103a136e9905406e997a912e294bc62a31329d09644dec892b6830ed2f5ae5.jpeg', 'favicon': 'https://serpapi.com/searches/67d40e56890ed11a60625a3b/images/7f103a136e9905406e997a912e294bc6920b6ac21ce2c9b629a91123b7e04121.png', 'snippet': 'Noul iPhone 15 Pro Max oferă o creștere vizibilă a performanțelor, cu un design îmbunătățit și capacități îmbunătățite ale camerei foto care depășesc modelele ...', 'snippet_highlighted_words': ['iPhone 15 Pro Max oferă o creștere vizibilă a performanțelor'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 2, 'title': 'iPhone 15 Pro și 15 Pro Max din titanium - ENTER.ONLINE', 'link': 'https://enter.online/telefoane/smartphone-uri/apple-iphone-15-pro-si-pro-max', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enter.online/telefoane/smartphone-uri/apple-iphone-15-pro-si-pro-max&ved=2ahUKEwiUi5K_t4mMAxU078kDHbr3NpQQFnoECBkQAQ', 'displayed_link': 'https://enter.online › telefoane › smartphone-uri › apple...', 'favicon': 'https://serpapi.com/searches/67d40e56890ed11a60625a3b/images/7f103a136e9905406e997a912e294bc6609c9bc7667341fca2170cef8e7b7c84.png', 'snippet': 'Alege iPhone din seria Pro pentru o experiență cu adevărat profesională. Efectuează o precomandă de iPhone 15 Pro sau Pro Max la Enter cu livrare gratuită ...', 'snippet_highlighted_words': ['iPhone 15 Pro sau Pro Max'], 'source': 'enter.online'}
+
+ Analiză produs: {'position': 3, 'title': 'Cumpără Apple iPhone 15 Pro Max 5G 256GB', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/iphone-15-pro-max-256gb.html', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/iphone-15-pro-max-256gb.html&ved=2ahUKEwiUi5K_t4mMAxU078kDHbr3NpQQFnoECBQQAQ', 'displayed_link': 'https://www.orange.md › ... › Toate telefoanele', 'favicon': 'https://serpapi.com/searches/67d40e56890ed11a60625a3b/images/7f103a136e9905406e997a912e294bc6a18c4092d48449a772ae1df6c9b8e34f.png', 'snippet': 'Ecran Imersiv: Bucură-te de un ecran Super Retina XDR de 6.7 inch, cu contrast deosebit și acuratețe a culorilor, care aduce fiecare detaliu la viață cu o ...', 'snippet_highlighted_words': ['ecran Super Retina XDR de 6.7 inch'], 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 4, 'title': 'iPhone 15 Pro Max - Tech Specs', 'link': 'https://support.apple.com/en-us/111828', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://support.apple.com/en-us/111828&ved=2ahUKEwiUi5K_t4mMAxU078kDHbr3NpQQFnoECBMQAQ', 'displayed_link': 'https://support.apple.com › ...', 'favicon': 'https://serpapi.com/searches/67d40e56890ed11a60625a3b/images/7f103a136e9905406e997a912e294bc693fffca678349a330d40e94651b8cc6b.png', 'snippet': 'Display · Super Retina XDR display · 6.7‑inch (diagonal) all‑screen OLED display · 2796‑by‑1290-pixel resolution at 460 ppi · Dynamic Island · Always-On display.', 'snippet_highlighted_words': ['Super Retina XDR display'], 'source': 'Apple Support'}
+
+ Analiză produs: {'position': 5, 'title': 'Smartphone-uri APPLE iPhone 15 Pro Max', 'link': 'https://breezy.md/smartphone/vendor=apple/series=iphone-15-pro-max', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://breezy.md/smartphone/vendor%3Dapple/series%3Diphone-15-pro-max&ved=2ahUKEwiUi5K_t4mMAxU078kDHbr3NpQQFnoECBgQAQ', 'displayed_link': 'https://breezy.md › ... › APPLE', 'thumbnail': 'https://serpapi.com/searches/67d40e56890ed11a60625a3b/images/7f103a136e9905406e997a912e294bc6cf7d4efed2a90346e8567255f4336457.jpeg', 'favicon': 'https://serpapi.com/searches/67d40e56890ed11a60625a3b/images/7f103a136e9905406e997a912e294bc6d2f3993eb885aa37cd42e5acb921bad6.png', 'snippet': 'Apple iPhone 15 Pro Max 256 GB Natural Titanium, 17 499 lei ; Apple iPhone 15 Pro Max 1 TB Black Titanium, 25 809 lei ; Apple iPhone 15 Pro Max 512 GB ...', 'snippet_highlighted_words': ['Apple iPhone 15 Pro Max 256 GB Natural Titanium, 17 499 lei'], 'source': 'BREEZY.MD'}
+
+ Analiză produs: {'position': 6, 'title': 'iPhone 15 Pro Max 256GB Natural Titanium', 'link': 'https://gorilla.md/produs/iphone-15-pro-max-256gb-natural-titanium/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gorilla.md/produs/iphone-15-pro-max-256gb-natural-titanium/&ved=2ahUKEwiUi5K_t4mMAxU078kDHbr3NpQQFnoECBoQAQ', 'displayed_link': 'https://gorilla.md › SMARTPHONE › Apple', 'thumbnail': 'https://serpapi.com/searches/67d40e56890ed11a60625a3b/images/7f103a136e9905406e997a912e294bc66126642c509112d7d75202dc0348886b.jpeg', 'favicon': 'https://serpapi.com/searches/67d40e56890ed11a60625a3b/images/7f103a136e9905406e997a912e294bc6f5c4dfed9e0d4f30f0b5811ad4372016.png', 'snippet': 'Sistem de operare: iOS 17 · Diagonală display: 6.7 " · Chipset: Apple A17 Pro (3 nm) · Număr de nuclee: 6 · Frecvență de actualizare: 120 GHz · GPU: Apple GPU (6- ...', 'snippet_highlighted_words': ['Pro'], 'source': 'gorilla.md'}
+
+ Analiză produs: {'position': 7, 'title': 'iPhone 15 PRO Max. Vezi preturi si Comanda ...', 'link': 'https://www.emag.ro/telefoane-mobile/brand/apple/filter/model-f9396,iphone-15-pro-max-v-12731584/c', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.emag.ro/telefoane-mobile/brand/apple/filter/model-f9396,iphone-15-pro-max-v-12731584/c&ved=2ahUKEwiUi5K_t4mMAxU078kDHbr3NpQQFnoECB0QAQ', 'displayed_link': 'https://www.emag.ro › brand › apple › filter › model-f...', 'thumbnail': 'https://serpapi.com/searches/67d40e56890ed11a60625a3b/images/7f103a136e9905406e997a912e294bc6b40664745195307cad96017cc2853c0c.jpeg', 'favicon': 'https://serpapi.com/searches/67d40e56890ed11a60625a3b/images/7f103a136e9905406e997a912e294bc66a7774db2afdad7032329c8f0c062164.png', 'snippet': 'Telefon mobil Apple iPhone 15 Pro Max, 256GB, 5G, Black Titanium · 6.299 ; RESIGILAT: Telefon mobil Apple iPhone 15 Pro Max, independent de card, 256 GB, 5G, ...', 'snippet_highlighted_words': ['Telefon mobil Apple iPhone 15 Pro Max'], 'source': 'eMAG'}
+
+ Analiză produs: {'position': 8, 'title': 'Apple iPhone 15 - Chișinău - smart.md', 'link': 'https://www.smart.md/ro/apple-iphone-15', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.smart.md/ro/apple-iphone-15&ved=2ahUKEwiUi5K_t4mMAxU078kDHbr3NpQQFnoECDYQAQ', 'displayed_link': 'https://www.smart.md › ... › Smartphone Apple', 'thumbnail': 'https://serpapi.com/searches/67d40e56890ed11a60625a3b/images/7f103a136e9905406e997a912e294bc61ad7a1bcb2fdcbcc111eca3a73346221.jpeg', 'favicon': 'https://serpapi.com/searches/67d40e56890ed11a60625a3b/images/7f103a136e9905406e997a912e294bc6135367556a40ef9c1dd1212bc2ee65dc.png', 'snippet': 'Descoperă și experimentează inovația adusă de iPhone 15, inclusiv variantele Pro și Pro Max. Fie că îți dorești performanță maximă, funcționalități avansate sau ...', 'snippet_highlighted_words': ['iPhone 15', 'Pro Max'], 'source': 'smart.md'}
+
+ Analiză produs: {'position': 9, 'title': 'Apple iPhone 15 Pro Max 256GB', 'link': 'https://moldcell.md/rom/business/devices/apple-iphone-15-pro-max-256gb', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://moldcell.md/rom/business/devices/apple-iphone-15-pro-max-256gb&ved=2ahUKEwiUi5K_t4mMAxU078kDHbr3NpQQFnoECDoQAQ', 'displayed_link': 'https://moldcell.md › rom › business › devices › apple-i...', 'thumbnail': 'https://serpapi.com/searches/67d40e56890ed11a60625a3b/images/7f103a136e9905406e997a912e294bc6c4f5e205208e71be4eb0de907eae77cd.jpeg', 'favicon': 'https://serpapi.com/searches/67d40e56890ed11a60625a3b/images/7f103a136e9905406e997a912e294bc64159c2ae75130fd80328f0b3e776bf56.png', 'snippet': 'Preț online. 27 999 lei. Preț în rate. Avans 10899 lei + 1810 lei / lunar Contract 10 luni. Dimensiuni, 159.9 x 76.7 x 8.3. Greutate, 221 g.', 'snippet_highlighted_words': ['Preț online. 27 999 lei'], 'source': 'Moldcell'}
+
+ Analiză produs: {'position': 10, 'title': 'iPhone 15 Pro Max', 'link': 'https://ispace.md/iphone/iphone-15-pro-max', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ispace.md/iphone/iphone-15-pro-max&ved=2ahUKEwiUi5K_t4mMAxU078kDHbr3NpQQFnoECDsQAQ', 'displayed_link': 'https://ispace.md › iPhone', 'thumbnail': 'https://serpapi.com/searches/67d40e56890ed11a60625a3b/images/7f103a136e9905406e997a912e294bc67e446ddefc51ff490309a657bafa4ba5.jpeg', 'favicon': 'https://serpapi.com/searches/67d40e56890ed11a60625a3b/images/7f103a136e9905406e997a912e294bc676a3df36f3e1fc4bbb2ff9d21df37e2f.png', 'snippet': 'iPhone 15 pro max are multe avantaje, inclusiv performanțe de top, un ecran uimitor, un sistem de cameră foto avansat și fiabilitatea ecosistemului Apple.', 'snippet_highlighted_words': ['iPhone 15 pro max'], 'source': 'ispace.md'}
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: ('Connection aborted.', HTTPException('got more than 100 headers'))
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+
+ Analiză produs: {'position': 1, 'title': 'TUF Gaming｜Laptops', 'link': 'https://www.asus.com/laptops/for-gaming/tuf-gaming/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.asus.com/laptops/for-gaming/tuf-gaming/&ved=2ahUKEwjS-NaFuomMAxWwFFkFHddxImAQFnoECAkQAQ', 'displayed_link': 'https://www.asus.com › laptops', 'favicon': 'https://serpapi.com/searches/67d411053aa4f3f8fee1c845/images/76f08f5ad6a2c3db1faecd561bec5a66d6a151cffbc1eedd89257f19a9962c00.png', 'snippet': 'Bristling with high-refresh rate displays and competitive GPUs, ultra-durable TUF Gaming laptops deliver a reliable portable gaming experience to a wide ...', 'snippet_highlighted_words': ['TUF Gaming'], 'sitelinks': {'expanded': [{'title': 'Models', 'link': 'https://www.asus.com/laptops/for-gaming/all-series/filter?Series=TUF-Gaming', 'snippet': 'ASUS TUF Gaming F16 (2025) ... 16 ... ASUS TUF Gaming F16 ...'}, {'title': 'ASUS TUF Gaming F16 (2025)', 'link': 'https://www.asus.com/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-f16-2025/', 'snippet': 'The TUF Gaming F16 comes equipped with a Intel® Core ...'}, {'title': 'ASUS TUF Gaming A18 (2025)', 'link': 'https://www.asus.com/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-a18-2025/', 'snippet': 'As the first 18-inch laptop in the TUF Gaming family, the A18 ...'}, {'title': 'ASUS TUF Gaming F16 (2024)', 'link': 'https://www.asus.com/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-f16-2024/', 'snippet': 'The 2024 TUF Gaming F16 retains its classic TUF styling, with a ...'}, {'title': 'ASUS TUF Gaming A15', 'link': 'https://www.asus.com/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-a15/', 'snippet': 'Geared for serious gaming and real-world durability, the TUF ...'}]}, 'source': 'ASUS'}
+
+ Analiză produs: {'position': 2, 'title': 'Laptopuri ASUS TUF Gaming – cumpără în Moldova', 'link': 'https://xstore.md/laptopuri/gaming/asus-tuf-gaming', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://xstore.md/laptopuri/gaming/asus-tuf-gaming&ved=2ahUKEwjS-NaFuomMAxWwFFkFHddxImAQFnoECB0QAQ', 'displayed_link': 'https://xstore.md › laptopuri › gaming › asus-tuf-gaming', 'favicon': 'https://serpapi.com/searches/67d411053aa4f3f8fee1c845/images/76f08f5ad6a2c3db1faecd561bec5a6620765295bfb67272c7e93258f52c8b3b.png', 'snippet': 'ASUS TUF Gaming ; Producator. ASUS ; Serie procesor. AMD Ryzen 5 ; Placă video. NVIDIA GeForce RTX 2050 ; Capacitatea RAM. 16 GB ; Unitate de stocare. 1 TB (SSD).', 'snippet_highlighted_words': ['ASUS TUF Gaming'], 'source': 'Xstore.md'}
+
+ Analiză produs: {'position': 3, 'title': 'ASUS TUF Gaming Microsite', 'link': 'https://www.asus.com/campaign/tuf-gaming/global/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.asus.com/campaign/tuf-gaming/global/&ved=2ahUKEwjS-NaFuomMAxWwFFkFHddxImAQFnoECB4QAQ', 'displayed_link': 'https://www.asus.com › global', 'favicon': 'https://serpapi.com/searches/67d411053aa4f3f8fee1c845/images/76f08f5ad6a2c3db1faecd561bec5a6666c920d71384b2df70505d5af130793b.png', 'snippet': 'TUF Gaming is for those who demand superior durability, dependable stability and great gaming value. All TUF Gaming products are rigorously tested for endurance ...', 'snippet_highlighted_words': ['TUF Gaming'], 'source': 'ASUS'}
+
+ Analiză produs: {'position': 4, 'title': 'TUF Gaming｜Graphics Cards', 'link': 'https://www.asus.com/motherboards-components/graphics-cards/tuf-gaming/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.asus.com/motherboards-components/graphics-cards/tuf-gaming/&ved=2ahUKEwjS-NaFuomMAxWwFFkFHddxImAQFnoECEwQAQ', 'displayed_link': 'https://www.asus.com › tuf-g...', 'favicon': 'https://serpapi.com/searches/67d411053aa4f3f8fee1c845/images/76f08f5ad6a2c3db1faecd561bec5a6676b6b49e58fb239817d7f3e233478ac2.png', 'snippet': 'TUF Gaming graphics cards add hefty 3D horsepower to the TUF Gaming ecosystem, with features like Auto-Extreme manufacturing, steel backplates, high-tech fans, ...', 'snippet_highlighted_words': ['TUF Gaming graphics cards'], 'source': 'ASUS'}
+
+ Analiză produs: {'position': 5, 'title': 'Laptopuri gaming Asus TUF Gaming in Chisinau si MD', 'link': 'https://neocomputer.md/gaming-zone/notebook-gaming/asus-tuf-gaming', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://neocomputer.md/gaming-zone/notebook-gaming/asus-tuf-gaming&ved=2ahUKEwjS-NaFuomMAxWwFFkFHddxImAQFnoECEcQAQ', 'displayed_link': 'https://neocomputer.md › Gaming › Laptopuri Gaming', 'favicon': 'https://serpapi.com/searches/67d411053aa4f3f8fee1c845/images/76f08f5ad6a2c3db1faecd561bec5a6621f67f0e82ef0d3b72ad864de9462de1.png', 'snippet': 'Motive să alegi un laptop gaming ASUS TUF Gaming: ✔️ Performanță excepțională: Cu procesoare Intel Core i7 și plăci grafice NVIDIA GeForce RTX, laptopurile ...', 'snippet_highlighted_words': ['Performanță excepțională'], 'source': 'Neocomputer'}
+
+ Analiză produs: {'position': 6, 'title': 'TUF Gaming｜Monitors', 'link': 'https://www.asus.com/displays-desktops/monitors/tuf-gaming/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.asus.com/displays-desktops/monitors/tuf-gaming/&ved=2ahUKEwjS-NaFuomMAxWwFFkFHddxImAQFnoECEUQAQ', 'displayed_link': 'https://www.asus.com › tuf-g...', 'favicon': 'https://serpapi.com/searches/67d411053aa4f3f8fee1c845/images/76f08f5ad6a2c3db1faecd561bec5a664663aa2477be6f771ed5b9c1cdd9ee42.png', 'snippet': 'TUF Gaming monitors are ideal for competitive gamers on a budget, delivering a carefully selected set of high-end gaming features at palatable prices.', 'snippet_highlighted_words': ['TUF Gaming monitors are ideal for competitive gamers on a budget'], 'source': 'ASUS'}
+
+ Analiză produs: {'position': 7, 'title': 'Игровая мышь ASUS TUF Gaming M4, Чёрный', 'link': 'https://bilgicom.md/catalog/catalog_tovarov/6_COMPUTERS/INPUT_DEVICES_PERIPHERALS/MICE/47419/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bilgicom.md/catalog/catalog_tovarov/6_COMPUTERS/INPUT_DEVICES_PERIPHERALS/MICE/47419/&ved=2ahUKEwjS-NaFuomMAxWwFFkFHddxImAQFnoECEMQAQ', 'displayed_link': 'https://bilgicom.md › MICE', 'favicon': 'https://serpapi.com/searches/67d411053aa4f3f8fee1c845/images/76f08f5ad6a2c3db1faecd561bec5a66ca17c748bc5c4026d9fbfc38b6ebae8e.png', 'snippet': 'Тип подключения: Беспроводное Источник питания: USB Вид сенсорного датчика: Оптический Макс. Разрешение отслеживания: 12000 dpi', 'snippet_highlighted_words': ['Тип подключения: Беспроводное'], 'source': 'Bilgicom'}
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: HTTPSConnectionPool(host='xstore.md', port=443): Read timed out. (read timeout=5)
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: HTTPSConnectionPool(host='bilgicom.md', port=443): Read timed out. (read timeout=5)
+
+ Analiză produs: {'position': 1, 'title': 'JBL Flip 6 в Кишиневе, Молдова | jblstore.md', 'link': 'https://jblstore.md/ro/jbl-flip-6', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jblstore.md/ro/jbl-flip-6&ved=2ahUKEwjnmPWmuomMAxXFjIkEHZjSG9MQFnoECAkQAQ', 'displayed_link': 'https://jblstore.md › Портативная акустика › JBL Flip 6', 'favicon': 'https://serpapi.com/searches/67d4114a81fcea306ba8e0c7/images/943246c89baf4795d0553b7881b3fca86e2ce335b7a87711690665d1fb121a6a.png', 'snippet': 'de la 427 lei/luna. În coș. JBL Flip 6 Серый. 0% Credit. JBL Flip 6 Серый. 2299 lei. de la 427 lei/luna. În coș. JBL Flip 6 Красный. 0% Credit ...', 'snippet_highlighted_words': ['JBL Flip 6 Серый'], 'source': 'jblstore.md'}
+
+ Analiză produs: {'position': 2, 'title': 'Boxă portativă Bluetooth JBL Flip 6 Black - Chișinău', 'link': 'https://maximum.md/ro/6453284/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://maximum.md/ro/6453284/&ved=2ahUKEwjnmPWmuomMAxXFjIkEHZjSG9MQFnoECCYQAQ', 'displayed_link': 'https://maximum.md › ... › Boxe wireless Bluetooth JBL', 'favicon': 'https://serpapi.com/searches/67d4114a81fcea306ba8e0c7/images/943246c89baf4795d0553b7881b3fca858c9f87add72191d50de59f07565835c.png', 'snippet': 'Sunet 360° da; Putere totală sunet (RMS), W 20; Număr de boxe 2; Raport semnal/zgomot, dB 80; Tehnologii de procesare a sunetului JBL ORIGINAL PRO SOUND.', 'snippet_highlighted_words': ['Sunet 360° da'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 5.0, 'reviews': 1}, 'extensions': ['5,0(1)']}}, 'source': 'MAXIMUM'}
+
+ Analiză produs: {'position': 3, 'title': 'Boxă portabilă JBL Flip 6 Blue', 'link': 'https://darwin.md/boxa-portabila-jbl-flip-6-blue.html', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/boxa-portabila-jbl-flip-6-blue.html&ved=2ahUKEwjnmPWmuomMAxXFjIkEHZjSG9MQFnoECCIQAQ', 'displayed_link': 'https://darwin.md › Audio › Boxe › Boxe portabile', 'favicon': 'https://serpapi.com/searches/67d4114a81fcea306ba8e0c7/images/943246c89baf4795d0553b7881b3fca84a139f4ddc0ccdcd69f904a6fc674de0.png', 'snippet': 'Boxă portabilă JBL Flip 6 Blue ; Generale. Dimensiuni, 178 x 72 x 68 mm. Compatibilitate SO, Universal. Brand, JBL. Culoarea de bază, Blue. Greutate, 550 g.', 'snippet_highlighted_words': ['Boxă portabilă JBL Flip 6 Blue'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 4, 'title': 'JBL Flip 6 | Portable Waterproof Speaker', 'link': 'https://www.jbl.com/bluetooth-speakers/FLIP-6-.html', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.jbl.com/bluetooth-speakers/FLIP-6-.html&ved=2ahUKEwjnmPWmuomMAxXFjIkEHZjSG9MQFnoECBwQAQ', 'displayed_link': 'https://www.jbl.com › FLIP-6-', 'favicon': 'https://serpapi.com/searches/67d4114a81fcea306ba8e0c7/images/943246c89baf4795d0553b7881b3fca88a2cde4ce04275401ad32df574e436fa.png', 'snippet': 'This big-sounding, yet easy to carry speaker is waterproof and dustproof, so you can take it anywhere in any weather. And with 12 hours of battery life, you can ...', 'snippet_highlighted_words': ['waterproof and dustproof'], 'source': 'JBL'}
+
+ Analiză produs: {'position': 5, 'title': 'Портативная колонка JBL Flip 6 закажи в Ентер МД', 'link': 'https://enter.online/ru/audiotehnika/portativnyye-kolonki/jbl-flip-6-30-vt-sinii', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enter.online/ru/audiotehnika/portativnyye-kolonki/jbl-flip-6-30-vt-sinii&ved=2ahUKEwjnmPWmuomMAxXFjIkEHZjSG9MQFnoECBYQAQ', 'displayed_link': 'https://enter.online › audiotehnika › jbl-flip-6-30-vt-sinii', 'favicon': 'https://serpapi.com/searches/67d4114a81fcea306ba8e0c7/images/943246c89baf4795d0553b7881b3fca8f6a15078058b0a5e301519f9fb8d35d7.png', 'snippet': 'Портативная колонка JBL Flip 6 30 Вт/ Синий · 4800 мАч · 30 Вт · 2.5 часа. 3 299 лей. 2 999 лей. -10%. -300 лей. Купить. Cashback 90 ...', 'snippet_highlighted_words': ['Портативная колонка JBL Flip 6'], 'source': 'enter.online'}
+
+ Analiză produs: {'position': 6, 'title': 'Boxa portabila JBL Flip 6, Bluetooth, PartyBoost, IP67, USB ...', 'link': 'https://www.emag.ro/boxa-portabila-jbl-flip-6-bluetooth-partyboost-ip67-usb-c-12h-negru-jblflip6blkeu/pd/D9CVK9MBM/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.emag.ro/boxa-portabila-jbl-flip-6-bluetooth-partyboost-ip67-usb-c-12h-negru-jblflip6blkeu/pd/D9CVK9MBM/&ved=2ahUKEwjnmPWmuomMAxXFjIkEHZjSG9MQFnoECBkQAQ', 'displayed_link': 'https://www.emag.ro › ... › Boxe Portabile JBL', 'favicon': 'https://serpapi.com/searches/67d4114a81fcea306ba8e0c7/images/943246c89baf4795d0553b7881b3fca8fb8ca67571d969a4cbc56e89b0e29a9b.png', 'snippet': 'JBL Flip 6 va ofera pana la 12 ore de redare cu o singura incarcare. PartyBoostPartyBoost va permite sa asociati doua boxe JBL compatibile cu PartyBoost pentru ...', 'snippet_highlighted_words': ['JBL Flip 6'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 4.8, 'reviews': 236}, 'extensions': ['4,8(236)']}}, 'source': 'eMAG'}
+
+ Analiză produs: {'position': 7, 'title': 'Boxa portabila JBL FLIP 6 Albastru - Chișinău', 'link': 'https://bomba.md/ro/product/boxa-portabila-jbl-flip6blu-865096/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bomba.md/ro/product/boxa-portabila-jbl-flip6blu-865096/&ved=2ahUKEwjnmPWmuomMAxXFjIkEHZjSG9MQFnoECEAQAQ', 'displayed_link': 'https://bomba.md › ... › Acustica portabila', 'favicon': 'https://serpapi.com/searches/67d4114a81fcea306ba8e0c7/images/943246c89baf4795d0553b7881b3fca8867c38fc18ca572fbeaeb1a81a130294.png', 'snippet': 'Boxa portabila JBL FLIP 6 Albastru ; Tip de acustica, Portativa ; Frecventa diapaz. AC frontale, Hz-kHz, 65-20000 ; Materialul corpului AC frontale, Plastic.', 'snippet_highlighted_words': ['Boxa portabila JBL FLIP 6 Albastru'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 5.0}, 'extensions': ['5,0', 'Recenzie de bomba']}}, 'source': 'BOMBA'}
+
+ Analiză produs: {'position': 8, 'title': 'Boxă portabilă JBL Flip 6, Gri cumpara in Chisinau', 'link': 'https://ultra.md/product/portable-speakers-jbl-flip-6-grey', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ultra.md/product/portable-speakers-jbl-flip-6-grey&ved=2ahUKEwjnmPWmuomMAxXFjIkEHZjSG9MQFnoECDcQAQ', 'displayed_link': 'https://ultra.md › Audio › Boxe Portabile', 'favicon': 'https://serpapi.com/searches/67d4114a81fcea306ba8e0c7/images/943246c89baf4795d0553b7881b3fca8627772e8e7d0530bb8bc26f5e8639a30.png', 'snippet': 'Boxă portabilă JBL Flip 6, Gri ; Putere RMS: 30 W ; Design boxe: Raft/Masă ; Rezistență la apă: IP67 ; Materiale: Plastic ABS, Textil ; Tip sistem acustic: Difuzoare ...', 'snippet_highlighted_words': ['Boxă portabilă JBL Flip 6, Gri'], 'source': 'Ultra.md'}
+
+ Analiză produs: {'position': 9, 'title': 'Boxa portabila JBL Flip 6, Bluetooth, IP67, negru', 'link': 'https://altex.ro/boxa-portabila-jbl-flip-6-bluetooth-ip67-negru/cpd/DOCJBLFLIP6BLKE/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://altex.ro/boxa-portabila-jbl-flip-6-bluetooth-ip67-negru/cpd/DOCJBLFLIP6BLKE/&ved=2ahUKEwjnmPWmuomMAxXFjIkEHZjSG9MQFnoECDQQAQ', 'displayed_link': 'https://altex.ro › ... › Audio-Video › Boxe portabile', 'favicon': 'https://serpapi.com/searches/67d4114a81fcea306ba8e0c7/images/943246c89baf4795d0553b7881b3fca8b23d83d5f38c63b6f3a54ab5db8822b1.png', 'snippet': 'Cumpara acum Boxa portabila JBL Flip 6, Bluetooth, IP67, negru la pretul de 500.0 lei.', 'snippet_highlighted_words': ['Boxa portabila JBL Flip 6, Bluetooth, IP67, negru'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 4.8, 'reviews': 44}, 'extensions': ['4,8(44)']}}, 'source': 'Altex'}
+
+ Analiză produs: {'position': 10, 'title': 'JBL Flip 6 Wireless Portable Bluetooth Speaker Pro Sound, ...', 'link': 'https://www.amazon.in/JBL-Bluetooth-Dustproof-PartyBoost-Personalization/dp/B09V7WS4PP', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.in/JBL-Bluetooth-Dustproof-PartyBoost-Personalization/dp/B09V7WS4PP&ved=2ahUKEwjnmPWmuomMAxXFjIkEHZjSG9MQFnoECD0QAQ', 'displayed_link': 'https://www.amazon.in › JB...', 'favicon': 'https://serpapi.com/searches/67d4114a81fcea306ba8e0c7/images/943246c89baf4795d0553b7881b3fca817a7319a7eda5a12c075f0cdbb47669f.png', 'snippet': 'JBL Flip 6 Wireless Portable Bluetooth Speaker Pro Sound, Upto 12 Hours Playtime, IP67 Water & Dustproof, PartyBoost & Personalization App (Without Mic, Black).', 'snippet_highlighted_words': ['JBL Flip 6 Wireless Portable Bluetooth Speaker'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 4.4, 'reviews': 37440}, 'extensions': ['4,4(37.440)']}}, 'source': 'Amazon.in'}
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la accesarea paginii: 403
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: HTTPSConnectionPool(host='altex.ro', port=443): Read timed out. (read timeout=5)
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
