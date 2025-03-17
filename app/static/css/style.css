@@ -11,7 +11,38 @@ body {
     transition: background 0.3s, color 0.3s;
 }
 
+/* Stilizare generală pentru header */
+.main-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background: #f8f9fa;
+    border-bottom: 1px solid #ddd;
+}
 
+/* Stilizare logo */
+.logo {
+    font-family: 'Satoshi', sans-serif;
+    font-weight: 1000;
+    font-size: 2em;
+    text-decoration: none;
+    color: black;
+    transition: color 0.3s ease;
+}
+
+.logo:hover {
+    color: #007bff;
+}
+
+/* Stilizare generală pentru footer */
+.main-footer {
+    text-align: center;
+    padding: 15px;
+    background: #f8f9fa;
+    border-top: 1px solid #ddd;
+    color: #333;
+}
 
 #loader {
     display: none; /* Inițial ascuns */
@@ -204,7 +235,7 @@ li img {
 /* Buton de autentificare cu icon */
 .auth-icon {
     position: absolute;
-    top: 90px;
+    top: 0px;
     right: 65px; /* Ajustează ca să fie lângă favorite */
     width: 50px;
     height: 50px;
@@ -231,7 +262,87 @@ li img {
 
 
 
-/*Favorite*/
+/* Container principal pentru favorite */
+.favorite {
+    flex: 1;
+    padding: 40px;
+    background: white;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+/* Grid de produse favorite */
+.favorites-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    justify-content: center;
+    padding: 20px;
+}
+
+/* Card individual pentru fiecare produs */
+.favorite-item {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* Efect de hover pentru carduri */
+.favorite-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
+}
+
+/* Imaginea produsului */
+.favorite-item img {
+    max-width: 180px;
+    max-height: 180px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+/* Informațiile produsului */
+.product-info {
+    width: 100%;
+    text-align: center;
+}
+
+/* Stil pentru preț */
+.price {
+    font-size: 1.4em;
+    color: #28a745;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+/* Butonul de eliminare din favorite */
+.remove-fav {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    font-size: 1em;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: background 0.3s ease;
+}
+
+/* Efect de hover pe buton */
+.remove-fav:hover {
+    background-color: darkred;
+}
+
+/* Stil pentru butonul de favorite din alte pagini */
 .fav-btn {
     background: none;
     border: none;
@@ -248,71 +359,7 @@ li img {
     color: gold;
 }
 
-#favoritesList {
-    position: fixed;
-    top: 60px;
-    right: 20px;
-    width: 300px;
-    background: white;
-    border-radius: 10px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-    padding: 15px;
-    display: none;
-    max-height: 400px;
-    overflow-y: auto;
-}
 
-#favoritesList.hidden {
-    display: none;
-}
-
-#favoritesToggle {
-    position: fixed;
-    top: 60px;
-    left: 80px;
-    padding: 10px 15px;
-    background-color: #ffcc00;
-    color: white;
-    border: none;
-    border-radius: 30px;
-    font-size: 1.1em;
-    cursor: pointer;
-    transition: transform 0.3s ease;
-}
-
-#favoritesToggle:hover {
-    transform: scale(1.1);
-}
-
-.remove-fav {
-    background: none;
-    border: none;
-    font-size: 1.2em;
-    cursor: pointer;
-    color: red;
-}
-
-.remove-fav:hover {
-    color: darkred;
-}
-
-.favorite-link {
-    position: fixed;
-    top: 20px;
-    left: 20px;
-    padding: 10px 15px;
-    background-color: #ff4757;
-    color: white;
-    border-radius: 30px;
-    font-size: 1.1em;
-    text-decoration: none;
-    transition: transform 0.3s ease;
-}
-
-.favorite-link:hover {
-    transform: scale(1.1);
-    background-color: #c82333;
-}
 
 /* Layout principal */
 .profile-container {
@@ -373,13 +420,30 @@ li img {
     transition: background 0.3s ease;
 }
 
-.sidebar nav ul li a i {
-    margin-right: 10px;
+.sidebar nav ul li a {
+    background-color: #ffffff; /* Fundal alb */
+    color: #000000 !important; /* Text negru */
+    font-weight: bold;
+    padding: 10px 15px;
+    border-radius: 6px;
+    display: block;
+    text-align: center;
+    transition: background 0.3s ease, color 0.3s ease;
 }
 
 .sidebar nav ul li a:hover {
-    background-color: #444;
+    background-color: #007bff; /* Albastru la hover */
+    color: white !important;
 }
+
+.sidebar nav ul li a.active {
+    background-color: #007bff !important; /* Albastru */
+    color: white !important;
+    font-weight: bold;
+    box-shadow: 0 4px 10px rgba(0, 123, 255, 0.5);
+}
+
+
 
 /* Conținut */
 .profile-content {

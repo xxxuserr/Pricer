@@ -63,3 +63,7 @@ a:hover {
 }
 
 
+.main-header, .main-footer {
+    position: relative;
+    background: #f8f9fa; /* Asigură-te că e ca în index */
+}

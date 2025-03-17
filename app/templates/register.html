@@ -1,10 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Înregistrare</title>
+{% extends "base.html" %}
+
+{% block title %}Înregistrare - PRICER{% endblock %}
+
+{% block styles %}
     <link rel="stylesheet" href="{{ url_for('static', filename='css/auth.css') }}">
-</head>
-<body>
+{% endblock %}
+
+{% block content %}
     <div class="container">
         <h2>Creare cont</h2>
         <form method="POST">
@@ -15,5 +17,4 @@
         </form>
         <p>Ai deja cont? <a href="{{ url_for('login') }}">Autentifică-te</a></p>
     </div>
-</body>
-</html>
+{% endblock %}

@@ -1,80 +1,51 @@
-<!DOCTYPE html>
-<html lang="ro">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PRICER</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
-    
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    
+{% extends "base.html" %}
 
-</head>
-<body>
+{% block title %}Pagina Principală - PRICER{% endblock %}
 
-    <div class="wrapper">
-        <header>
-            <h1>PRICER</h1>
-        </header>
+{% block content %}
+    <div class="main-content">
+        <div class="search-container">
+            <input type="text" id="search" placeholder="Caută un produs..." required>
+            <button type="button" id="searchButton">Caută</button>
 
-        <button id="darkModeToggle">🌙 Dark Mode</button>
-
-        
-
-
-        <div class="main-content">
-            <div class="search-container">
-                <input type="text" id="search" placeholder="Caută un produs..." required>
-                <button type="button" id="searchButton">Caută</button>
-                <a href="/favorites" class="fav-icon">
+            <!-- Butoane Favorite + Profil/Login -->
+            <div class="icon-buttons">
+                <a href="{{ url_for('favorites') }}" class="fav-icon">
                     <i class="fas fa-heart"></i>
                 </a>
-            </div>
 
-            <div id="loader" class="hidden"></div>
-
-            <ul id="productList">
-                {% for product in products %}
-                <li>
-                    <img src="{{ product.image }}" alt="{{ product.name }}">
-                    <div>
-                        <strong><a href="{{ product.link }}" target="_blank">{{ product.name }}</a></strong><br>
-                        <span class="price">{{ product.price }} MDL</span>
-                        <button class="favorite-button" onclick="addToFavorites({
-                            name: '{{ product.name }}',
-                            price: '{{ product.price }}',
-                            image: '{{ product.image }}',
-                            link: '{{ product.link }}'
-                        })">⭐ Adaugă la favorite</button>
-                    </div>
+                {% if current_user.is_authenticated %}
+                    <a href="{{ url_for('profile') }}" class="auth-icon">
+                        <i class="fas fa-user"></i>
+                    </a>
+                {% else %}
                     <a href="{{ url_for('login') }}" class="auth-icon">
                         <i class="fas fa-user"></i>
                     </a>
-                    
-                    
-                </li>
-                
-                {% endfor %}
-            </ul>
-            
-            <p class="no-results" id="noResultsMessage"></p>
+                {% endif %}
+            </div>
         </div>
-        {% if current_user.is_authenticated %}
-    <a href="{{ url_for('profile') }}" class="auth-icon">
-        <i class="fas fa-user"></i>
-    </a>
-{% else %}
-    <a href="{{ url_for('login') }}" class="auth-icon">
-        <i class="fas fa-user"></i>
-    </a>
-{% endif %}
 
+        <div id="loader" class="hidden"></div>
 
-        <footer>
-            <p>&copy; 2025 PRICER. Toate drepturile rezervate.</p>
-        </footer>
+        <ul id="productList">
+            {% for product in products %}
+            <li>
+                <img src="{{ product.image }}" alt="{{ product.name }}">
+                <div>
+                    <strong><a href="{{ product.link }}" target="_blank">{{ product.name }}</a></strong><br>
+                    <span class="price">{{ product.price }} MDL</span>
+                    <button class="favorite-button" onclick="addToFavorites({
+                        name: '{{ product.name }}',
+                        price: '{{ product.price }}',
+                        image: '{{ product.image }}',
+                        link: '{{ product.link }}'
+                    })">⭐ Adaugă la favorite</button>
+                </div>
+            </li>
+            {% endfor %}
+        </ul>
+
+        <p class="no-results" id="noResultsMessage"></p>
     </div>
-
-    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
-</body>
-</html>
+{% endblock %}

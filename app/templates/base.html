@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}PRICER{% endblock %}</title>
+    
+    <!-- Import Font Satoshi -->
+    <link href="https://api.fontshare.com/v2/css?f[]=satoshi@700&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    {% block styles %}{% endblock %}
+    
+    <style>
+        .logo {
+            font-family: 'Satoshi', sans-serif;
+            font-weight: 1000;
+            font-size: 2em;
+            text-decoration: none;
+            color: black;
+            transition: color 0.3s ease;
+        }
+
+        .logo:hover {
+            color: #007bff; /* Albastru la hover */
+        }
+
+        header {
+            display: flex;
+            justify-content: center;
+            padding: 20px;
+            background-color: #f8f9fa;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <a href="{{ url_for('index') }}" class="logo">PRICER</a>
+    </header>
+
+    <div class="wrapper">
+        {% block content %}{% endblock %}
+    </div>
+
+    <footer>
+        <p>&copy; 2025 PRICER. Toate drepturile rezervate.</p>
+    </footer>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

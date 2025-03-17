@@ -20765,3 +20765,45 @@ p.text-[20px]
   line 1:
 p.text-[20px]
        ^
+
+ Analiză produs: {'position': 1, 'title': 'Apple iPhone 15 - Chișinău', 'link': 'https://darwin.md/telefoane/smartphone/apple-iphone-15', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/telefoane/smartphone/apple-iphone-15&ved=2ahUKEwjDxN3ShZGMAxX4F1kFHRcQJzQQFnoECBQQAQ', 'displayed_link': 'https://darwin.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67d80bd1198ce48df1bbaf98/images/b45cd9c1be1bc1f8e2c419b5d27be33563d4df4d292293ff7b50817ca2840d37.png', 'snippet': 'Apple iPhone 15 128 GB Yellow 6.1" | 48 MP | 6 GB | Single. Apple iPhone 15 128 GB Yellow · 525 lei ; Apple iPhone 15 512 GB Pink 6.1" | 48 MP | 6 GB | Single.', 'snippet_highlighted_words': ['Apple iPhone 15 128 GB Yellow 6.1" | 48 MP | 6 GB'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 2, 'title': 'Apple iPhone 15 | Sortiment bogat | Cele mai noi modele', 'link': 'https://www.smart.md/ro/apple-iphone-15', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.smart.md/ro/apple-iphone-15&ved=2ahUKEwjDxN3ShZGMAxX4F1kFHRcQJzQQFnoECBsQAQ', 'displayed_link': 'https://www.smart.md › ... › Smartphone Apple', 'favicon': 'https://serpapi.com/searches/67d80bd1198ce48df1bbaf98/images/b45cd9c1be1bc1f8e2c419b5d27be3355777588509dd5a184afa1ccc90d24cd5.png', 'snippet': 'Apple iPhone 15 descopera la smart.md. Cumpara acum Apple iPhone 15 la preturi imbatabile, oferte speciale si calitate garantata!', 'snippet_highlighted_words': ['Apple iPhone 15'], 'source': 'smart.md'}
+
+ Analiză produs: {'position': 3, 'title': 'Noua serie de iPhone 15 la precomandă și prețuri accesibile', 'link': 'https://enter.online/telefoane/smartphone-uri/apple-iphone-15-2023', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enter.online/telefoane/smartphone-uri/apple-iphone-15-2023&ved=2ahUKEwjDxN3ShZGMAxX4F1kFHRcQJzQQFnoECBgQAQ', 'displayed_link': 'https://enter.online › telefoane › apple-iphone-15-2023', 'favicon': 'https://serpapi.com/searches/67d80bd1198ce48df1bbaf98/images/b45cd9c1be1bc1f8e2c419b5d27be3356ceb80ccc435ee3efbeab05819abf300.png', 'snippet': 'Precomandă unul din seria iPhone 15 și fii primul posesor de acest smartphone cu livrare gratuită și de la reselleri autorizați doar pe Enter.Online.', 'snippet_highlighted_words': ['Precomandă unul din seria iPhone 15'], 'source': 'enter.online'}
+
+ Analiză produs: {'position': 4, 'title': 'Apple iPhone 15 128GB SS Black в Кишиневе, Молдова', 'link': 'https://alo.md/ro/apple-4/apple-iphone-15-128gb-ss-black', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://alo.md/ro/apple-4/apple-iphone-15-128gb-ss-black&ved=2ahUKEwjDxN3ShZGMAxX4F1kFHRcQJzQQFnoECBoQAQ', 'displayed_link': 'https://alo.md › ... › Smartphone toate brăndurile › Apple', 'favicon': 'https://serpapi.com/searches/67d80bd1198ce48df1bbaf98/images/b45cd9c1be1bc1f8e2c419b5d27be33532254d4f3ffd4443f51ed069d15812f4.png', 'snippet': 'Cu sistemul de operare iOS 17, chipsetul Apple A16 Bionic și opțiuni generoase de stocare, cum ar fi 128GB, 256GB sau 512GB, iPhone 15 oferă performanțe de top ...', 'snippet_highlighted_words': ['iPhone 15'], 'source': 'Alo. Md'}
+
+ Analiză produs: {'position': 5, 'title': 'Cumpără Apple iPhone 15 5G 128GB', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/iphone-15-128gb.html', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/iphone-15-128gb.html&ved=2ahUKEwjDxN3ShZGMAxX4F1kFHRcQJzQQFnoECBkQAQ', 'displayed_link': 'https://www.orange.md › ... › Toate telefoanele', 'favicon': 'https://serpapi.com/searches/67d80bd1198ce48df1bbaf98/images/b45cd9c1be1bc1f8e2c419b5d27be335fc852cc1639f4e28e80e0b7013457b8d.png', 'snippet': 'Характеристики Apple iPhone 15 5G 128GB ; Tip SIMNano-SIM | eSIM ; Dual SIMDa (Nano-SIM + eSIM) ; Sistem de operareiOS ; Diagonală ecran6.1" ; Rezoluţie ecran2556 x ...', 'snippet_highlighted_words': ['Характеристики Apple iPhone 15 5G 128GB'], 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 6, 'title': 'Buy iPhone 15 and iPhone 15 Plus', 'link': 'https://www.apple.com/shop/buy-iphone/iphone-15', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.apple.com/shop/buy-iphone/iphone-15&ved=2ahUKEwjDxN3ShZGMAxX4F1kFHRcQJzQQFnoECD4QAQ', 'displayed_link': 'https://www.apple.com › shop', 'favicon': 'https://serpapi.com/searches/67d80bd1198ce48df1bbaf98/images/b45cd9c1be1bc1f8e2c419b5d27be335b1ff0053667f6519591a791283e369be.png', 'snippet': 'Get $45 - $630 off a new iPhone 15 or iPhone 15 Plus when you trade in an iPhone 8 or newer. 0% financing available. Buy now with free shipping.', 'snippet_highlighted_words': ['Get $45 - $630 off a new iPhone 15'], 'source': 'Apple'}
+
+ Analiză produs: {'position': 7, 'title': 'iPhone 15 128GB Black - Gorilla ELECTRONICS', 'link': 'https://gorilla.md/produs/iphone-15-128gb-black/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gorilla.md/produs/iphone-15-128gb-black/&ved=2ahUKEwjDxN3ShZGMAxX4F1kFHRcQJzQQFnoECDQQAQ', 'displayed_link': 'https://gorilla.md › SMARTPHONE › Apple', 'favicon': 'https://serpapi.com/searches/67d80bd1198ce48df1bbaf98/images/b45cd9c1be1bc1f8e2c419b5d27be33565e98b823823f5d7f8dcdf044b7a2b9b.png', 'snippet': 'Sistem de operare: iOS 17 · Diagonală display: 6.1 " · Chipset: Apple A16 Bionic (4 nm) · Număr de nuclee: 6 · Memorie RAM: 6 GB · Memorie incorporata: 512 GB · Tip ...', 'snippet_highlighted_words': ['Sistem de operare: iOS 17'], 'source': 'gorilla.md'}
+
+ Analiză produs: {'position': 8, 'title': 'iPhone 15 🔥 Купить в Кишиневе по лучшей цене в ...', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/iphone-15', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orange.md/ro/shop/catalog/telefoane/iphone-15&ved=2ahUKEwjDxN3ShZGMAxX4F1kFHRcQJzQQFnoECDUQAQ', 'displayed_link': 'https://www.orange.md › ip...', 'favicon': 'https://serpapi.com/searches/67d80bd1198ce48df1bbaf98/images/b45cd9c1be1bc1f8e2c419b5d27be3353c1be2e900b3c5ccc77dce8e8b5d7849.png', 'snippet': 'Apple iPhone 15 Pro 5G 128GB. В наличии. 22 399 леев. 946 леев в месяц pe 24 мес. eSIM с подписью. Товар был добавлен для сравнения. Apple iPhone 15 Pro Max ...', 'snippet_highlighted_words': ['Apple iPhone 15 Pro 5G 128GB'], 'sitelinks': {'inline': [{'title': 'Купи iPhone 15 Plus в...', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/iphone-15/iphone-15-plus'}, {'title': 'Apple iPhone 15 Plus 5G 128GB', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/iphone-15-plus-128gb.html'}, {'title': 'Orange Eshop', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/iphone-15-plus-512gb.html'}]}, 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 9, 'title': 'Мобильный телефон iPhone 15 128GB Blue', 'link': 'https://www.cactus.md/ru/catalogue/electronice/telefone/mobilnye-telefony/mobil-nyj-telefon-iphone-15-128gb-blue-137593/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cactus.md/ru/catalogue/electronice/telefone/mobilnye-telefony/mobil-nyj-telefon-iphone-15-128gb-blue-137593/&ved=2ahUKEwjDxN3ShZGMAxX4F1kFHRcQJzQQFnoECC8QAQ', 'displayed_link': 'https://www.cactus.md › mo...', 'favicon': 'https://serpapi.com/searches/67d80bd1198ce48df1bbaf98/images/b45cd9c1be1bc1f8e2c419b5d27be335d4ac505e8084f54613d6a715a7eb3400.png', 'snippet': 'Кроме того, iPhone 15 имеет ультраширокоугольную камеру с углом обзора 120 градусов и 4-кратным оптическим зумом. USB-C — это новый порт для зарядки и передачи ...', 'snippet_highlighted_words': ['iPhone 15'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 5.0, 'reviews': 1}, 'extensions': ['5,0(1)']}}, 'source': 'Cactus.md'}
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
