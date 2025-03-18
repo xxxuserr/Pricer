@@ -156,3 +156,17 @@ function updateFavCount() {
         });
 }
 updateFavCount();
+
+function toggleFavorite(productName) {
+    let favButton = document.querySelector(`[onclick="toggleFavorite('${productName}')"] i`);
+    
+    if (favButton.classList.contains("favorited")) {
+        favButton.classList.remove("favorited");
+        favButton.style.color = "#ccc"; // Revenire la gri
+    } else {
+        favButton.classList.add("favorited");
+        favButton.style.color = "#ff4d4d"; // Roșu când e favorit
+    }
+
+    // Poți adăuga aici un request către server pentru salvarea în baza de date
+}

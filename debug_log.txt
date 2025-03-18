@@ -20807,3 +20807,701 @@ p.text-[20px]
   line 1:
 p.text-[20px]
        ^
+
+ Analiză produs: {'position': 1, 'title': 'Apple iPhone 15 - Chișinău', 'link': 'https://darwin.md/telefoane/smartphone/apple-iphone-15', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/telefoane/smartphone/apple-iphone-15&ved=2ahUKEwjOk5abw5OMAxWORjABHao7GXwQFnoECBUQAQ', 'displayed_link': 'https://darwin.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67d958cebd629cc2810a67a1/images/b45cd9c1be1bc1f8e2c419b5d27be33563d4df4d292293ff7b50817ca2840d37.png', 'snippet': 'Apple iPhone 15 128 GB Yellow 6.1" | 48 MP | 6 GB | Single. Apple iPhone 15 128 GB Yellow · 525 lei ; Apple iPhone 15 512 GB Pink 6.1" | 48 MP | 6 GB | Single.', 'snippet_highlighted_words': ['Apple iPhone 15 128 GB Yellow 6.1" | 48 MP | 6 GB'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 2, 'title': 'Apple iPhone 15 | Sortiment bogat | Cele mai noi modele', 'link': 'https://www.smart.md/ro/apple-iphone-15', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.smart.md/ro/apple-iphone-15&ved=2ahUKEwjOk5abw5OMAxWORjABHao7GXwQFnoECBgQAQ', 'displayed_link': 'https://www.smart.md › ... › Smartphone Apple', 'favicon': 'https://serpapi.com/searches/67d958cebd629cc2810a67a1/images/b45cd9c1be1bc1f8e2c419b5d27be3355777588509dd5a184afa1ccc90d24cd5.png', 'snippet': 'Apple iPhone 15 descopera la smart.md. Cumpara acum Apple iPhone 15 la preturi imbatabile, oferte speciale si calitate garantata!', 'snippet_highlighted_words': ['Apple iPhone 15'], 'source': 'smart.md'}
+
+ Analiză produs: {'position': 3, 'title': 'Noua serie de iPhone 15 la precomandă și prețuri accesibile', 'link': 'https://enter.online/telefoane/smartphone-uri/apple-iphone-15-2023', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enter.online/telefoane/smartphone-uri/apple-iphone-15-2023&ved=2ahUKEwjOk5abw5OMAxWORjABHao7GXwQFnoECBQQAQ', 'displayed_link': 'https://enter.online › telefoane › apple-iphone-15-2023', 'favicon': 'https://serpapi.com/searches/67d958cebd629cc2810a67a1/images/b45cd9c1be1bc1f8e2c419b5d27be3356ceb80ccc435ee3efbeab05819abf300.png', 'snippet': 'Precomandă unul din seria iPhone 15 și fii primul posesor de acest smartphone cu livrare gratuită și de la reselleri autorizați doar pe Enter.Online.', 'snippet_highlighted_words': ['Precomandă unul din seria iPhone 15'], 'source': 'enter.online'}
+
+ Analiză produs: {'position': 4, 'title': 'iPhone 15 🔥 Купить в Кишиневе по лучшей цене в ...', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/iphone-15', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orange.md/ro/shop/catalog/telefoane/iphone-15&ved=2ahUKEwjOk5abw5OMAxWORjABHao7GXwQFnoECBkQAQ', 'displayed_link': 'https://www.orange.md › ip...', 'favicon': 'https://serpapi.com/searches/67d958cebd629cc2810a67a1/images/b45cd9c1be1bc1f8e2c419b5d27be33532254d4f3ffd4443f51ed069d15812f4.png', 'snippet': 'Apple iPhone 15 Pro 5G 128GB. В наличии. 22 399 леев. 946 леев в месяц pe 24 мес. eSIM с подписью. Товар был добавлен для сравнения. Apple iPhone 15 Pro Max ...', 'snippet_highlighted_words': ['Apple iPhone 15 Pro 5G 128GB'], 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 5, 'title': 'Apple iPhone 15 128GB SS Black в Кишиневе, Молдова', 'link': 'https://alo.md/ro/apple-4/apple-iphone-15-128gb-ss-black', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://alo.md/ro/apple-4/apple-iphone-15-128gb-ss-black&ved=2ahUKEwjOk5abw5OMAxWORjABHao7GXwQFnoECCUQAQ', 'displayed_link': 'https://alo.md › ... › Smartphone toate brăndurile › Apple', 'favicon': 'https://serpapi.com/searches/67d958cebd629cc2810a67a1/images/b45cd9c1be1bc1f8e2c419b5d27be335fc852cc1639f4e28e80e0b7013457b8d.png', 'snippet': 'Cu sistemul de operare iOS 17, chipsetul Apple A16 Bionic și opțiuni generoase de stocare, cum ar fi 128GB, 256GB sau 512GB, iPhone 15 oferă performanțe de top ...', 'snippet_highlighted_words': ['iPhone 15'], 'source': 'Alo. Md'}
+
+ Analiză produs: {'position': 6, 'title': 'iPhone 15 128GB Black - Gorilla ELECTRONICS', 'link': 'https://gorilla.md/produs/iphone-15-128gb-black/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gorilla.md/produs/iphone-15-128gb-black/&ved=2ahUKEwjOk5abw5OMAxWORjABHao7GXwQFnoECC0QAQ', 'displayed_link': 'https://gorilla.md › SMARTPHONE › Apple', 'favicon': 'https://serpapi.com/searches/67d958cebd629cc2810a67a1/images/b45cd9c1be1bc1f8e2c419b5d27be335b1ff0053667f6519591a791283e369be.png', 'snippet': 'Sistem de operare: iOS 17 · Diagonală display: 6.1 " · Chipset: Apple A16 Bionic (4 nm) · Număr de nuclee: 6 · Memorie RAM: 6 GB · Memorie incorporata: 512 GB · Tip ...', 'snippet_highlighted_words': ['Sistem de operare: iOS 17'], 'source': 'gorilla.md'}
+
+ Analiză produs: {'position': 7, 'title': 'Мобильный телефон iPhone 15 128GB Blue', 'link': 'https://www.cactus.md/ru/catalogue/electronice/telefone/mobilnye-telefony/mobil-nyj-telefon-iphone-15-128gb-blue-137593/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cactus.md/ru/catalogue/electronice/telefone/mobilnye-telefony/mobil-nyj-telefon-iphone-15-128gb-blue-137593/&ved=2ahUKEwjOk5abw5OMAxWORjABHao7GXwQFnoECCoQAQ', 'displayed_link': 'https://www.cactus.md › mo...', 'favicon': 'https://serpapi.com/searches/67d958cebd629cc2810a67a1/images/b45cd9c1be1bc1f8e2c419b5d27be33565e98b823823f5d7f8dcdf044b7a2b9b.png', 'snippet': 'Кроме того, iPhone 15 имеет ультраширокоугольную камеру с углом обзора 120 градусов и 4-кратным оптическим зумом. USB-C — это новый порт для зарядки и передачи ...', 'snippet_highlighted_words': ['iPhone 15'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 5.0, 'reviews': 1}, 'extensions': ['5,0(1)']}}, 'source': 'Cactus.md'}
+
+ Analiză produs: {'position': 8, 'title': 'Apple iPhone 15 128GB Black - Chișinău', 'link': 'https://eshop.moldcell.md/ro/telefoane/apple-iphone-15-128gb-black', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://eshop.moldcell.md/ro/telefoane/apple-iphone-15-128gb-black&ved=2ahUKEwjOk5abw5OMAxWORjABHao7GXwQFnoECCYQAQ', 'displayed_link': 'https://eshop.moldcell.md › telefoane › apple-iphone-15-...', 'favicon': 'https://serpapi.com/searches/67d958cebd629cc2810a67a1/images/b45cd9c1be1bc1f8e2c419b5d27be3353c1be2e900b3c5ccc77dce8e8b5d7849.png', 'snippet': 'Disponibile în dimensiuni ale ecranului de 6,1 și 6,7 inchi, iPhone 15 și iPhone 15 Plus dispun de Dynamic Island, o modalitate inovatoare de a interacționa cu ...', 'snippet_highlighted_words': ['iPhone 15'], 'source': 'Magazin Online Moldcell'}
+
+ Analiză produs: {'position': 9, 'title': 'Apple iPhone 15 5G 128GB', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/iphone-15-128gb.html', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/iphone-15-128gb.html&ved=2ahUKEwjOk5abw5OMAxWORjABHao7GXwQFnoECCsQAQ', 'displayed_link': 'https://www.orange.md › ip...', 'favicon': 'https://serpapi.com/searches/67d958cebd629cc2810a67a1/images/b45cd9c1be1bc1f8e2c419b5d27be335d4ac505e8084f54613d6a715a7eb3400.png', 'snippet': 'Премиум Дизайн: С экраном Super Retina XDR размером 6.1 дюймов и дизайном из качественного стекла, iPhone 15 – это не просто телефон, а выражение стиля.', 'snippet_highlighted_words': ['iPhone 15'], 'source': 'Orange Moldova'}
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+
+ Analiză produs: {'position': 1, 'title': 'Apple iPhone 15 - Chișinău', 'link': 'https://darwin.md/telefoane/smartphone/apple-iphone-15', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/telefoane/smartphone/apple-iphone-15&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECBcQAQ', 'displayed_link': 'https://darwin.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be33563d4df4d292293ff7b50817ca2840d37.png', 'snippet': 'Apple iPhone 15 128 GB Yellow 6.1" | 48 MP | 6 GB | Single. Apple iPhone 15 128 GB Yellow · 525 lei ; Apple iPhone 15 512 GB Pink 6.1" | 48 MP | 6 GB | Single.', 'snippet_highlighted_words': ['Apple iPhone 15 128 GB Yellow 6.1" | 48 MP | 6 GB'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 2, 'title': 'Apple iPhone 15 | Sortiment bogat | Cele mai noi modele', 'link': 'https://www.smart.md/ro/apple-iphone-15', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.smart.md/ro/apple-iphone-15&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECBkQAQ', 'displayed_link': 'https://www.smart.md › ... › Smartphone Apple', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be3355777588509dd5a184afa1ccc90d24cd5.png', 'snippet': 'Apple iPhone 15 descopera la smart.md. Cumpara acum Apple iPhone 15 la preturi imbatabile, oferte speciale si calitate garantata!', 'snippet_highlighted_words': ['Apple iPhone 15'], 'source': 'smart.md'}
+
+ Analiză produs: {'position': 3, 'title': 'Noua serie de iPhone 15 la precomandă și prețuri accesibile', 'link': 'https://enter.online/telefoane/smartphone-uri/apple-iphone-15-2023', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enter.online/telefoane/smartphone-uri/apple-iphone-15-2023&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECBgQAQ', 'displayed_link': 'https://enter.online › telefoane › apple-iphone-15-2023', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be3356ceb80ccc435ee3efbeab05819abf300.png', 'snippet': 'Precomandă unul din seria iPhone 15 și fii primul posesor de acest smartphone cu livrare gratuită și de la reselleri autorizați doar pe Enter.Online.', 'snippet_highlighted_words': ['Precomandă unul din seria iPhone 15'], 'source': 'enter.online'}
+
+ Analiză produs: {'position': 4, 'title': 'Apple iPhone 15 128GB SS Black в Кишиневе, Молдова', 'link': 'https://alo.md/ro/apple-4/apple-iphone-15-128gb-ss-black', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://alo.md/ro/apple-4/apple-iphone-15-128gb-ss-black&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECBYQAQ', 'displayed_link': 'https://alo.md › ... › Smartphone toate brăndurile › Apple', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be33532254d4f3ffd4443f51ed069d15812f4.png', 'snippet': 'Cu sistemul de operare iOS 17, chipsetul Apple A16 Bionic și opțiuni generoase de stocare, cum ar fi 128GB, 256GB sau 512GB, iPhone 15 oferă performanțe de top ...', 'snippet_highlighted_words': ['iPhone 15'], 'source': 'Alo. Md'}
+
+ Analiză produs: {'position': 5, 'title': 'Cumpără Apple iPhone 15 5G 128GB', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/iphone-15-128gb.html', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/iphone-15-128gb.html&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECCIQAQ', 'displayed_link': 'https://www.orange.md › telefoane › toate-telefoanele', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be335fc852cc1639f4e28e80e0b7013457b8d.png', 'snippet': 'Specificaţii Apple iPhone 15 5G 128GB ; Diagonală ecran6.1" ; Rezoluţie ecran2556 x 1179 pixeli ; Tip ecranSuper Retina XDR OLED ; Rată reîmprospătare ecran60 Hz.', 'snippet_highlighted_words': ['Specificaţii Apple iPhone 15 5G 128GB'], 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 6, 'title': 'iPhone 15 128GB Black - Gorilla ELECTRONICS', 'link': 'https://gorilla.md/produs/iphone-15-128gb-black/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gorilla.md/produs/iphone-15-128gb-black/&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECDIQAQ', 'displayed_link': 'https://gorilla.md › SMARTPHONE › Apple', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be335b1ff0053667f6519591a791283e369be.png', 'snippet': 'Sistem de operare: iOS 17 · Diagonală display: 6.1 " · Chipset: Apple A16 Bionic (4 nm) · Număr de nuclee: 6 · Memorie RAM: 6 GB · Memorie incorporata: 512 GB · Tip ...', 'snippet_highlighted_words': ['Sistem de operare: iOS 17'], 'source': 'gorilla.md'}
+
+ Analiză produs: {'position': 7, 'title': 'iPhone 15 🔥 Купить в Кишиневе по лучшей цене в ...', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/iphone-15', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orange.md/ro/shop/catalog/telefoane/iphone-15&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECDwQAQ', 'displayed_link': 'https://www.orange.md › ip...', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be33565e98b823823f5d7f8dcdf044b7a2b9b.png', 'snippet': 'Apple iPhone 15 Pro 5G 128GB. В наличии. 22 399 леев. 946 леев в месяц pe 24 мес. eSIM с подписью. Товар был добавлен для сравнения. Apple iPhone 15 Pro Max ...', 'snippet_highlighted_words': ['Apple iPhone 15 Pro 5G 128GB'], 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 8, 'title': 'Мобильный телефон iPhone 15 128GB Blue', 'link': 'https://www.cactus.md/ru/catalogue/electronice/telefone/mobilnye-telefony/mobil-nyj-telefon-iphone-15-128gb-blue-137593/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cactus.md/ru/catalogue/electronice/telefone/mobilnye-telefony/mobil-nyj-telefon-iphone-15-128gb-blue-137593/&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECC0QAQ', 'displayed_link': 'https://www.cactus.md › mo...', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be3353c1be2e900b3c5ccc77dce8e8b5d7849.png', 'snippet': 'Кроме того, iPhone 15 имеет ультраширокоугольную камеру с углом обзора 120 градусов и 4-кратным оптическим зумом. USB-C — это новый порт для зарядки и передачи ...', 'snippet_highlighted_words': ['iPhone 15'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 5.0, 'reviews': 1}, 'extensions': ['5,0(1)']}}, 'source': 'Cactus.md'}
+
+ Analiză produs: {'position': 9, 'title': 'Apple iPhone 15 128GB Black - Chișinău', 'link': 'https://eshop.moldcell.md/ro/telefoane/apple-iphone-15-128gb-black', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://eshop.moldcell.md/ro/telefoane/apple-iphone-15-128gb-black&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECCoQAQ', 'displayed_link': 'https://eshop.moldcell.md › telefoane › apple-iphone-15-...', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be335d4ac505e8084f54613d6a715a7eb3400.png', 'snippet': 'Disponibile în dimensiuni ale ecranului de 6,1 și 6,7 inchi, iPhone 15 și iPhone 15 Plus dispun de Dynamic Island, o modalitate inovatoare de a interacționa cu ...', 'snippet_highlighted_words': ['iPhone 15'], 'source': 'Magazin Online Moldcell'}
+
+ Analiză produs(SHOPPING): {'position': 1, 'block_position': 'top', 'title': 'Apple iPhone 15 - Black - 128GB | Metro by T-Mobile (with plan)', 'price': '479,99\xa0USD', 'extracted_price': 479.99, 'old_price': '730\xa0USD', 'extracted_old_price': 730, 'link': 'https://www.metrobyt-mobile.com/cell-phone/apple-iphone-15?sku=195949038600', 'source': 'Metro by T-Mobile', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667625f61cd990ae6b72668def1be6457f5.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 2, 'block_position': 'top', 'title': 'Apple iPhone 15 - Pink - 128GB (with 24 monthly payments + plan)', 'price': 'Acum 0,00\xa0USD', 'extracted_price': 0.0, 'link': 'https://www.t-mobile.com/cell-phone/apple-iphone-15?sku=195949035012', 'source': 'T-Mobile', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd66760a4b8db7e57cde3640891b0cbf88280.webp'}
+
+ Analiză produs(SHOPPING): {'position': 3, 'block_position': 'top', 'title': 'Apple - iPhone 15 128GB (Unlocked) - Black', 'price': '679,99\xa0USD', 'extracted_price': 679.99, 'old_price': '730\xa0USD', 'extracted_old_price': 730, 'link': 'https://www.bestbuy.com/site/apple-iphone-15-128gb-unlocked-black/6507478.p?skuId=6507478&contractId=unactivated', 'source': 'Best Buy', 'rating': 3.7, 'reviews': 2000, 'reviews_original': '2k+', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd66712db5812f4cf82475d2d941d8e376cde.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 4, 'block_position': 'top', 'title': 'Apple - iPhone 15 128GB (Unlocked) - Pink', 'price': '679,99\xa0USD', 'extracted_price': 679.99, 'old_price': '730\xa0USD', 'extracted_old_price': 730, 'link': 'https://www.bestbuy.com/site/apple-iphone-15-128gb-unlocked-pink/6507479.p?skuId=6507479&contractId=unactivated', 'source': 'Best Buy', 'rating': 3.7, 'reviews': 2000, 'reviews_original': '2k+', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd6675b5ac708a22588ac1afb2f213c80ce26.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 5, 'block_position': 'top', 'title': 'Apple - iPhone 15 128GB (Unlocked) - Blue', 'price': '679,99\xa0USD', 'extracted_price': 679.99, 'old_price': '730\xa0USD', 'extracted_old_price': 730, 'link': 'https://www.bestbuy.com/site/apple-iphone-15-128gb-unlocked-blue/6507481.p?skuId=6507481&contractId=unactivated', 'source': 'Best Buy', 'rating': 3.7, 'reviews': 2000, 'reviews_original': '2k+', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667efa16f1b9b5f9be4c9cc2d3c34dfa08c.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 6, 'block_position': 'top', 'title': 'Apple iPhone 15 Pro - Blue Titanium - 1TB (with 24 monthly payments + plan)', 'price': 'Acum 499,99\xa0USD', 'extracted_price': 499.99, 'link': 'https://www.t-mobile.com/cell-phone/apple-iphone-15-pro?sku=195949017766', 'source': 'T-Mobile', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd6674889de5a80b197c725836991cdd9e092.webp'}
+
+ Analiză produs(SHOPPING): {'position': 7, 'block_position': 'top', 'title': 'Apple iPhone 15 Pro Max - Black Titanium - 256GB | Metro by T-Mobile (with plan)', 'price': '849,99\xa0USD', 'extracted_price': 849.99, 'old_price': '1.100\xa0', 'extracted_old_price': 1100, 'link': 'https://www.metrobyt-mobile.com/cell-phone/apple-iphone-15-pro-max?sku=195949050299', 'source': 'Metro by T-Mobile', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd6675cac94ff544b132b2a2ba17c53cad06d.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 8, 'block_position': 'top', 'title': 'Apple iPhone 15 - Blue - 128GB (with 24 monthly payments + plan)', 'price': 'Acum 0,00\xa0USD', 'extracted_price': 0.0, 'link': 'https://www.t-mobile.com/cell-phone/apple-iphone-15?sku=195949035036', 'source': 'T-Mobile', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667baa0ccd9a9381e734e865f365e853d18.webp'}
+
+ Analiză produs(SHOPPING): {'position': 9, 'block_position': 'top', 'title': 'Apple iPhone 15 - Black - 128GB (with 24 monthly payments + plan)', 'price': 'Acum 0,00\xa0USD', 'extracted_price': 0.0, 'link': 'https://www.t-mobile.com/cell-phone/apple-iphone-15?sku=195949035005', 'source': 'T-Mobile', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667c2af61ed9ebafe4ee6ae0a942a35b927.webp'}
+
+ Analiză produs(SHOPPING): {'position': 10, 'block_position': 'top', 'title': 'Apple - iPhone 15 128GB (Unlocked) - Yellow', 'price': '679,99\xa0USD', 'extracted_price': 679.99, 'old_price': '730\xa0USD', 'extracted_old_price': 730, 'link': 'https://www.bestbuy.com/site/apple-iphone-15-128gb-unlocked-yellow/6507480.p?skuId=6507480&contractId=unactivated', 'source': 'Best Buy', 'rating': 3.7, 'reviews': 2000, 'reviews_original': '2k+', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667023092cd1ce11ac6121b4a498a23340b.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 11, 'block_position': 'top', 'title': 'Apple - iPhone 15 128GB (Unlocked) - Green', 'price': '679,99\xa0USD', 'extracted_price': 679.99, 'old_price': '730\xa0USD', 'extracted_old_price': 730, 'link': 'https://www.bestbuy.com/site/apple-iphone-15-128gb-unlocked-green/6507482.p?skuId=6507482&contractId=unactivated', 'source': 'Best Buy', 'rating': 3.7, 'reviews': 2000, 'reviews_original': '2k+', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667dfcaeb0b417c77052b4a609df3acd2dc.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 12, 'block_position': 'top', 'title': 'Apple iPhone 15 128 GB in Blue | Smartphone | Verizon (with 36 monthly installment payments + plan)', 'price': 'Acum 0,00\xa0USD', 'extracted_price': 0.0, 'link': 'https://www.verizon.com/smartphones/apple-iphone-15/?sku=sku6004592&edgeTerm=36', 'source': 'Verizon', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667de908e0ec3493d142c285b910e86b963.webp'}
+
+ Analiză produs(SHOPPING): {'position': 13, 'block_position': 'top', 'title': 'iPhone 15 128GB (with contract, 24 installment payment) (la abonament)', 'price': 'Acum 579,00\xa0USD', 'extracted_price': 579.0, 'link': 'https://www.straighttalk.com/all-phones/iphone-15-128gb.', 'source': 'StraightTalk Wireless', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd66792174ffd80f428bd9a27effa0be8bb72.webp'}
+
+ Analiză produs(SHOPPING): {'position': 14, 'block_position': 'top', 'title': 'Apple iPhone 15 128 GB in Pink | Smartphone | Verizon (with 36 monthly installment payments + plan)', 'price': 'Acum 0,00\xa0USD', 'extracted_price': 0.0, 'link': 'https://www.verizon.com/smartphones/apple-iphone-15/?sku=sku6004578&edgeTerm=36', 'source': 'Verizon', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd66771768c41855eec86a4200e4e76409a84.webp'}
+
+ Analiză produs(SHOPPING): {'position': 15, 'block_position': 'top', 'title': 'Apple iPhone 15, 128GB, Pink - T-Mobile (Renewed)', 'price': '441,91\xa0USD', 'extracted_price': 441.91, 'old_price': '474\xa0USD', 'extracted_old_price': 474, 'link': 'https://www.amazon.com/Apple-iPhone-15-128GB-Pink/dp/B0CMPLL2QT?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A65CUHLW5BI0P', 'source': 'Amazon.com', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667e64faffe3e5ef408ae895ccb11ce5cec.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 16, 'block_position': 'top', 'title': 'Apple iPhone 15 128GB Prepaid - Total Wireless Green', 'price': '329,00\xa0USD', 'extracted_price': 329.0, 'link': 'https://www.totalwireless.com/smartphones/iphone-15-128gb.green', 'source': 'Total Wireless', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd6677e3edb07abff6b53de9b4d72776feb6c.webp'}
+
+ Analiză produs(SHOPPING): {'position': 17, 'block_position': 'top', 'title': 'Apple iPhone 15 - 128GB - Pink - With 36 Installment Payments + Plan (la abonament)', 'price': 'Acum 0,00\xa0USD', 'extracted_price': 0.0, 'link': 'https://www.att.com/buy/phones/apple-iphone-15-128gb-pink.html?source=E-g2s10000000000X&wtExtndSource=SWIS-iPhone', 'source': 'AT&T', 'thumbnail': 'https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcStsk6mHZqX_GQ4s56SipEl2UUBfy4s0xcHeZzNg27aWtPPFmiCEA1Au2DOJ2QW3cLuv39WpbIo2Br9u6I7cgKo7-5U4fPK4Pp0lDphCRF3XMCn6M6OGGe4_Q&usqp=CAc'}
+
+ Analiză produs(SHOPPING): {'position': 18, 'block_position': 'top', 'title': 'Restored Apple iPhone 15 - Fully Unlocked - 128 GB Black (Refurbished)', 'price': '512,50\xa0USD', 'extracted_price': 512.5, 'old_price': '578\xa0USD', 'extracted_old_price': 578, 'link': 'https://www.walmart.com/ip/Restored-Apple-iPhone-15-128GB-Unlocked-Black-MTLV3LL-A-Excellent-Condition/5169493923?wmlspartner=wlpa&selectedSellerId=101129114', 'source': 'Walmart', 'rating': 3.4, 'reviews': 110, 'reviews_original': '110', 'thumbnail': 'https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQVfcJYowdf9fCDScrMmjJfXXMiuDS-ULL3zTBg93RbmxcNwJ2W54OkocAz7_QONIfJIIhr7YAG1T4vZBKbmfGRnjcMidlnt2M99xb9-F0EnRrObE_qAQg3PmWta6_pBB8FGFbz-sI&usqp=CAc', 'extensions': ['Reduceri']}
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+
+ Analiză produs: {'position': 1, 'title': 'Apple iPhone 15 - Chișinău', 'link': 'https://darwin.md/telefoane/smartphone/apple-iphone-15', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/telefoane/smartphone/apple-iphone-15&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECBcQAQ', 'displayed_link': 'https://darwin.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be33563d4df4d292293ff7b50817ca2840d37.png', 'snippet': 'Apple iPhone 15 128 GB Yellow 6.1" | 48 MP | 6 GB | Single. Apple iPhone 15 128 GB Yellow · 525 lei ; Apple iPhone 15 512 GB Pink 6.1" | 48 MP | 6 GB | Single.', 'snippet_highlighted_words': ['Apple iPhone 15 128 GB Yellow 6.1" | 48 MP | 6 GB'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 2, 'title': 'Apple iPhone 15 | Sortiment bogat | Cele mai noi modele', 'link': 'https://www.smart.md/ro/apple-iphone-15', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.smart.md/ro/apple-iphone-15&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECBkQAQ', 'displayed_link': 'https://www.smart.md › ... › Smartphone Apple', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be3355777588509dd5a184afa1ccc90d24cd5.png', 'snippet': 'Apple iPhone 15 descopera la smart.md. Cumpara acum Apple iPhone 15 la preturi imbatabile, oferte speciale si calitate garantata!', 'snippet_highlighted_words': ['Apple iPhone 15'], 'source': 'smart.md'}
+
+ Analiză produs: {'position': 3, 'title': 'Noua serie de iPhone 15 la precomandă și prețuri accesibile', 'link': 'https://enter.online/telefoane/smartphone-uri/apple-iphone-15-2023', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enter.online/telefoane/smartphone-uri/apple-iphone-15-2023&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECBgQAQ', 'displayed_link': 'https://enter.online › telefoane › apple-iphone-15-2023', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be3356ceb80ccc435ee3efbeab05819abf300.png', 'snippet': 'Precomandă unul din seria iPhone 15 și fii primul posesor de acest smartphone cu livrare gratuită și de la reselleri autorizați doar pe Enter.Online.', 'snippet_highlighted_words': ['Precomandă unul din seria iPhone 15'], 'source': 'enter.online'}
+
+ Analiză produs: {'position': 4, 'title': 'Apple iPhone 15 128GB SS Black в Кишиневе, Молдова', 'link': 'https://alo.md/ro/apple-4/apple-iphone-15-128gb-ss-black', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://alo.md/ro/apple-4/apple-iphone-15-128gb-ss-black&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECBYQAQ', 'displayed_link': 'https://alo.md › ... › Smartphone toate brăndurile › Apple', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be33532254d4f3ffd4443f51ed069d15812f4.png', 'snippet': 'Cu sistemul de operare iOS 17, chipsetul Apple A16 Bionic și opțiuni generoase de stocare, cum ar fi 128GB, 256GB sau 512GB, iPhone 15 oferă performanțe de top ...', 'snippet_highlighted_words': ['iPhone 15'], 'source': 'Alo. Md'}
+
+ Analiză produs: {'position': 5, 'title': 'Cumpără Apple iPhone 15 5G 128GB', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/iphone-15-128gb.html', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/iphone-15-128gb.html&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECCIQAQ', 'displayed_link': 'https://www.orange.md › telefoane › toate-telefoanele', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be335fc852cc1639f4e28e80e0b7013457b8d.png', 'snippet': 'Specificaţii Apple iPhone 15 5G 128GB ; Diagonală ecran6.1" ; Rezoluţie ecran2556 x 1179 pixeli ; Tip ecranSuper Retina XDR OLED ; Rată reîmprospătare ecran60 Hz.', 'snippet_highlighted_words': ['Specificaţii Apple iPhone 15 5G 128GB'], 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 6, 'title': 'iPhone 15 128GB Black - Gorilla ELECTRONICS', 'link': 'https://gorilla.md/produs/iphone-15-128gb-black/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gorilla.md/produs/iphone-15-128gb-black/&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECDIQAQ', 'displayed_link': 'https://gorilla.md › SMARTPHONE › Apple', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be335b1ff0053667f6519591a791283e369be.png', 'snippet': 'Sistem de operare: iOS 17 · Diagonală display: 6.1 " · Chipset: Apple A16 Bionic (4 nm) · Număr de nuclee: 6 · Memorie RAM: 6 GB · Memorie incorporata: 512 GB · Tip ...', 'snippet_highlighted_words': ['Sistem de operare: iOS 17'], 'source': 'gorilla.md'}
+
+ Analiză produs: {'position': 7, 'title': 'iPhone 15 🔥 Купить в Кишиневе по лучшей цене в ...', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/iphone-15', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orange.md/ro/shop/catalog/telefoane/iphone-15&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECDwQAQ', 'displayed_link': 'https://www.orange.md › ip...', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be33565e98b823823f5d7f8dcdf044b7a2b9b.png', 'snippet': 'Apple iPhone 15 Pro 5G 128GB. В наличии. 22 399 леев. 946 леев в месяц pe 24 мес. eSIM с подписью. Товар был добавлен для сравнения. Apple iPhone 15 Pro Max ...', 'snippet_highlighted_words': ['Apple iPhone 15 Pro 5G 128GB'], 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 8, 'title': 'Мобильный телефон iPhone 15 128GB Blue', 'link': 'https://www.cactus.md/ru/catalogue/electronice/telefone/mobilnye-telefony/mobil-nyj-telefon-iphone-15-128gb-blue-137593/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cactus.md/ru/catalogue/electronice/telefone/mobilnye-telefony/mobil-nyj-telefon-iphone-15-128gb-blue-137593/&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECC0QAQ', 'displayed_link': 'https://www.cactus.md › mo...', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be3353c1be2e900b3c5ccc77dce8e8b5d7849.png', 'snippet': 'Кроме того, iPhone 15 имеет ультраширокоугольную камеру с углом обзора 120 градусов и 4-кратным оптическим зумом. USB-C — это новый порт для зарядки и передачи ...', 'snippet_highlighted_words': ['iPhone 15'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 5.0, 'reviews': 1}, 'extensions': ['5,0(1)']}}, 'source': 'Cactus.md'}
+
+ Analiză produs: {'position': 9, 'title': 'Apple iPhone 15 128GB Black - Chișinău', 'link': 'https://eshop.moldcell.md/ro/telefoane/apple-iphone-15-128gb-black', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://eshop.moldcell.md/ro/telefoane/apple-iphone-15-128gb-black&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECCoQAQ', 'displayed_link': 'https://eshop.moldcell.md › telefoane › apple-iphone-15-...', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be335d4ac505e8084f54613d6a715a7eb3400.png', 'snippet': 'Disponibile în dimensiuni ale ecranului de 6,1 și 6,7 inchi, iPhone 15 și iPhone 15 Plus dispun de Dynamic Island, o modalitate inovatoare de a interacționa cu ...', 'snippet_highlighted_words': ['iPhone 15'], 'source': 'Magazin Online Moldcell'}
+
+ Analiză produs(SHOPPING): {'position': 1, 'block_position': 'top', 'title': 'Apple iPhone 15 - Black - 128GB | Metro by T-Mobile (with plan)', 'price': '479,99\xa0USD', 'extracted_price': 479.99, 'old_price': '730\xa0USD', 'extracted_old_price': 730, 'link': 'https://www.metrobyt-mobile.com/cell-phone/apple-iphone-15?sku=195949038600', 'source': 'Metro by T-Mobile', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667625f61cd990ae6b72668def1be6457f5.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 2, 'block_position': 'top', 'title': 'Apple iPhone 15 - Pink - 128GB (with 24 monthly payments + plan)', 'price': 'Acum 0,00\xa0USD', 'extracted_price': 0.0, 'link': 'https://www.t-mobile.com/cell-phone/apple-iphone-15?sku=195949035012', 'source': 'T-Mobile', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd66760a4b8db7e57cde3640891b0cbf88280.webp'}
+
+ Analiză produs(SHOPPING): {'position': 3, 'block_position': 'top', 'title': 'Apple - iPhone 15 128GB (Unlocked) - Black', 'price': '679,99\xa0USD', 'extracted_price': 679.99, 'old_price': '730\xa0USD', 'extracted_old_price': 730, 'link': 'https://www.bestbuy.com/site/apple-iphone-15-128gb-unlocked-black/6507478.p?skuId=6507478&contractId=unactivated', 'source': 'Best Buy', 'rating': 3.7, 'reviews': 2000, 'reviews_original': '2k+', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd66712db5812f4cf82475d2d941d8e376cde.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 4, 'block_position': 'top', 'title': 'Apple - iPhone 15 128GB (Unlocked) - Pink', 'price': '679,99\xa0USD', 'extracted_price': 679.99, 'old_price': '730\xa0USD', 'extracted_old_price': 730, 'link': 'https://www.bestbuy.com/site/apple-iphone-15-128gb-unlocked-pink/6507479.p?skuId=6507479&contractId=unactivated', 'source': 'Best Buy', 'rating': 3.7, 'reviews': 2000, 'reviews_original': '2k+', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd6675b5ac708a22588ac1afb2f213c80ce26.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 5, 'block_position': 'top', 'title': 'Apple - iPhone 15 128GB (Unlocked) - Blue', 'price': '679,99\xa0USD', 'extracted_price': 679.99, 'old_price': '730\xa0USD', 'extracted_old_price': 730, 'link': 'https://www.bestbuy.com/site/apple-iphone-15-128gb-unlocked-blue/6507481.p?skuId=6507481&contractId=unactivated', 'source': 'Best Buy', 'rating': 3.7, 'reviews': 2000, 'reviews_original': '2k+', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667efa16f1b9b5f9be4c9cc2d3c34dfa08c.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 6, 'block_position': 'top', 'title': 'Apple iPhone 15 Pro - Blue Titanium - 1TB (with 24 monthly payments + plan)', 'price': 'Acum 499,99\xa0USD', 'extracted_price': 499.99, 'link': 'https://www.t-mobile.com/cell-phone/apple-iphone-15-pro?sku=195949017766', 'source': 'T-Mobile', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd6674889de5a80b197c725836991cdd9e092.webp'}
+
+ Analiză produs(SHOPPING): {'position': 7, 'block_position': 'top', 'title': 'Apple iPhone 15 Pro Max - Black Titanium - 256GB | Metro by T-Mobile (with plan)', 'price': '849,99\xa0USD', 'extracted_price': 849.99, 'old_price': '1.100\xa0', 'extracted_old_price': 1100, 'link': 'https://www.metrobyt-mobile.com/cell-phone/apple-iphone-15-pro-max?sku=195949050299', 'source': 'Metro by T-Mobile', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd6675cac94ff544b132b2a2ba17c53cad06d.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 8, 'block_position': 'top', 'title': 'Apple iPhone 15 - Blue - 128GB (with 24 monthly payments + plan)', 'price': 'Acum 0,00\xa0USD', 'extracted_price': 0.0, 'link': 'https://www.t-mobile.com/cell-phone/apple-iphone-15?sku=195949035036', 'source': 'T-Mobile', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667baa0ccd9a9381e734e865f365e853d18.webp'}
+
+ Analiză produs(SHOPPING): {'position': 9, 'block_position': 'top', 'title': 'Apple iPhone 15 - Black - 128GB (with 24 monthly payments + plan)', 'price': 'Acum 0,00\xa0USD', 'extracted_price': 0.0, 'link': 'https://www.t-mobile.com/cell-phone/apple-iphone-15?sku=195949035005', 'source': 'T-Mobile', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667c2af61ed9ebafe4ee6ae0a942a35b927.webp'}
+
+ Analiză produs(SHOPPING): {'position': 10, 'block_position': 'top', 'title': 'Apple - iPhone 15 128GB (Unlocked) - Yellow', 'price': '679,99\xa0USD', 'extracted_price': 679.99, 'old_price': '730\xa0USD', 'extracted_old_price': 730, 'link': 'https://www.bestbuy.com/site/apple-iphone-15-128gb-unlocked-yellow/6507480.p?skuId=6507480&contractId=unactivated', 'source': 'Best Buy', 'rating': 3.7, 'reviews': 2000, 'reviews_original': '2k+', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667023092cd1ce11ac6121b4a498a23340b.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 11, 'block_position': 'top', 'title': 'Apple - iPhone 15 128GB (Unlocked) - Green', 'price': '679,99\xa0USD', 'extracted_price': 679.99, 'old_price': '730\xa0USD', 'extracted_old_price': 730, 'link': 'https://www.bestbuy.com/site/apple-iphone-15-128gb-unlocked-green/6507482.p?skuId=6507482&contractId=unactivated', 'source': 'Best Buy', 'rating': 3.7, 'reviews': 2000, 'reviews_original': '2k+', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667dfcaeb0b417c77052b4a609df3acd2dc.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 12, 'block_position': 'top', 'title': 'Apple iPhone 15 128 GB in Blue | Smartphone | Verizon (with 36 monthly installment payments + plan)', 'price': 'Acum 0,00\xa0USD', 'extracted_price': 0.0, 'link': 'https://www.verizon.com/smartphones/apple-iphone-15/?sku=sku6004592&edgeTerm=36', 'source': 'Verizon', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667de908e0ec3493d142c285b910e86b963.webp'}
+
+ Analiză produs(SHOPPING): {'position': 13, 'block_position': 'top', 'title': 'iPhone 15 128GB (with contract, 24 installment payment) (la abonament)', 'price': 'Acum 579,00\xa0USD', 'extracted_price': 579.0, 'link': 'https://www.straighttalk.com/all-phones/iphone-15-128gb.', 'source': 'StraightTalk Wireless', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd66792174ffd80f428bd9a27effa0be8bb72.webp'}
+
+ Analiză produs(SHOPPING): {'position': 14, 'block_position': 'top', 'title': 'Apple iPhone 15 128 GB in Pink | Smartphone | Verizon (with 36 monthly installment payments + plan)', 'price': 'Acum 0,00\xa0USD', 'extracted_price': 0.0, 'link': 'https://www.verizon.com/smartphones/apple-iphone-15/?sku=sku6004578&edgeTerm=36', 'source': 'Verizon', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd66771768c41855eec86a4200e4e76409a84.webp'}
+
+ Analiză produs(SHOPPING): {'position': 15, 'block_position': 'top', 'title': 'Apple iPhone 15, 128GB, Pink - T-Mobile (Renewed)', 'price': '441,91\xa0USD', 'extracted_price': 441.91, 'old_price': '474\xa0USD', 'extracted_old_price': 474, 'link': 'https://www.amazon.com/Apple-iPhone-15-128GB-Pink/dp/B0CMPLL2QT?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A65CUHLW5BI0P', 'source': 'Amazon.com', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667e64faffe3e5ef408ae895ccb11ce5cec.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 16, 'block_position': 'top', 'title': 'Apple iPhone 15 128GB Prepaid - Total Wireless Green', 'price': '329,00\xa0USD', 'extracted_price': 329.0, 'link': 'https://www.totalwireless.com/smartphones/iphone-15-128gb.green', 'source': 'Total Wireless', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd6677e3edb07abff6b53de9b4d72776feb6c.webp'}
+
+ Analiză produs(SHOPPING): {'position': 17, 'block_position': 'top', 'title': 'Apple iPhone 15 - 128GB - Pink - With 36 Installment Payments + Plan (la abonament)', 'price': 'Acum 0,00\xa0USD', 'extracted_price': 0.0, 'link': 'https://www.att.com/buy/phones/apple-iphone-15-128gb-pink.html?source=E-g2s10000000000X&wtExtndSource=SWIS-iPhone', 'source': 'AT&T', 'thumbnail': 'https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcStsk6mHZqX_GQ4s56SipEl2UUBfy4s0xcHeZzNg27aWtPPFmiCEA1Au2DOJ2QW3cLuv39WpbIo2Br9u6I7cgKo7-5U4fPK4Pp0lDphCRF3XMCn6M6OGGe4_Q&usqp=CAc'}
+
+ Analiză produs(SHOPPING): {'position': 18, 'block_position': 'top', 'title': 'Restored Apple iPhone 15 - Fully Unlocked - 128 GB Black (Refurbished)', 'price': '512,50\xa0USD', 'extracted_price': 512.5, 'old_price': '578\xa0USD', 'extracted_old_price': 578, 'link': 'https://www.walmart.com/ip/Restored-Apple-iPhone-15-128GB-Unlocked-Black-MTLV3LL-A-Excellent-Condition/5169493923?wmlspartner=wlpa&selectedSellerId=101129114', 'source': 'Walmart', 'rating': 3.4, 'reviews': 110, 'reviews_original': '110', 'thumbnail': 'https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQVfcJYowdf9fCDScrMmjJfXXMiuDS-ULL3zTBg93RbmxcNwJ2W54OkocAz7_QONIfJIIhr7YAG1T4vZBKbmfGRnjcMidlnt2M99xb9-F0EnRrObE_qAQg3PmWta6_pBB8FGFbz-sI&usqp=CAc', 'extensions': ['Reduceri']}
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+
+ Analiză produs: {'position': 1, 'title': 'Apple iPhone 15 - Chișinău', 'link': 'https://darwin.md/telefoane/smartphone/apple-iphone-15', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/telefoane/smartphone/apple-iphone-15&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECBcQAQ', 'displayed_link': 'https://darwin.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be33563d4df4d292293ff7b50817ca2840d37.png', 'snippet': 'Apple iPhone 15 128 GB Yellow 6.1" | 48 MP | 6 GB | Single. Apple iPhone 15 128 GB Yellow · 525 lei ; Apple iPhone 15 512 GB Pink 6.1" | 48 MP | 6 GB | Single.', 'snippet_highlighted_words': ['Apple iPhone 15 128 GB Yellow 6.1" | 48 MP | 6 GB'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 2, 'title': 'Apple iPhone 15 | Sortiment bogat | Cele mai noi modele', 'link': 'https://www.smart.md/ro/apple-iphone-15', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.smart.md/ro/apple-iphone-15&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECBkQAQ', 'displayed_link': 'https://www.smart.md › ... › Smartphone Apple', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be3355777588509dd5a184afa1ccc90d24cd5.png', 'snippet': 'Apple iPhone 15 descopera la smart.md. Cumpara acum Apple iPhone 15 la preturi imbatabile, oferte speciale si calitate garantata!', 'snippet_highlighted_words': ['Apple iPhone 15'], 'source': 'smart.md'}
+
+ Analiză produs: {'position': 3, 'title': 'Noua serie de iPhone 15 la precomandă și prețuri accesibile', 'link': 'https://enter.online/telefoane/smartphone-uri/apple-iphone-15-2023', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enter.online/telefoane/smartphone-uri/apple-iphone-15-2023&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECBgQAQ', 'displayed_link': 'https://enter.online › telefoane › apple-iphone-15-2023', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be3356ceb80ccc435ee3efbeab05819abf300.png', 'snippet': 'Precomandă unul din seria iPhone 15 și fii primul posesor de acest smartphone cu livrare gratuită și de la reselleri autorizați doar pe Enter.Online.', 'snippet_highlighted_words': ['Precomandă unul din seria iPhone 15'], 'source': 'enter.online'}
+
+ Analiză produs: {'position': 4, 'title': 'Apple iPhone 15 128GB SS Black в Кишиневе, Молдова', 'link': 'https://alo.md/ro/apple-4/apple-iphone-15-128gb-ss-black', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://alo.md/ro/apple-4/apple-iphone-15-128gb-ss-black&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECBYQAQ', 'displayed_link': 'https://alo.md › ... › Smartphone toate brăndurile › Apple', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be33532254d4f3ffd4443f51ed069d15812f4.png', 'snippet': 'Cu sistemul de operare iOS 17, chipsetul Apple A16 Bionic și opțiuni generoase de stocare, cum ar fi 128GB, 256GB sau 512GB, iPhone 15 oferă performanțe de top ...', 'snippet_highlighted_words': ['iPhone 15'], 'source': 'Alo. Md'}
+
+ Analiză produs: {'position': 5, 'title': 'Cumpără Apple iPhone 15 5G 128GB', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/iphone-15-128gb.html', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/iphone-15-128gb.html&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECCIQAQ', 'displayed_link': 'https://www.orange.md › telefoane › toate-telefoanele', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be335fc852cc1639f4e28e80e0b7013457b8d.png', 'snippet': 'Specificaţii Apple iPhone 15 5G 128GB ; Diagonală ecran6.1" ; Rezoluţie ecran2556 x 1179 pixeli ; Tip ecranSuper Retina XDR OLED ; Rată reîmprospătare ecran60 Hz.', 'snippet_highlighted_words': ['Specificaţii Apple iPhone 15 5G 128GB'], 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 6, 'title': 'iPhone 15 128GB Black - Gorilla ELECTRONICS', 'link': 'https://gorilla.md/produs/iphone-15-128gb-black/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gorilla.md/produs/iphone-15-128gb-black/&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECDIQAQ', 'displayed_link': 'https://gorilla.md › SMARTPHONE › Apple', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be335b1ff0053667f6519591a791283e369be.png', 'snippet': 'Sistem de operare: iOS 17 · Diagonală display: 6.1 " · Chipset: Apple A16 Bionic (4 nm) · Număr de nuclee: 6 · Memorie RAM: 6 GB · Memorie incorporata: 512 GB · Tip ...', 'snippet_highlighted_words': ['Sistem de operare: iOS 17'], 'source': 'gorilla.md'}
+
+ Analiză produs: {'position': 7, 'title': 'iPhone 15 🔥 Купить в Кишиневе по лучшей цене в ...', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/iphone-15', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orange.md/ro/shop/catalog/telefoane/iphone-15&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECDwQAQ', 'displayed_link': 'https://www.orange.md › ip...', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be33565e98b823823f5d7f8dcdf044b7a2b9b.png', 'snippet': 'Apple iPhone 15 Pro 5G 128GB. В наличии. 22 399 леев. 946 леев в месяц pe 24 мес. eSIM с подписью. Товар был добавлен для сравнения. Apple iPhone 15 Pro Max ...', 'snippet_highlighted_words': ['Apple iPhone 15 Pro 5G 128GB'], 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 8, 'title': 'Мобильный телефон iPhone 15 128GB Blue', 'link': 'https://www.cactus.md/ru/catalogue/electronice/telefone/mobilnye-telefony/mobil-nyj-telefon-iphone-15-128gb-blue-137593/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cactus.md/ru/catalogue/electronice/telefone/mobilnye-telefony/mobil-nyj-telefon-iphone-15-128gb-blue-137593/&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECC0QAQ', 'displayed_link': 'https://www.cactus.md › mo...', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be3353c1be2e900b3c5ccc77dce8e8b5d7849.png', 'snippet': 'Кроме того, iPhone 15 имеет ультраширокоугольную камеру с углом обзора 120 градусов и 4-кратным оптическим зумом. USB-C — это новый порт для зарядки и передачи ...', 'snippet_highlighted_words': ['iPhone 15'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 5.0, 'reviews': 1}, 'extensions': ['5,0(1)']}}, 'source': 'Cactus.md'}
+
+ Analiză produs: {'position': 9, 'title': 'Apple iPhone 15 128GB Black - Chișinău', 'link': 'https://eshop.moldcell.md/ro/telefoane/apple-iphone-15-128gb-black', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://eshop.moldcell.md/ro/telefoane/apple-iphone-15-128gb-black&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECCoQAQ', 'displayed_link': 'https://eshop.moldcell.md › telefoane › apple-iphone-15-...', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be335d4ac505e8084f54613d6a715a7eb3400.png', 'snippet': 'Disponibile în dimensiuni ale ecranului de 6,1 și 6,7 inchi, iPhone 15 și iPhone 15 Plus dispun de Dynamic Island, o modalitate inovatoare de a interacționa cu ...', 'snippet_highlighted_words': ['iPhone 15'], 'source': 'Magazin Online Moldcell'}
+
+ Analiză produs(SHOPPING): {'position': 1, 'block_position': 'top', 'title': 'Apple iPhone 15 - Black - 128GB | Metro by T-Mobile (with plan)', 'price': '479,99\xa0USD', 'extracted_price': 479.99, 'old_price': '730\xa0USD', 'extracted_old_price': 730, 'link': 'https://www.metrobyt-mobile.com/cell-phone/apple-iphone-15?sku=195949038600', 'source': 'Metro by T-Mobile', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667625f61cd990ae6b72668def1be6457f5.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 2, 'block_position': 'top', 'title': 'Apple iPhone 15 - Pink - 128GB (with 24 monthly payments + plan)', 'price': 'Acum 0,00\xa0USD', 'extracted_price': 0.0, 'link': 'https://www.t-mobile.com/cell-phone/apple-iphone-15?sku=195949035012', 'source': 'T-Mobile', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd66760a4b8db7e57cde3640891b0cbf88280.webp'}
+
+ Analiză produs(SHOPPING): {'position': 3, 'block_position': 'top', 'title': 'Apple - iPhone 15 128GB (Unlocked) - Black', 'price': '679,99\xa0USD', 'extracted_price': 679.99, 'old_price': '730\xa0USD', 'extracted_old_price': 730, 'link': 'https://www.bestbuy.com/site/apple-iphone-15-128gb-unlocked-black/6507478.p?skuId=6507478&contractId=unactivated', 'source': 'Best Buy', 'rating': 3.7, 'reviews': 2000, 'reviews_original': '2k+', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd66712db5812f4cf82475d2d941d8e376cde.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 4, 'block_position': 'top', 'title': 'Apple - iPhone 15 128GB (Unlocked) - Pink', 'price': '679,99\xa0USD', 'extracted_price': 679.99, 'old_price': '730\xa0USD', 'extracted_old_price': 730, 'link': 'https://www.bestbuy.com/site/apple-iphone-15-128gb-unlocked-pink/6507479.p?skuId=6507479&contractId=unactivated', 'source': 'Best Buy', 'rating': 3.7, 'reviews': 2000, 'reviews_original': '2k+', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd6675b5ac708a22588ac1afb2f213c80ce26.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 5, 'block_position': 'top', 'title': 'Apple - iPhone 15 128GB (Unlocked) - Blue', 'price': '679,99\xa0USD', 'extracted_price': 679.99, 'old_price': '730\xa0USD', 'extracted_old_price': 730, 'link': 'https://www.bestbuy.com/site/apple-iphone-15-128gb-unlocked-blue/6507481.p?skuId=6507481&contractId=unactivated', 'source': 'Best Buy', 'rating': 3.7, 'reviews': 2000, 'reviews_original': '2k+', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667efa16f1b9b5f9be4c9cc2d3c34dfa08c.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 6, 'block_position': 'top', 'title': 'Apple iPhone 15 Pro - Blue Titanium - 1TB (with 24 monthly payments + plan)', 'price': 'Acum 499,99\xa0USD', 'extracted_price': 499.99, 'link': 'https://www.t-mobile.com/cell-phone/apple-iphone-15-pro?sku=195949017766', 'source': 'T-Mobile', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd6674889de5a80b197c725836991cdd9e092.webp'}
+
+ Analiză produs(SHOPPING): {'position': 7, 'block_position': 'top', 'title': 'Apple iPhone 15 Pro Max - Black Titanium - 256GB | Metro by T-Mobile (with plan)', 'price': '849,99\xa0USD', 'extracted_price': 849.99, 'old_price': '1.100\xa0', 'extracted_old_price': 1100, 'link': 'https://www.metrobyt-mobile.com/cell-phone/apple-iphone-15-pro-max?sku=195949050299', 'source': 'Metro by T-Mobile', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd6675cac94ff544b132b2a2ba17c53cad06d.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 8, 'block_position': 'top', 'title': 'Apple iPhone 15 - Blue - 128GB (with 24 monthly payments + plan)', 'price': 'Acum 0,00\xa0USD', 'extracted_price': 0.0, 'link': 'https://www.t-mobile.com/cell-phone/apple-iphone-15?sku=195949035036', 'source': 'T-Mobile', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667baa0ccd9a9381e734e865f365e853d18.webp'}
+
+ Analiză produs(SHOPPING): {'position': 9, 'block_position': 'top', 'title': 'Apple iPhone 15 - Black - 128GB (with 24 monthly payments + plan)', 'price': 'Acum 0,00\xa0USD', 'extracted_price': 0.0, 'link': 'https://www.t-mobile.com/cell-phone/apple-iphone-15?sku=195949035005', 'source': 'T-Mobile', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667c2af61ed9ebafe4ee6ae0a942a35b927.webp'}
+
+ Analiză produs(SHOPPING): {'position': 10, 'block_position': 'top', 'title': 'Apple - iPhone 15 128GB (Unlocked) - Yellow', 'price': '679,99\xa0USD', 'extracted_price': 679.99, 'old_price': '730\xa0USD', 'extracted_old_price': 730, 'link': 'https://www.bestbuy.com/site/apple-iphone-15-128gb-unlocked-yellow/6507480.p?skuId=6507480&contractId=unactivated', 'source': 'Best Buy', 'rating': 3.7, 'reviews': 2000, 'reviews_original': '2k+', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667023092cd1ce11ac6121b4a498a23340b.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 11, 'block_position': 'top', 'title': 'Apple - iPhone 15 128GB (Unlocked) - Green', 'price': '679,99\xa0USD', 'extracted_price': 679.99, 'old_price': '730\xa0USD', 'extracted_old_price': 730, 'link': 'https://www.bestbuy.com/site/apple-iphone-15-128gb-unlocked-green/6507482.p?skuId=6507482&contractId=unactivated', 'source': 'Best Buy', 'rating': 3.7, 'reviews': 2000, 'reviews_original': '2k+', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667dfcaeb0b417c77052b4a609df3acd2dc.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 12, 'block_position': 'top', 'title': 'Apple iPhone 15 128 GB in Blue | Smartphone | Verizon (with 36 monthly installment payments + plan)', 'price': 'Acum 0,00\xa0USD', 'extracted_price': 0.0, 'link': 'https://www.verizon.com/smartphones/apple-iphone-15/?sku=sku6004592&edgeTerm=36', 'source': 'Verizon', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667de908e0ec3493d142c285b910e86b963.webp'}
+
+ Analiză produs(SHOPPING): {'position': 13, 'block_position': 'top', 'title': 'iPhone 15 128GB (with contract, 24 installment payment) (la abonament)', 'price': 'Acum 579,00\xa0USD', 'extracted_price': 579.0, 'link': 'https://www.straighttalk.com/all-phones/iphone-15-128gb.', 'source': 'StraightTalk Wireless', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd66792174ffd80f428bd9a27effa0be8bb72.webp'}
+
+ Analiză produs(SHOPPING): {'position': 14, 'block_position': 'top', 'title': 'Apple iPhone 15 128 GB in Pink | Smartphone | Verizon (with 36 monthly installment payments + plan)', 'price': 'Acum 0,00\xa0USD', 'extracted_price': 0.0, 'link': 'https://www.verizon.com/smartphones/apple-iphone-15/?sku=sku6004578&edgeTerm=36', 'source': 'Verizon', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd66771768c41855eec86a4200e4e76409a84.webp'}
+
+ Analiză produs(SHOPPING): {'position': 15, 'block_position': 'top', 'title': 'Apple iPhone 15, 128GB, Pink - T-Mobile (Renewed)', 'price': '441,91\xa0USD', 'extracted_price': 441.91, 'old_price': '474\xa0USD', 'extracted_old_price': 474, 'link': 'https://www.amazon.com/Apple-iPhone-15-128GB-Pink/dp/B0CMPLL2QT?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A65CUHLW5BI0P', 'source': 'Amazon.com', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667e64faffe3e5ef408ae895ccb11ce5cec.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 16, 'block_position': 'top', 'title': 'Apple iPhone 15 128GB Prepaid - Total Wireless Green', 'price': '329,00\xa0USD', 'extracted_price': 329.0, 'link': 'https://www.totalwireless.com/smartphones/iphone-15-128gb.green', 'source': 'Total Wireless', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd6677e3edb07abff6b53de9b4d72776feb6c.webp'}
+
+ Analiză produs(SHOPPING): {'position': 17, 'block_position': 'top', 'title': 'Apple iPhone 15 - 128GB - Pink - With 36 Installment Payments + Plan (la abonament)', 'price': 'Acum 0,00\xa0USD', 'extracted_price': 0.0, 'link': 'https://www.att.com/buy/phones/apple-iphone-15-128gb-pink.html?source=E-g2s10000000000X&wtExtndSource=SWIS-iPhone', 'source': 'AT&T', 'thumbnail': 'https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcStsk6mHZqX_GQ4s56SipEl2UUBfy4s0xcHeZzNg27aWtPPFmiCEA1Au2DOJ2QW3cLuv39WpbIo2Br9u6I7cgKo7-5U4fPK4Pp0lDphCRF3XMCn6M6OGGe4_Q&usqp=CAc'}
+
+ Analiză produs(SHOPPING): {'position': 18, 'block_position': 'top', 'title': 'Restored Apple iPhone 15 - Fully Unlocked - 128 GB Black (Refurbished)', 'price': '512,50\xa0USD', 'extracted_price': 512.5, 'old_price': '578\xa0USD', 'extracted_old_price': 578, 'link': 'https://www.walmart.com/ip/Restored-Apple-iPhone-15-128GB-Unlocked-Black-MTLV3LL-A-Excellent-Condition/5169493923?wmlspartner=wlpa&selectedSellerId=101129114', 'source': 'Walmart', 'rating': 3.4, 'reviews': 110, 'reviews_original': '110', 'thumbnail': 'https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQVfcJYowdf9fCDScrMmjJfXXMiuDS-ULL3zTBg93RbmxcNwJ2W54OkocAz7_QONIfJIIhr7YAG1T4vZBKbmfGRnjcMidlnt2M99xb9-F0EnRrObE_qAQg3PmWta6_pBB8FGFbz-sI&usqp=CAc', 'extensions': ['Reduceri']}
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+
+ Analiză produs: {'position': 1, 'title': 'Apple iPhone 15 - Chișinău', 'link': 'https://darwin.md/telefoane/smartphone/apple-iphone-15', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/telefoane/smartphone/apple-iphone-15&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECBcQAQ', 'displayed_link': 'https://darwin.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be33563d4df4d292293ff7b50817ca2840d37.png', 'snippet': 'Apple iPhone 15 128 GB Yellow 6.1" | 48 MP | 6 GB | Single. Apple iPhone 15 128 GB Yellow · 525 lei ; Apple iPhone 15 512 GB Pink 6.1" | 48 MP | 6 GB | Single.', 'snippet_highlighted_words': ['Apple iPhone 15 128 GB Yellow 6.1" | 48 MP | 6 GB'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 2, 'title': 'Apple iPhone 15 | Sortiment bogat | Cele mai noi modele', 'link': 'https://www.smart.md/ro/apple-iphone-15', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.smart.md/ro/apple-iphone-15&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECBkQAQ', 'displayed_link': 'https://www.smart.md › ... › Smartphone Apple', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be3355777588509dd5a184afa1ccc90d24cd5.png', 'snippet': 'Apple iPhone 15 descopera la smart.md. Cumpara acum Apple iPhone 15 la preturi imbatabile, oferte speciale si calitate garantata!', 'snippet_highlighted_words': ['Apple iPhone 15'], 'source': 'smart.md'}
+
+ Analiză produs: {'position': 3, 'title': 'Noua serie de iPhone 15 la precomandă și prețuri accesibile', 'link': 'https://enter.online/telefoane/smartphone-uri/apple-iphone-15-2023', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enter.online/telefoane/smartphone-uri/apple-iphone-15-2023&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECBgQAQ', 'displayed_link': 'https://enter.online › telefoane › apple-iphone-15-2023', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be3356ceb80ccc435ee3efbeab05819abf300.png', 'snippet': 'Precomandă unul din seria iPhone 15 și fii primul posesor de acest smartphone cu livrare gratuită și de la reselleri autorizați doar pe Enter.Online.', 'snippet_highlighted_words': ['Precomandă unul din seria iPhone 15'], 'source': 'enter.online'}
+
+ Analiză produs: {'position': 4, 'title': 'Apple iPhone 15 128GB SS Black в Кишиневе, Молдова', 'link': 'https://alo.md/ro/apple-4/apple-iphone-15-128gb-ss-black', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://alo.md/ro/apple-4/apple-iphone-15-128gb-ss-black&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECBYQAQ', 'displayed_link': 'https://alo.md › ... › Smartphone toate brăndurile › Apple', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be33532254d4f3ffd4443f51ed069d15812f4.png', 'snippet': 'Cu sistemul de operare iOS 17, chipsetul Apple A16 Bionic și opțiuni generoase de stocare, cum ar fi 128GB, 256GB sau 512GB, iPhone 15 oferă performanțe de top ...', 'snippet_highlighted_words': ['iPhone 15'], 'source': 'Alo. Md'}
+
+ Analiză produs: {'position': 5, 'title': 'Cumpără Apple iPhone 15 5G 128GB', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/iphone-15-128gb.html', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/iphone-15-128gb.html&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECCIQAQ', 'displayed_link': 'https://www.orange.md › telefoane › toate-telefoanele', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be335fc852cc1639f4e28e80e0b7013457b8d.png', 'snippet': 'Specificaţii Apple iPhone 15 5G 128GB ; Diagonală ecran6.1" ; Rezoluţie ecran2556 x 1179 pixeli ; Tip ecranSuper Retina XDR OLED ; Rată reîmprospătare ecran60 Hz.', 'snippet_highlighted_words': ['Specificaţii Apple iPhone 15 5G 128GB'], 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 6, 'title': 'iPhone 15 128GB Black - Gorilla ELECTRONICS', 'link': 'https://gorilla.md/produs/iphone-15-128gb-black/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gorilla.md/produs/iphone-15-128gb-black/&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECDIQAQ', 'displayed_link': 'https://gorilla.md › SMARTPHONE › Apple', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be335b1ff0053667f6519591a791283e369be.png', 'snippet': 'Sistem de operare: iOS 17 · Diagonală display: 6.1 " · Chipset: Apple A16 Bionic (4 nm) · Număr de nuclee: 6 · Memorie RAM: 6 GB · Memorie incorporata: 512 GB · Tip ...', 'snippet_highlighted_words': ['Sistem de operare: iOS 17'], 'source': 'gorilla.md'}
+
+ Analiză produs: {'position': 7, 'title': 'iPhone 15 🔥 Купить в Кишиневе по лучшей цене в ...', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/iphone-15', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orange.md/ro/shop/catalog/telefoane/iphone-15&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECDwQAQ', 'displayed_link': 'https://www.orange.md › ip...', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be33565e98b823823f5d7f8dcdf044b7a2b9b.png', 'snippet': 'Apple iPhone 15 Pro 5G 128GB. В наличии. 22 399 леев. 946 леев в месяц pe 24 мес. eSIM с подписью. Товар был добавлен для сравнения. Apple iPhone 15 Pro Max ...', 'snippet_highlighted_words': ['Apple iPhone 15 Pro 5G 128GB'], 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 8, 'title': 'Мобильный телефон iPhone 15 128GB Blue', 'link': 'https://www.cactus.md/ru/catalogue/electronice/telefone/mobilnye-telefony/mobil-nyj-telefon-iphone-15-128gb-blue-137593/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cactus.md/ru/catalogue/electronice/telefone/mobilnye-telefony/mobil-nyj-telefon-iphone-15-128gb-blue-137593/&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECC0QAQ', 'displayed_link': 'https://www.cactus.md › mo...', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be3353c1be2e900b3c5ccc77dce8e8b5d7849.png', 'snippet': 'Кроме того, iPhone 15 имеет ультраширокоугольную камеру с углом обзора 120 градусов и 4-кратным оптическим зумом. USB-C — это новый порт для зарядки и передачи ...', 'snippet_highlighted_words': ['iPhone 15'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 5.0, 'reviews': 1}, 'extensions': ['5,0(1)']}}, 'source': 'Cactus.md'}
+
+ Analiză produs: {'position': 9, 'title': 'Apple iPhone 15 128GB Black - Chișinău', 'link': 'https://eshop.moldcell.md/ro/telefoane/apple-iphone-15-128gb-black', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://eshop.moldcell.md/ro/telefoane/apple-iphone-15-128gb-black&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECCoQAQ', 'displayed_link': 'https://eshop.moldcell.md › telefoane › apple-iphone-15-...', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be335d4ac505e8084f54613d6a715a7eb3400.png', 'snippet': 'Disponibile în dimensiuni ale ecranului de 6,1 și 6,7 inchi, iPhone 15 și iPhone 15 Plus dispun de Dynamic Island, o modalitate inovatoare de a interacționa cu ...', 'snippet_highlighted_words': ['iPhone 15'], 'source': 'Magazin Online Moldcell'}
+
+ Analiză produs(SHOPPING): {'position': 1, 'block_position': 'top', 'title': 'Apple iPhone 15 - Black - 128GB | Metro by T-Mobile (with plan)', 'price': '479,99\xa0USD', 'extracted_price': 479.99, 'old_price': '730\xa0USD', 'extracted_old_price': 730, 'link': 'https://www.metrobyt-mobile.com/cell-phone/apple-iphone-15?sku=195949038600', 'source': 'Metro by T-Mobile', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667625f61cd990ae6b72668def1be6457f5.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 2, 'block_position': 'top', 'title': 'Apple iPhone 15 - Pink - 128GB (with 24 monthly payments + plan)', 'price': 'Acum 0,00\xa0USD', 'extracted_price': 0.0, 'link': 'https://www.t-mobile.com/cell-phone/apple-iphone-15?sku=195949035012', 'source': 'T-Mobile', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd66760a4b8db7e57cde3640891b0cbf88280.webp'}
+
+ Analiză produs(SHOPPING): {'position': 3, 'block_position': 'top', 'title': 'Apple - iPhone 15 128GB (Unlocked) - Black', 'price': '679,99\xa0USD', 'extracted_price': 679.99, 'old_price': '730\xa0USD', 'extracted_old_price': 730, 'link': 'https://www.bestbuy.com/site/apple-iphone-15-128gb-unlocked-black/6507478.p?skuId=6507478&contractId=unactivated', 'source': 'Best Buy', 'rating': 3.7, 'reviews': 2000, 'reviews_original': '2k+', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd66712db5812f4cf82475d2d941d8e376cde.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 4, 'block_position': 'top', 'title': 'Apple - iPhone 15 128GB (Unlocked) - Pink', 'price': '679,99\xa0USD', 'extracted_price': 679.99, 'old_price': '730\xa0USD', 'extracted_old_price': 730, 'link': 'https://www.bestbuy.com/site/apple-iphone-15-128gb-unlocked-pink/6507479.p?skuId=6507479&contractId=unactivated', 'source': 'Best Buy', 'rating': 3.7, 'reviews': 2000, 'reviews_original': '2k+', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd6675b5ac708a22588ac1afb2f213c80ce26.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 5, 'block_position': 'top', 'title': 'Apple - iPhone 15 128GB (Unlocked) - Blue', 'price': '679,99\xa0USD', 'extracted_price': 679.99, 'old_price': '730\xa0USD', 'extracted_old_price': 730, 'link': 'https://www.bestbuy.com/site/apple-iphone-15-128gb-unlocked-blue/6507481.p?skuId=6507481&contractId=unactivated', 'source': 'Best Buy', 'rating': 3.7, 'reviews': 2000, 'reviews_original': '2k+', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667efa16f1b9b5f9be4c9cc2d3c34dfa08c.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 6, 'block_position': 'top', 'title': 'Apple iPhone 15 Pro - Blue Titanium - 1TB (with 24 monthly payments + plan)', 'price': 'Acum 499,99\xa0USD', 'extracted_price': 499.99, 'link': 'https://www.t-mobile.com/cell-phone/apple-iphone-15-pro?sku=195949017766', 'source': 'T-Mobile', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd6674889de5a80b197c725836991cdd9e092.webp'}
+
+ Analiză produs(SHOPPING): {'position': 7, 'block_position': 'top', 'title': 'Apple iPhone 15 Pro Max - Black Titanium - 256GB | Metro by T-Mobile (with plan)', 'price': '849,99\xa0USD', 'extracted_price': 849.99, 'old_price': '1.100\xa0', 'extracted_old_price': 1100, 'link': 'https://www.metrobyt-mobile.com/cell-phone/apple-iphone-15-pro-max?sku=195949050299', 'source': 'Metro by T-Mobile', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd6675cac94ff544b132b2a2ba17c53cad06d.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 8, 'block_position': 'top', 'title': 'Apple iPhone 15 - Blue - 128GB (with 24 monthly payments + plan)', 'price': 'Acum 0,00\xa0USD', 'extracted_price': 0.0, 'link': 'https://www.t-mobile.com/cell-phone/apple-iphone-15?sku=195949035036', 'source': 'T-Mobile', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667baa0ccd9a9381e734e865f365e853d18.webp'}
+
+ Analiză produs(SHOPPING): {'position': 9, 'block_position': 'top', 'title': 'Apple iPhone 15 - Black - 128GB (with 24 monthly payments + plan)', 'price': 'Acum 0,00\xa0USD', 'extracted_price': 0.0, 'link': 'https://www.t-mobile.com/cell-phone/apple-iphone-15?sku=195949035005', 'source': 'T-Mobile', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667c2af61ed9ebafe4ee6ae0a942a35b927.webp'}
+
+ Analiză produs(SHOPPING): {'position': 10, 'block_position': 'top', 'title': 'Apple - iPhone 15 128GB (Unlocked) - Yellow', 'price': '679,99\xa0USD', 'extracted_price': 679.99, 'old_price': '730\xa0USD', 'extracted_old_price': 730, 'link': 'https://www.bestbuy.com/site/apple-iphone-15-128gb-unlocked-yellow/6507480.p?skuId=6507480&contractId=unactivated', 'source': 'Best Buy', 'rating': 3.7, 'reviews': 2000, 'reviews_original': '2k+', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667023092cd1ce11ac6121b4a498a23340b.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 11, 'block_position': 'top', 'title': 'Apple - iPhone 15 128GB (Unlocked) - Green', 'price': '679,99\xa0USD', 'extracted_price': 679.99, 'old_price': '730\xa0USD', 'extracted_old_price': 730, 'link': 'https://www.bestbuy.com/site/apple-iphone-15-128gb-unlocked-green/6507482.p?skuId=6507482&contractId=unactivated', 'source': 'Best Buy', 'rating': 3.7, 'reviews': 2000, 'reviews_original': '2k+', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667dfcaeb0b417c77052b4a609df3acd2dc.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 12, 'block_position': 'top', 'title': 'Apple iPhone 15 128 GB in Blue | Smartphone | Verizon (with 36 monthly installment payments + plan)', 'price': 'Acum 0,00\xa0USD', 'extracted_price': 0.0, 'link': 'https://www.verizon.com/smartphones/apple-iphone-15/?sku=sku6004592&edgeTerm=36', 'source': 'Verizon', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667de908e0ec3493d142c285b910e86b963.webp'}
+
+ Analiză produs(SHOPPING): {'position': 13, 'block_position': 'top', 'title': 'iPhone 15 128GB (with contract, 24 installment payment) (la abonament)', 'price': 'Acum 579,00\xa0USD', 'extracted_price': 579.0, 'link': 'https://www.straighttalk.com/all-phones/iphone-15-128gb.', 'source': 'StraightTalk Wireless', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd66792174ffd80f428bd9a27effa0be8bb72.webp'}
+
+ Analiză produs(SHOPPING): {'position': 14, 'block_position': 'top', 'title': 'Apple iPhone 15 128 GB in Pink | Smartphone | Verizon (with 36 monthly installment payments + plan)', 'price': 'Acum 0,00\xa0USD', 'extracted_price': 0.0, 'link': 'https://www.verizon.com/smartphones/apple-iphone-15/?sku=sku6004578&edgeTerm=36', 'source': 'Verizon', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd66771768c41855eec86a4200e4e76409a84.webp'}
+
+ Analiză produs(SHOPPING): {'position': 15, 'block_position': 'top', 'title': 'Apple iPhone 15, 128GB, Pink - T-Mobile (Renewed)', 'price': '441,91\xa0USD', 'extracted_price': 441.91, 'old_price': '474\xa0USD', 'extracted_old_price': 474, 'link': 'https://www.amazon.com/Apple-iPhone-15-128GB-Pink/dp/B0CMPLL2QT?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A65CUHLW5BI0P', 'source': 'Amazon.com', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667e64faffe3e5ef408ae895ccb11ce5cec.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 16, 'block_position': 'top', 'title': 'Apple iPhone 15 128GB Prepaid - Total Wireless Green', 'price': '329,00\xa0USD', 'extracted_price': 329.0, 'link': 'https://www.totalwireless.com/smartphones/iphone-15-128gb.green', 'source': 'Total Wireless', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd6677e3edb07abff6b53de9b4d72776feb6c.webp'}
+
+ Analiză produs(SHOPPING): {'position': 17, 'block_position': 'top', 'title': 'Apple iPhone 15 - 128GB - Pink - With 36 Installment Payments + Plan (la abonament)', 'price': 'Acum 0,00\xa0USD', 'extracted_price': 0.0, 'link': 'https://www.att.com/buy/phones/apple-iphone-15-128gb-pink.html?source=E-g2s10000000000X&wtExtndSource=SWIS-iPhone', 'source': 'AT&T', 'thumbnail': 'https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcStsk6mHZqX_GQ4s56SipEl2UUBfy4s0xcHeZzNg27aWtPPFmiCEA1Au2DOJ2QW3cLuv39WpbIo2Br9u6I7cgKo7-5U4fPK4Pp0lDphCRF3XMCn6M6OGGe4_Q&usqp=CAc'}
+
+ Analiză produs(SHOPPING): {'position': 18, 'block_position': 'top', 'title': 'Restored Apple iPhone 15 - Fully Unlocked - 128 GB Black (Refurbished)', 'price': '512,50\xa0USD', 'extracted_price': 512.5, 'old_price': '578\xa0USD', 'extracted_old_price': 578, 'link': 'https://www.walmart.com/ip/Restored-Apple-iPhone-15-128GB-Unlocked-Black-MTLV3LL-A-Excellent-Condition/5169493923?wmlspartner=wlpa&selectedSellerId=101129114', 'source': 'Walmart', 'rating': 3.4, 'reviews': 110, 'reviews_original': '110', 'thumbnail': 'https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQVfcJYowdf9fCDScrMmjJfXXMiuDS-ULL3zTBg93RbmxcNwJ2W54OkocAz7_QONIfJIIhr7YAG1T4vZBKbmfGRnjcMidlnt2M99xb9-F0EnRrObE_qAQg3PmWta6_pBB8FGFbz-sI&usqp=CAc', 'extensions': ['Reduceri']}
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+
+ Analiză produs: {'position': 1, 'title': 'Cumpăra un smartphone Samsung Galaxy S24', 'link': 'https://darwin.md/telefoane/smartphone/samsung-galaxy-s-24', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/telefoane/smartphone/samsung-galaxy-s-24&ved=2ahUKEwi_gJzVw5SMAxVm8MkDHYvWCPcQFnoECB4QAQ', 'displayed_link': 'https://darwin.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67d9df80921babdf59c7b9ef/images/d604f7c6c20359cdd2a55a1833cc168170e6b9d6334a80f83a9e6d5409e3ed78.png', 'snippet': 'Cumpara Samsung Galaxy S24 în Moldova, la cel mai bun preț în Darwin MD ... Samsung Galaxy S24 256 GB Black Onyx. 6.2" | 50 MP | 8 GB | Dual SIM. Cashback ...', 'snippet_highlighted_words': ['Samsung Galaxy S24 256 GB Black Onyx'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 2, 'title': 'Cumpara Samsung Galaxy S24 smartphone la cele mai bune ...', 'link': 'https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enter.online/telefoane/smartphone-uri/samsung-galaxy-s24&ved=2ahUKEwi_gJzVw5SMAxVm8MkDHYvWCPcQFnoECBgQAQ', 'displayed_link': 'https://enter.online › telefoane › smartphone-uri › sams...', 'favicon': 'https://serpapi.com/searches/67d9df80921babdf59c7b9ef/images/d604f7c6c20359cdd2a55a1833cc16818c3178d5b5f7cc60c87fa528abcb1341.png', 'snippet': 'Samsung Galaxy S24, S24 + si S24 Ultra la preturi competitive in Moldova, comanda cu livrare gratuita doar in ▷ ENTER.ONLINE.', 'snippet_highlighted_words': ['Samsung Galaxy S24'], 'source': 'enter.online'}
+
+ Analiză produs: {'position': 3, 'title': 'Samsung Galaxy S24 🔥 Cele mai bune preţuri ⭐', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/samsung-galaxy-s24', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orange.md/ro/shop/catalog/telefoane/samsung-galaxy-s24&ved=2ahUKEwi_gJzVw5SMAxVm8MkDHYvWCPcQFnoECBwQAQ', 'displayed_link': 'https://www.orange.md › shop › catalog › telefoane › s...', 'favicon': 'https://serpapi.com/searches/67d9df80921babdf59c7b9ef/images/d604f7c6c20359cdd2a55a1833cc16813d11b8f814c3ccafea8e7e8fb7710572.png', 'snippet': 'Samsung Galaxy S24+ 5G 12/256GB. 4 culori În stoc. 21 299 lei. 908 lei lunar pe 24 luni. eSIM cu semnătură. Produsul a fost adăugat pentru comparație.', 'snippet_highlighted_words': ['Samsung Galaxy S24+ 5G 12/256GB'], 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 4, 'title': 'Galaxy S24 | S24+', 'link': 'https://www.samsung.com/uk/smartphones/galaxy-s24/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.samsung.com/uk/smartphones/galaxy-s24/&ved=2ahUKEwi_gJzVw5SMAxVm8MkDHYvWCPcQFnoECB8QAQ', 'displayed_link': 'https://www.samsung.com › ...', 'favicon': 'https://serpapi.com/searches/67d9df80921babdf59c7b9ef/images/d604f7c6c20359cdd2a55a1833cc168111a187254a8c7c010896fbdff5f5da83.png', 'snippet': 'Meet the new Samsung Galaxy S24 & S24+, packed with industry-leading camera, performance & world-changing Galaxy AI at Samsung UK.', 'snippet_highlighted_words': ['industry-leading camera, performance & world-changing Galaxy AI'], 'sitelinks': {'inline': [{'title': 'Buy Galaxy S24 & S24 Plus', 'link': 'https://www.samsung.com/uk/smartphones/galaxy-s24/buy/'}, {'title': 'Buy Galaxy S24 Ultra', 'link': 'https://www.samsung.com/uk/smartphones/galaxy-s24-ultra/buy/'}, {'title': 'Galaxy S24 Ultra', 'link': 'https://www.samsung.com/uk/smartphones/galaxy-s24-ultra/'}, {'title': 'MyS24', 'link': 'https://www.samsung.com/uk/smartphones/galaxy-s24/mys24/'}]}, 'source': 'Samsung'}
+
+ Analiză produs: {'position': 5, 'title': 'Telefon mobil Samsung Galaxy S24 8/128Gb Marble Grey', 'link': 'https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-galaxy-8-128gb-marble-grey/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/samsung-s24-galaxy-8-128gb-marble-grey/&ved=2ahUKEwi_gJzVw5SMAxVm8MkDHYvWCPcQFnoECCAQAQ', 'displayed_link': 'https://www.cactus.md › Telefoane mobile › Samsung', 'favicon': 'https://serpapi.com/searches/67d9df80921babdf59c7b9ef/images/d604f7c6c20359cdd2a55a1833cc16814123c42bc1a46b366c6fcd647f509737.png', 'snippet': 'Echipat cu un ecran Dynamic AMOLED 2X de 6,2 inci și un procesor puternic, acest smartphone asigură o experiență fluidă în utilizarea zilnică. Caracteristici ...', 'snippet_highlighted_words': ['Echipat cu un ecran Dynamic AMOLED 2X de 6,2 inci și un procesor puternic'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 5.0, 'reviews': 1}, 'extensions': ['5,0(1)']}}, 'source': 'Cactus.md'}
+
+ Analiză produs: {'position': 6, 'title': 'Telefoane Mobile Samsung Model: Galaxy S24', 'link': 'https://www.emag.ro/telefoane-mobile/brand/samsung/filter/model-f9396,galaxy-s24-v-13067035/c', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.emag.ro/telefoane-mobile/brand/samsung/filter/model-f9396,galaxy-s24-v-13067035/c&ved=2ahUKEwi_gJzVw5SMAxVm8MkDHYvWCPcQFnoECBcQAQ', 'displayed_link': 'https://www.emag.ro › brand › samsung › filter › mode...', 'favicon': 'https://serpapi.com/searches/67d9df80921babdf59c7b9ef/images/d604f7c6c20359cdd2a55a1833cc1681fb103806a375d0264ba21ee0273c88d4.png', 'snippet': 'Telefon mobil Samsung Galaxy S24, Dual SIM, 8GB RAM, 256GB, 5G, Onyx Black · 4.64351 de review-uri(351). Memorie interna: 256 GB. Memorie RAM: 8 GB.', 'snippet_highlighted_words': ['Telefon mobil Samsung Galaxy S24'], 'source': 'eMAG'}
+
+ Analiză produs: {'position': 7, 'title': 'Smartphone Samsung Galaxy S24 Ultra, 12GB/512GB ...', 'link': 'https://ultra.md/product/s928-s24-ultra-12512gb-black', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ultra.md/product/s928-s24-ultra-12512gb-black&ved=2ahUKEwi_gJzVw5SMAxVm8MkDHYvWCPcQFnoECB0QAQ', 'displayed_link': 'https://ultra.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67d9df80921babdf59c7b9ef/images/d604f7c6c20359cdd2a55a1833cc168192a3ccea2226944b9ea44e102ea55da4.png', 'snippet': 'Smartphone Samsung Galaxy S24 Ultra, 12GB/512GB, Titanium Black ; Memorie internă 512 GB ; Memoria RAM 12GB ; Greutate 233 g ; Înălțime 162.3 mm ; Lățime 79 mm ...', 'snippet_highlighted_words': ['Smartphone Samsung Galaxy S24 Ultra'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 5.0, 'reviews': 5}, 'extensions': ['5,0(5)']}}, 'source': 'Ultra.md'}
+
+ Analiză produs: {'position': 8, 'title': 'Samsung Galaxy S24 Ultra 256GB Titanium Black', 'link': 'https://eshop.moldcell.md/ro/telefoane/samsung-galaxy-s24-ultra-256gb-titanium-black', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://eshop.moldcell.md/ro/telefoane/samsung-galaxy-s24-ultra-256gb-titanium-black&ved=2ahUKEwi_gJzVw5SMAxVm8MkDHYvWCPcQFnoECDQQAQ', 'displayed_link': 'https://eshop.moldcell.md › telefoane › samsung-galaxy-...', 'favicon': 'https://serpapi.com/searches/67d9df80921babdf59c7b9ef/images/d604f7c6c20359cdd2a55a1833cc1681cc3143554aee1aaf049b3765072b6e9f.png', 'snippet': 'Ai 1000 lei reducere la portare*. Samsung Galaxy S24 Ultra. 256GB Titanium Black. 25 899 lei. Solicită oferta.', 'snippet_highlighted_words': ['Samsung Galaxy S24 Ultra'], 'source': 'Magazin Online Moldcell'}
+
+ Analiză produs: {'position': 9, 'title': 'Cumpara Samsung S24 | S24 + | S24 Ultra in Darwin MD', 'link': 'https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/telefoane/smartphone/s24-s24plus-s24ultra&ved=2ahUKEwi_gJzVw5SMAxVm8MkDHYvWCPcQFnoECDMQAQ', 'displayed_link': 'https://darwin.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67d9df80921babdf59c7b9ef/images/d604f7c6c20359cdd2a55a1833cc1681b7872574817600cece8b785b53e608b0.png', 'snippet': 'Samsung Galaxy S24+ este o versiune mai mare a modelului S24. Cu un ecran de 6,6 inch, acest telefon este perfect pentru cei care preferă să vizioneze filme sau ...', 'snippet_highlighted_words': ['Samsung Galaxy S24'], 'source': 'Darwin.md'}
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+Eroare la conectarea la API: HTTPSConnectionPool(host='serpapi.com', port=443): Read timed out. (read timeout=5)
+
+ Analiză produs: {'position': 1, 'title': 'Apple iPhone 15 - Chișinău', 'link': 'https://darwin.md/telefoane/smartphone/apple-iphone-15', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/telefoane/smartphone/apple-iphone-15&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECBcQAQ', 'displayed_link': 'https://darwin.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be33563d4df4d292293ff7b50817ca2840d37.png', 'snippet': 'Apple iPhone 15 128 GB Yellow 6.1" | 48 MP | 6 GB | Single. Apple iPhone 15 128 GB Yellow · 525 lei ; Apple iPhone 15 512 GB Pink 6.1" | 48 MP | 6 GB | Single.', 'snippet_highlighted_words': ['Apple iPhone 15 128 GB Yellow 6.1" | 48 MP | 6 GB'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 2, 'title': 'Apple iPhone 15 | Sortiment bogat | Cele mai noi modele', 'link': 'https://www.smart.md/ro/apple-iphone-15', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.smart.md/ro/apple-iphone-15&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECBkQAQ', 'displayed_link': 'https://www.smart.md › ... › Smartphone Apple', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be3355777588509dd5a184afa1ccc90d24cd5.png', 'snippet': 'Apple iPhone 15 descopera la smart.md. Cumpara acum Apple iPhone 15 la preturi imbatabile, oferte speciale si calitate garantata!', 'snippet_highlighted_words': ['Apple iPhone 15'], 'source': 'smart.md'}
+
+ Analiză produs: {'position': 3, 'title': 'Noua serie de iPhone 15 la precomandă și prețuri accesibile', 'link': 'https://enter.online/telefoane/smartphone-uri/apple-iphone-15-2023', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enter.online/telefoane/smartphone-uri/apple-iphone-15-2023&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECBgQAQ', 'displayed_link': 'https://enter.online › telefoane › apple-iphone-15-2023', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be3356ceb80ccc435ee3efbeab05819abf300.png', 'snippet': 'Precomandă unul din seria iPhone 15 și fii primul posesor de acest smartphone cu livrare gratuită și de la reselleri autorizați doar pe Enter.Online.', 'snippet_highlighted_words': ['Precomandă unul din seria iPhone 15'], 'source': 'enter.online'}
+
+ Analiză produs: {'position': 4, 'title': 'Apple iPhone 15 128GB SS Black в Кишиневе, Молдова', 'link': 'https://alo.md/ro/apple-4/apple-iphone-15-128gb-ss-black', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://alo.md/ro/apple-4/apple-iphone-15-128gb-ss-black&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECBYQAQ', 'displayed_link': 'https://alo.md › ... › Smartphone toate brăndurile › Apple', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be33532254d4f3ffd4443f51ed069d15812f4.png', 'snippet': 'Cu sistemul de operare iOS 17, chipsetul Apple A16 Bionic și opțiuni generoase de stocare, cum ar fi 128GB, 256GB sau 512GB, iPhone 15 oferă performanțe de top ...', 'snippet_highlighted_words': ['iPhone 15'], 'source': 'Alo. Md'}
+
+ Analiză produs: {'position': 5, 'title': 'Cumpără Apple iPhone 15 5G 128GB', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/iphone-15-128gb.html', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/iphone-15-128gb.html&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECCIQAQ', 'displayed_link': 'https://www.orange.md › telefoane › toate-telefoanele', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be335fc852cc1639f4e28e80e0b7013457b8d.png', 'snippet': 'Specificaţii Apple iPhone 15 5G 128GB ; Diagonală ecran6.1" ; Rezoluţie ecran2556 x 1179 pixeli ; Tip ecranSuper Retina XDR OLED ; Rată reîmprospătare ecran60 Hz.', 'snippet_highlighted_words': ['Specificaţii Apple iPhone 15 5G 128GB'], 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 6, 'title': 'iPhone 15 128GB Black - Gorilla ELECTRONICS', 'link': 'https://gorilla.md/produs/iphone-15-128gb-black/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gorilla.md/produs/iphone-15-128gb-black/&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECDIQAQ', 'displayed_link': 'https://gorilla.md › SMARTPHONE › Apple', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be335b1ff0053667f6519591a791283e369be.png', 'snippet': 'Sistem de operare: iOS 17 · Diagonală display: 6.1 " · Chipset: Apple A16 Bionic (4 nm) · Număr de nuclee: 6 · Memorie RAM: 6 GB · Memorie incorporata: 512 GB · Tip ...', 'snippet_highlighted_words': ['Sistem de operare: iOS 17'], 'source': 'gorilla.md'}
+
+ Analiză produs: {'position': 7, 'title': 'iPhone 15 🔥 Купить в Кишиневе по лучшей цене в ...', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/iphone-15', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orange.md/ro/shop/catalog/telefoane/iphone-15&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECDwQAQ', 'displayed_link': 'https://www.orange.md › ip...', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be33565e98b823823f5d7f8dcdf044b7a2b9b.png', 'snippet': 'Apple iPhone 15 Pro 5G 128GB. В наличии. 22 399 леев. 946 леев в месяц pe 24 мес. eSIM с подписью. Товар был добавлен для сравнения. Apple iPhone 15 Pro Max ...', 'snippet_highlighted_words': ['Apple iPhone 15 Pro 5G 128GB'], 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 8, 'title': 'Мобильный телефон iPhone 15 128GB Blue', 'link': 'https://www.cactus.md/ru/catalogue/electronice/telefone/mobilnye-telefony/mobil-nyj-telefon-iphone-15-128gb-blue-137593/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cactus.md/ru/catalogue/electronice/telefone/mobilnye-telefony/mobil-nyj-telefon-iphone-15-128gb-blue-137593/&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECC0QAQ', 'displayed_link': 'https://www.cactus.md › mo...', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be3353c1be2e900b3c5ccc77dce8e8b5d7849.png', 'snippet': 'Кроме того, iPhone 15 имеет ультраширокоугольную камеру с углом обзора 120 градусов и 4-кратным оптическим зумом. USB-C — это новый порт для зарядки и передачи ...', 'snippet_highlighted_words': ['iPhone 15'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 5.0, 'reviews': 1}, 'extensions': ['5,0(1)']}}, 'source': 'Cactus.md'}
+
+ Analiză produs: {'position': 9, 'title': 'Apple iPhone 15 128GB Black - Chișinău', 'link': 'https://eshop.moldcell.md/ro/telefoane/apple-iphone-15-128gb-black', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://eshop.moldcell.md/ro/telefoane/apple-iphone-15-128gb-black&ved=2ahUKEwjds768wZSMAxWlI0QIHQjRO44QFnoECCoQAQ', 'displayed_link': 'https://eshop.moldcell.md › telefoane › apple-iphone-15-...', 'favicon': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/b45cd9c1be1bc1f8e2c419b5d27be335d4ac505e8084f54613d6a715a7eb3400.png', 'snippet': 'Disponibile în dimensiuni ale ecranului de 6,1 și 6,7 inchi, iPhone 15 și iPhone 15 Plus dispun de Dynamic Island, o modalitate inovatoare de a interacționa cu ...', 'snippet_highlighted_words': ['iPhone 15'], 'source': 'Magazin Online Moldcell'}
+
+ Analiză produs(SHOPPING): {'position': 1, 'block_position': 'top', 'title': 'Apple iPhone 15 - Black - 128GB | Metro by T-Mobile (with plan)', 'price': '479,99\xa0USD', 'extracted_price': 479.99, 'old_price': '730\xa0USD', 'extracted_old_price': 730, 'link': 'https://www.metrobyt-mobile.com/cell-phone/apple-iphone-15?sku=195949038600', 'source': 'Metro by T-Mobile', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667625f61cd990ae6b72668def1be6457f5.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 2, 'block_position': 'top', 'title': 'Apple iPhone 15 - Pink - 128GB (with 24 monthly payments + plan)', 'price': 'Acum 0,00\xa0USD', 'extracted_price': 0.0, 'link': 'https://www.t-mobile.com/cell-phone/apple-iphone-15?sku=195949035012', 'source': 'T-Mobile', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd66760a4b8db7e57cde3640891b0cbf88280.webp'}
+
+ Analiză produs(SHOPPING): {'position': 3, 'block_position': 'top', 'title': 'Apple - iPhone 15 128GB (Unlocked) - Black', 'price': '679,99\xa0USD', 'extracted_price': 679.99, 'old_price': '730\xa0USD', 'extracted_old_price': 730, 'link': 'https://www.bestbuy.com/site/apple-iphone-15-128gb-unlocked-black/6507478.p?skuId=6507478&contractId=unactivated', 'source': 'Best Buy', 'rating': 3.7, 'reviews': 2000, 'reviews_original': '2k+', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd66712db5812f4cf82475d2d941d8e376cde.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 4, 'block_position': 'top', 'title': 'Apple - iPhone 15 128GB (Unlocked) - Pink', 'price': '679,99\xa0USD', 'extracted_price': 679.99, 'old_price': '730\xa0USD', 'extracted_old_price': 730, 'link': 'https://www.bestbuy.com/site/apple-iphone-15-128gb-unlocked-pink/6507479.p?skuId=6507479&contractId=unactivated', 'source': 'Best Buy', 'rating': 3.7, 'reviews': 2000, 'reviews_original': '2k+', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd6675b5ac708a22588ac1afb2f213c80ce26.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 5, 'block_position': 'top', 'title': 'Apple - iPhone 15 128GB (Unlocked) - Blue', 'price': '679,99\xa0USD', 'extracted_price': 679.99, 'old_price': '730\xa0USD', 'extracted_old_price': 730, 'link': 'https://www.bestbuy.com/site/apple-iphone-15-128gb-unlocked-blue/6507481.p?skuId=6507481&contractId=unactivated', 'source': 'Best Buy', 'rating': 3.7, 'reviews': 2000, 'reviews_original': '2k+', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667efa16f1b9b5f9be4c9cc2d3c34dfa08c.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 6, 'block_position': 'top', 'title': 'Apple iPhone 15 Pro - Blue Titanium - 1TB (with 24 monthly payments + plan)', 'price': 'Acum 499,99\xa0USD', 'extracted_price': 499.99, 'link': 'https://www.t-mobile.com/cell-phone/apple-iphone-15-pro?sku=195949017766', 'source': 'T-Mobile', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd6674889de5a80b197c725836991cdd9e092.webp'}
+
+ Analiză produs(SHOPPING): {'position': 7, 'block_position': 'top', 'title': 'Apple iPhone 15 Pro Max - Black Titanium - 256GB | Metro by T-Mobile (with plan)', 'price': '849,99\xa0USD', 'extracted_price': 849.99, 'old_price': '1.100\xa0', 'extracted_old_price': 1100, 'link': 'https://www.metrobyt-mobile.com/cell-phone/apple-iphone-15-pro-max?sku=195949050299', 'source': 'Metro by T-Mobile', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd6675cac94ff544b132b2a2ba17c53cad06d.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 8, 'block_position': 'top', 'title': 'Apple iPhone 15 - Blue - 128GB (with 24 monthly payments + plan)', 'price': 'Acum 0,00\xa0USD', 'extracted_price': 0.0, 'link': 'https://www.t-mobile.com/cell-phone/apple-iphone-15?sku=195949035036', 'source': 'T-Mobile', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667baa0ccd9a9381e734e865f365e853d18.webp'}
+
+ Analiză produs(SHOPPING): {'position': 9, 'block_position': 'top', 'title': 'Apple iPhone 15 - Black - 128GB (with 24 monthly payments + plan)', 'price': 'Acum 0,00\xa0USD', 'extracted_price': 0.0, 'link': 'https://www.t-mobile.com/cell-phone/apple-iphone-15?sku=195949035005', 'source': 'T-Mobile', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667c2af61ed9ebafe4ee6ae0a942a35b927.webp'}
+
+ Analiză produs(SHOPPING): {'position': 10, 'block_position': 'top', 'title': 'Apple - iPhone 15 128GB (Unlocked) - Yellow', 'price': '679,99\xa0USD', 'extracted_price': 679.99, 'old_price': '730\xa0USD', 'extracted_old_price': 730, 'link': 'https://www.bestbuy.com/site/apple-iphone-15-128gb-unlocked-yellow/6507480.p?skuId=6507480&contractId=unactivated', 'source': 'Best Buy', 'rating': 3.7, 'reviews': 2000, 'reviews_original': '2k+', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667023092cd1ce11ac6121b4a498a23340b.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 11, 'block_position': 'top', 'title': 'Apple - iPhone 15 128GB (Unlocked) - Green', 'price': '679,99\xa0USD', 'extracted_price': 679.99, 'old_price': '730\xa0USD', 'extracted_old_price': 730, 'link': 'https://www.bestbuy.com/site/apple-iphone-15-128gb-unlocked-green/6507482.p?skuId=6507482&contractId=unactivated', 'source': 'Best Buy', 'rating': 3.7, 'reviews': 2000, 'reviews_original': '2k+', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667dfcaeb0b417c77052b4a609df3acd2dc.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 12, 'block_position': 'top', 'title': 'Apple iPhone 15 128 GB in Blue | Smartphone | Verizon (with 36 monthly installment payments + plan)', 'price': 'Acum 0,00\xa0USD', 'extracted_price': 0.0, 'link': 'https://www.verizon.com/smartphones/apple-iphone-15/?sku=sku6004592&edgeTerm=36', 'source': 'Verizon', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667de908e0ec3493d142c285b910e86b963.webp'}
+
+ Analiză produs(SHOPPING): {'position': 13, 'block_position': 'top', 'title': 'iPhone 15 128GB (with contract, 24 installment payment) (la abonament)', 'price': 'Acum 579,00\xa0USD', 'extracted_price': 579.0, 'link': 'https://www.straighttalk.com/all-phones/iphone-15-128gb.', 'source': 'StraightTalk Wireless', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd66792174ffd80f428bd9a27effa0be8bb72.webp'}
+
+ Analiză produs(SHOPPING): {'position': 14, 'block_position': 'top', 'title': 'Apple iPhone 15 128 GB in Pink | Smartphone | Verizon (with 36 monthly installment payments + plan)', 'price': 'Acum 0,00\xa0USD', 'extracted_price': 0.0, 'link': 'https://www.verizon.com/smartphones/apple-iphone-15/?sku=sku6004578&edgeTerm=36', 'source': 'Verizon', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd66771768c41855eec86a4200e4e76409a84.webp'}
+
+ Analiză produs(SHOPPING): {'position': 15, 'block_position': 'top', 'title': 'Apple iPhone 15, 128GB, Pink - T-Mobile (Renewed)', 'price': '441,91\xa0USD', 'extracted_price': 441.91, 'old_price': '474\xa0USD', 'extracted_old_price': 474, 'link': 'https://www.amazon.com/Apple-iPhone-15-128GB-Pink/dp/B0CMPLL2QT?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A65CUHLW5BI0P', 'source': 'Amazon.com', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd667e64faffe3e5ef408ae895ccb11ce5cec.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 16, 'block_position': 'top', 'title': 'Apple iPhone 15 128GB Prepaid - Total Wireless Green', 'price': '329,00\xa0USD', 'extracted_price': 329.0, 'link': 'https://www.totalwireless.com/smartphones/iphone-15-128gb.green', 'source': 'Total Wireless', 'thumbnail': 'https://serpapi.com/searches/67d9dd338fc0a050b6c46db8/images/936d4fbbc2127cc568c0a6f43c8fd6677e3edb07abff6b53de9b4d72776feb6c.webp'}
+
+ Analiză produs(SHOPPING): {'position': 17, 'block_position': 'top', 'title': 'Apple iPhone 15 - 128GB - Pink - With 36 Installment Payments + Plan (la abonament)', 'price': 'Acum 0,00\xa0USD', 'extracted_price': 0.0, 'link': 'https://www.att.com/buy/phones/apple-iphone-15-128gb-pink.html?source=E-g2s10000000000X&wtExtndSource=SWIS-iPhone', 'source': 'AT&T', 'thumbnail': 'https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcStsk6mHZqX_GQ4s56SipEl2UUBfy4s0xcHeZzNg27aWtPPFmiCEA1Au2DOJ2QW3cLuv39WpbIo2Br9u6I7cgKo7-5U4fPK4Pp0lDphCRF3XMCn6M6OGGe4_Q&usqp=CAc'}
+
+ Analiză produs(SHOPPING): {'position': 18, 'block_position': 'top', 'title': 'Restored Apple iPhone 15 - Fully Unlocked - 128 GB Black (Refurbished)', 'price': '512,50\xa0USD', 'extracted_price': 512.5, 'old_price': '578\xa0USD', 'extracted_old_price': 578, 'link': 'https://www.walmart.com/ip/Restored-Apple-iPhone-15-128GB-Unlocked-Black-MTLV3LL-A-Excellent-Condition/5169493923?wmlspartner=wlpa&selectedSellerId=101129114', 'source': 'Walmart', 'rating': 3.4, 'reviews': 110, 'reviews_original': '110', 'thumbnail': 'https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQVfcJYowdf9fCDScrMmjJfXXMiuDS-ULL3zTBg93RbmxcNwJ2W54OkocAz7_QONIfJIIhr7YAG1T4vZBKbmfGRnjcMidlnt2M99xb9-F0EnRrObE_qAQg3PmWta6_pBB8FGFbz-sI&usqp=CAc', 'extensions': ['Reduceri']}
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+
+ Analiză produs: {'position': 1, 'title': 'Noile Apple iPhone 14 in Chisinau si Moldova', 'link': 'https://darwin.md/telefoane/smartphone/apple-iphone-14', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/telefoane/smartphone/apple-iphone-14&ved=2ahUKEwj3-cWAxJSMAxWLaPUHHX3WCqsQFnoECBgQAQ', 'displayed_link': 'https://darwin.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67d9dfd4f7f1b54a5ceca64c/images/080033560195eea1b673debdee10d1144a5cb7e5838bc0c686ae6221d67a8e7f.png', 'snippet': 'Apple iPhone 14 la prețuri accesibile în gadget store-ul Darwin. Cumpără iPhone 14 cu garanție, posibilitate de creditare și livrare gratuită în Moldova.', 'snippet_highlighted_words': ['Apple iPhone 14 la prețuri accesibile în gadget store-ul Darwin'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 2, 'title': 'Apple iPhone 14, 14 Plus, 14 Pro si 14 Pro Max', 'link': 'https://enter.online/telefoane/smartphone-uri/apple-iphone-14-2022', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enter.online/telefoane/smartphone-uri/apple-iphone-14-2022&ved=2ahUKEwj3-cWAxJSMAxWLaPUHHX3WCqsQFnoECBwQAQ', 'displayed_link': 'https://enter.online › telefoane › smartphone-uri › apple...', 'favicon': 'https://serpapi.com/searches/67d9dfd4f7f1b54a5ceca64c/images/080033560195eea1b673debdee10d1142e6c64fb38fabe8ee47df3f0697315dc.png', 'snippet': 'Noile smartphone-uri Apple iPhone 14, 14 Plus, 14 Pro și 14 Pro Max deja și în Moldova, de la Apple Authorized Reseller - ENTER. Cele mai bune preturi, ...', 'snippet_highlighted_words': ['Apple iPhone 14, 14 Plus, 14 Pro și 14 Pro Max'], 'source': 'enter.online'}
+
+ Analiză produs: {'position': 3, 'title': 'Apple iPhone 14 Chisinau | iPhone 14 Moldova', 'link': 'https://www.smart.md/apple-iphone-14', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.smart.md/apple-iphone-14&ved=2ahUKEwj3-cWAxJSMAxWLaPUHHX3WCqsQFnoECBoQAQ', 'displayed_link': 'https://www.smart.md › ... › Smartphone Apple', 'favicon': 'https://serpapi.com/searches/67d9dfd4f7f1b54a5ceca64c/images/080033560195eea1b673debdee10d11460b5ea28e8338f911bd153382ce41ecb.png', 'snippet': 'In centrul iPhone 14 se afla puternicul cip A15 Bionic, conceput pentru a oferi performante fulgeratoare si eficienta de neegalat. Dispunand de o arhitectura de ...', 'snippet_highlighted_words': ['puternicul cip A15 Bionic'], 'source': 'smart.md'}
+
+ Analiză produs: {'position': 4, 'title': 'Apple iPhone 14 5G 128GB | Онлайн магазин Orange Moldova', 'link': 'https://eshop.orange.md/ro/catalog/telefoane/toate-telefoanele/iphone-14-128gb.html', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://eshop.orange.md/ro/catalog/telefoane/toate-telefoanele/iphone-14-128gb.html&ved=2ahUKEwj3-cWAxJSMAxWLaPUHHX3WCqsQFnoECCEQAQ', 'displayed_link': 'https://eshop.orange.md › i...', 'favicon': 'https://serpapi.com/searches/67d9dfd4f7f1b54a5ceca64c/images/080033560195eea1b673debdee10d114cbaf7af1057b219e5ecb41fa7741ad78.png', 'snippet': 'ДатчикиИдентификатор лица | Акселерометр, гироскоп, близость | Компас | Барометр | Поддержка сверхширокополосной связи (UWB) | Экстренная SOS через спутник.', 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 5, 'title': 'Smartphone-uri APPLE iPhone 14 Pro', 'link': 'https://breezy.md/smartphone/vendor=apple/series=iphone-14-pro', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://breezy.md/smartphone/vendor%3Dapple/series%3Diphone-14-pro&ved=2ahUKEwj3-cWAxJSMAxWLaPUHHX3WCqsQFnoECCwQAQ', 'displayed_link': 'https://breezy.md › ... › APPLE', 'favicon': 'https://serpapi.com/searches/67d9dfd4f7f1b54a5ceca64c/images/080033560195eea1b673debdee10d11455297be32530f4eabc02f01b64c1a377.png', 'snippet': 'Apple iPhone 14 Pro 128 GB Space Black, 11 499 lei ; Apple iPhone 14 Pro 256 GB Deep Purple, 12 299 lei ; Apple iPhone 14 Pro 256 GB Space Black, 12 299 lei.', 'snippet_highlighted_words': ['Apple iPhone 14 Pro 128 GB Space Black, 11 499 lei'], 'source': 'BREEZY.MD'}
+
+ Analiză produs: {'position': 6, 'title': 'iPhone 14 și iPhone 14 Plus - Specificații tehnice', 'link': 'https://www.apple.com/ro/iphone-14/specs/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.apple.com/ro/iphone-14/specs/&ved=2ahUKEwj3-cWAxJSMAxWLaPUHHX3WCqsQFnoECCgQAQ', 'displayed_link': 'https://www.apple.com › iPhone › iPhone 14', 'favicon': 'https://serpapi.com/searches/67d9dfd4f7f1b54a5ceca64c/images/080033560195eea1b673debdee10d11464cb74be9f42bce7dc2ba1e6dfd02ce2.png', 'snippet': 'Specificații tehnice iPhone 14 · Ecran Super Retina XDR · Ecran OLED, de la o margine la alta, de 6,1 inchi (diagonala) · Rezoluție de 2532x1170 pixeli la 460 ppi.', 'snippet_highlighted_words': ['Ecran Super Retina XDR'], 'source': 'Apple'}
+
+ Analiză produs: {'position': 7, 'title': 'Apple iPhone 14 256GB SS Blue в Кишиневе, Молдова', 'link': 'https://alo.md/ro/apple-4/apple-iphone-14-256gb-ss-blue', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://alo.md/ro/apple-4/apple-iphone-14-256gb-ss-blue&ved=2ahUKEwj3-cWAxJSMAxWLaPUHHX3WCqsQFnoECCoQAQ', 'displayed_link': 'https://alo.md › ... › Smartphone toate brăndurile › Apple', 'favicon': 'https://serpapi.com/searches/67d9dfd4f7f1b54a5ceca64c/images/080033560195eea1b673debdee10d11491e15495fca5a9eba677c6dcc1dc1568.png', 'snippet': 'Bun venit în lumea tehnologiei inovatoare cu noul iPhone 14! Echipat cu un puternic procesor Apple A15 Bionic și 6 GB de memorie RAM, acest telefon este ...', 'snippet_highlighted_words': ['iPhone 14'], 'source': 'Alo. Md'}
+
+ Analiză produs: {'position': 8, 'title': 'iPhone 14', 'link': 'https://altex.ro/iphone-14/pag/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://altex.ro/iphone-14/pag/&ved=2ahUKEwj3-cWAxJSMAxWLaPUHHX3WCqsQFnoECCkQAQ', 'displayed_link': 'https://altex.ro › iphone-14 › pag', 'favicon': 'https://serpapi.com/searches/67d9dfd4f7f1b54a5ceca64c/images/080033560195eea1b673debdee10d114e48dba08449dfba57feac12bb9a7c04a.png', 'snippet': 'Cu un ecran de 6.7 inchi, telefoanele iPhone 14 Pro sunt proiectate sa reziste. Telefoanele sunt rezistente la apa si sunt prevazute cu sticla de protectie ...', 'snippet_highlighted_words': ['iPhone 14'], 'source': 'Altex'}
+
+ Analiză produs: {'position': 9, 'title': 'Smartphone Apple iPhone 14, 6GB/128GB, Blue', 'link': 'https://ultra.md/product/iphone-14-128gb-blue-md', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ultra.md/product/iphone-14-128gb-blue-md&ved=2ahUKEwj3-cWAxJSMAxWLaPUHHX3WCqsQFnoECC4QAQ', 'displayed_link': 'https://ultra.md › Telefoane › Smartphone', 'favicon': 'https://serpapi.com/searches/67d9dfd4f7f1b54a5ceca64c/images/080033560195eea1b673debdee10d1140fccb6740f436dee6f92178e6ab587b7.png', 'snippet': 'Smartphone Apple iPhone 14, 6GB/128GB, Blue ; Memorie internă 128 GB ; Difuzor Da ; Conectori audio Lightning ; Adâncime 7.8 mm ; Înălțime 146.7 mm ...', 'snippet_highlighted_words': ['Smartphone Apple iPhone 14, 6GB/128GB, Blue'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 5.0, 'reviews': 5}, 'extensions': ['5,0(5)']}}, 'source': 'Ultra.md'}
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: HTTPSConnectionPool(host='altex.ro', port=443): Read timed out. (read timeout=5)
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+
+ Analiză produs: {'position': 1, 'title': 'Apple iPhone 13 - noile smartphone-uri în Moldova', 'link': 'https://darwin.md/telefoane/smartphone/apple-iphone-13', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://darwin.md/telefoane/smartphone/apple-iphone-13&ved=2ahUKEwiNu9HAxJSMAxWXzjgGHbVQBKMQFnoECBwQAQ', 'displayed_link': 'https://darwin.md › Telefoane › Smartphone', 'thumbnail': 'https://serpapi.com/searches/67d9e05fa515cc628c8f7f95/images/c553c802ca03c4d34ffbe05493cabb08f06f6b09a3ae3e896b2fe1573a13b79c.jpeg', 'favicon': 'https://serpapi.com/searches/67d9e05fa515cc628c8f7f95/images/c553c802ca03c4d34ffbe05493cabb085fd30dd624eacd473f4abda2c98fb087.png', 'snippet': 'Smartphone-ul Apple iPhone 13 este echipat cu procesorul A15 Bionic, care „zboară” în orice aplicație. Fie că este vorba de jocuri cu efecte grafice complexe, ...', 'snippet_highlighted_words': ['Smartphone-ul Apple iPhone 13 este echipat cu procesorul A15 Bionic'], 'source': 'Darwin.md'}
+
+ Analiză produs: {'position': 2, 'title': 'Smartphone-uri APPLE iPhone 13', 'link': 'https://breezy.md/smartphone/vendor=apple/series=iphone-13', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://breezy.md/smartphone/vendor%3Dapple/series%3Diphone-13&ved=2ahUKEwiNu9HAxJSMAxWXzjgGHbVQBKMQFnoECBsQAQ', 'displayed_link': 'https://breezy.md › ... › APPLE', 'thumbnail': 'https://serpapi.com/searches/67d9e05fa515cc628c8f7f95/images/c553c802ca03c4d34ffbe05493cabb0854565120ec4287f8e2c0e87242d3f526.jpeg', 'favicon': 'https://serpapi.com/searches/67d9e05fa515cc628c8f7f95/images/c553c802ca03c4d34ffbe05493cabb0839285852e946b6d5702d6bb7e18537e3.png', 'snippet': 'iPhone 13 reprezintă combinația perfectă între tehnologii avansate, design elegant și performanță ridicată. ... Apple iPhone 13 128 GB Green, 6 499 lei.', 'snippet_highlighted_words': ['iPhone 13'], 'source': 'BREEZY.MD'}
+
+ Analiză produs: {'position': 3, 'title': 'Apple iPhone 13 5G 128GB - Orange Moldova', 'link': 'https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/iphone-13-128gb.html', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orange.md/ro/shop/catalog/telefoane/toate-telefoanele/iphone-13-128gb.html&ved=2ahUKEwiNu9HAxJSMAxWXzjgGHbVQBKMQFnoECB4QAQ', 'displayed_link': 'https://www.orange.md › ... › Toate telefoanele', 'thumbnail': 'https://serpapi.com/searches/67d9e05fa515cc628c8f7f95/images/c553c802ca03c4d34ffbe05493cabb08293ed1f12aea3f497e9a66ba04957753.jpeg', 'favicon': 'https://serpapi.com/searches/67d9e05fa515cc628c8f7f95/images/c553c802ca03c4d34ffbe05493cabb086d86fc136fb31c552173aeb793543ad2.png', 'snippet': 'Specificaţii Apple iPhone 13 5G 128GB ; Dual SIMDa (Nano-SIM + eSIM) ; Sistem de operareiOS 15 ; Diagonală ecran6.1" ; Rezoluţie ecran1170 x 2532 pixeli ; Tip ecran ...', 'snippet_highlighted_words': ['Apple iPhone 13 5G 128GB'], 'source': 'Orange Moldova'}
+
+ Analiză produs: {'position': 4, 'title': 'Apple iPhone 13 128GB LikeNew Midnight', 'link': 'https://eshop.moldcell.md/ro/smartphone/apple-iphone-13-128gb-midnight-likenew', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://eshop.moldcell.md/ro/smartphone/apple-iphone-13-128gb-midnight-likenew&ved=2ahUKEwiNu9HAxJSMAxWXzjgGHbVQBKMQFnoECBQQAQ', 'displayed_link': 'https://eshop.moldcell.md › smartphone › apple-iphone-...', 'favicon': 'https://serpapi.com/searches/67d9e05fa515cc628c8f7f95/images/c553c802ca03c4d34ffbe05493cabb08dbf95f71e8b671678901f1f1eb8a242e.png', 'snippet': 'Generale. Producător, Apple. Model, iPhone 13 Refurbished ; Memorie. Memorie RAM (GB), 4 GB. Memorie internă (GB), 128 GB ; Procesor. CPU, Apple A15 Bionic.', 'snippet_highlighted_words': ['iPhone 13 Refurbished'], 'source': 'Magazin Online Moldcell'}
+
+ Analiză produs: {'position': 5, 'title': 'iPhone 13 and iPhone 13 mini', 'link': 'https://www.apple.com/by/iphone-13/', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.apple.com/by/iphone-13/&ved=2ahUKEwiNu9HAxJSMAxWXzjgGHbVQBKMQFnoECBYQAQ', 'displayed_link': 'https://www.apple.com › iph...', 'favicon': 'https://serpapi.com/searches/67d9e05fa515cc628c8f7f95/images/c553c802ca03c4d34ffbe05493cabb085c2e49cc526047e8fac4e45deaa112bb.png', 'snippet': "iPhone 13 and 13 mini. Our most advanced dual-camera system. A chip that's faster than the competition. Up to 2.5 hours more battery life.", 'snippet_highlighted_words': ['iPhone 13 and 13 mini'], 'source': 'Apple'}
+
+ Analiză produs: {'position': 6, 'title': 'Apple iPhone 13 128GB Midnight RA в Кишиневе, Молдова', 'link': 'https://alo.md/ro/apple-renewed/apple-iphone-13-128gb-midnight-ra', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://alo.md/ro/apple-renewed/apple-iphone-13-128gb-midnight-ra&ved=2ahUKEwiNu9HAxJSMAxWXzjgGHbVQBKMQFnoECBgQAQ', 'displayed_link': 'https://alo.md › ... › Smartphone › Apple Renewed', 'favicon': 'https://serpapi.com/searches/67d9e05fa515cc628c8f7f95/images/c553c802ca03c4d34ffbe05493cabb081e34b9e357204f4136ec5988ab8c1cdd.png', 'snippet': 'Apple iPhone 13 128GB Midnight RA купить в интернет-магазине ALO.⚡️Доступные цены и быстрая доставка! ✓Кредит ✓Скидки ✓Официальная гарантия.', 'snippet_highlighted_words': ['Apple iPhone 13 128GB Midnight RA'], 'source': 'Alo. Md'}
+
+ Analiză produs: {'position': 7, 'title': 'Apple iPhone 13 - 13 Mini - 13 Pro & 13 Pro Max în Chișinău', 'link': 'https://enter.online/telefoane/smartphone-uri/apple-iphone-13-2021', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enter.online/telefoane/smartphone-uri/apple-iphone-13-2021&ved=2ahUKEwiNu9HAxJSMAxWXzjgGHbVQBKMQFnoECBUQAQ', 'displayed_link': 'https://enter.online › telefoane › smartphone-uri › apple...', 'favicon': 'https://serpapi.com/searches/67d9e05fa515cc628c8f7f95/images/c553c802ca03c4d34ffbe05493cabb08c839e4972821de7dce25648826b03a72.png', 'snippet': 'Vestitele smartphone-uri Apple: iPhone 13, 13 Mini, 13 Pro și 13 Pro Max, la cel mai bun preț, cu cashback garantat și în rate la 0% doar pe ENTER - Apple ...', 'snippet_highlighted_words': ['iPhone 13, 13 Mini, 13 Pro și 13 Pro Max'], 'source': 'enter.online'}
+
+ Analiză produs: {'position': 8, 'title': 'Apple iPhone 13 Chisinau - smart.md', 'link': 'https://www.smart.md/ro/apple-iphone-13', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.smart.md/ro/apple-iphone-13&ved=2ahUKEwiNu9HAxJSMAxWXzjgGHbVQBKMQFnoECDUQAQ', 'displayed_link': 'https://www.smart.md › ... › Smartphone Apple', 'thumbnail': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgKy_yt0hAanNV8_E_QphO9mlgq3UZq-QTcS72Qc37eTjrOzhVRmdV&usqp=CAE&s', 'favicon': 'https://serpapi.com/searches/67d9e05fa515cc628c8f7f95/images/c553c802ca03c4d34ffbe05493cabb0806fa915f09b0a0f329515ef079f6de47.png', 'snippet': 'Apple iPhone 13 este proiectat pentru a oferi performante fulgeratoare, lasand alte smartphone-uri in praf. Alimentata de cipul A15 Bionic, aceasta capodopera ...', 'snippet_highlighted_words': ['Apple iPhone 13'], 'source': 'smart.md'}
+
+ Analiză produs: {'position': 9, 'title': 'iPhone 13. Comanda Online', 'link': 'https://www.emag.ro/search/iphone+13', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.emag.ro/search/iphone%2B13&ved=2ahUKEwiNu9HAxJSMAxWXzjgGHbVQBKMQFnoECDYQAQ', 'displayed_link': 'https://www.emag.ro › search › iphone+13', 'thumbnail': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgLmUhFdOeXem6Rk46LX4CBFIkmYx3r80bO5TMEaCJtP1EhcoUumsE&usqp=CAE&s', 'favicon': 'https://serpapi.com/searches/67d9e05fa515cc628c8f7f95/images/c553c802ca03c4d34ffbe05493cabb089ddbe104c703900461983eaf7f9bc3da.png', 'snippet': 'Telefon mobil Apple iPhone 13, 128GB, 5G, Starlight · 2.499 ; Telefon mobil Apple iPhone 13, 128GB, 5G, Midnight · 2.599 ; Telefon mobil Apple iPhone 13, 128GB, 5G, ...', 'snippet_highlighted_words': ['iPhone 13', 'iPhone 13', 'iPhone 13'], 'source': 'eMAG'}
+
+ Analiză produs: {'position': 10, 'title': 'Telefon mobil iPhone 13 128GB Starlight - Chișinău', 'link': 'https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/iphone-13-128gb-starlight', 'redirect_link': 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cactus.md/ro/catalogue/electronice/telefone/mobilnye-telefony/iphone-13-128gb-starlight&ved=2ahUKEwiNu9HAxJSMAxWXzjgGHbVQBKMQFnoECDgQAQ', 'displayed_link': 'https://www.cactus.md › Telefoane mobile › Apple', 'thumbnail': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLd7RhdYz0rFjQzpIT0h5lMZH2Y7mMsSFD4ExYXhUntz_lzd16FdaV&usqp=CAE&s', 'favicon': 'https://serpapi.com/searches/67d9e05fa515cc628c8f7f95/images/c553c802ca03c4d34ffbe05493cabb0874140de80babef0ce26906ba03fb1d66.png', 'snippet': 'Telefon mobil iPhone 13 128GB Starlight. 11 987 lei 10 799 lei. M-am răzgândit ... Livrare în raza municipiului Chișinău pentru mâine, gratis. Garanție 24 de luni.', 'snippet_highlighted_words': ['Telefon mobil iPhone 13 128GB Starlight'], 'rich_snippet': {'top': {'detected_extensions': {'rating': 5.0, 'reviews': 1}, 'extensions': ['5,0(1)']}}, 'source': 'Cactus.md'}
+
+ Analiză produs(SHOPPING): {'position': 1, 'block_position': 'top', 'title': 'Apple iPhone 13 - 128 GB - Black / Midnight (with Mobile Phone Plan) - Boost Mobile', 'price': '99,99\xa0USD', 'extracted_price': 99.99, 'old_price': '630\xa0USD', 'extracted_old_price': 630, 'link': 'https://www.boostmobile.com/shop/iphone-13.html', 'source': 'Boost Mobile', 'shipping': 'Livrare până pe 27.03', 'thumbnail': 'https://serpapi.com/searches/67d9e05fa515cc628c8f7f95/images/37dda81cf8aba1b14d21d9bd8826ad5157eedf0ec5919fdd6b14afd27cbd9b38.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 2, 'block_position': 'top', 'title': 'iPhone 13 128GB (with contract, 24 installment payment) (la abonament)', 'price': 'Acum 249,00\xa0USD', 'extracted_price': 249.0, 'old_price': '399\xa0USD', 'extracted_old_price': 399, 'link': 'https://www.straighttalk.com/all-phones/apple-iphone-13-128-gb.black', 'source': 'StraightTalk Wireless', 'thumbnail': 'https://serpapi.com/searches/67d9e05fa515cc628c8f7f95/images/37dda81cf8aba1b14d21d9bd8826ad5190a150f3ba4a67dd0af31a78362c6723.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 3, 'block_position': 'top', 'title': 'Apple iPhone 13, 128GB, Pink - AT&T (Renewed)', 'price': '263,15\xa0USD', 'extracted_price': 263.15, 'old_price': '289\xa0USD', 'extracted_old_price': 289, 'link': 'https://www.amazon.com/Apple-iPhone-13-128GB-Pink/dp/B09LP4MZ72?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A31G8YJZ1LFU8F', 'second_hand_condition': 'Recondiționat', 'source': 'Amazon.com', 'thumbnail': 'https://serpapi.com/searches/67d9e05fa515cc628c8f7f95/images/37dda81cf8aba1b14d21d9bd8826ad51f7dd34ac712de27710d34b2cb5f1e169.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 4, 'block_position': 'top', 'title': 'Apple iPhone 13, 128GB, Midnight - T-Mobile (Renewed)', 'price': '278,00\xa0USD', 'extracted_price': 278.0, 'old_price': '299\xa0USD', 'extracted_old_price': 299, 'link': 'https://www.amazon.com/Apple-iPhone-13-128GB-Midnight/dp/B09LNC7VHR?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3J9LL0SKEEIO0', 'second_hand_condition': 'Recondiționat', 'source': 'Amazon.com', 'thumbnail': 'https://serpapi.com/searches/67d9e05fa515cc628c8f7f95/images/37dda81cf8aba1b14d21d9bd8826ad517a7acf0a5011bff0a57821007b121629.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 5, 'block_position': 'top', 'title': 'Apple iPhone 13 Pro Max (1TB, Sierra Blue) [Locked] + Carrier Subscription', 'price': '373,87\xa0USD', 'extracted_price': 373.87, 'link': 'https://www.amazon.com/Apple-iPhone-Sierra-Carrier-Subscription/dp/B09G9B1SJ8?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER', 'source': 'Amazon.com', 'thumbnail': 'https://serpapi.com/searches/67d9e05fa515cc628c8f7f95/images/37dda81cf8aba1b14d21d9bd8826ad510ddabdb0ea58039eff55dcac0ac0044e.webp', 'extensions': ['Expediere gratuită']}
+
+ Analiză produs(SHOPPING): {'position': 6, 'block_position': 'top', 'title': 'Restored Apple iPhone 13 Pro - Fully Unlocked - 128 GB Alpine Green (Refurbished)', 'price': '364,43\xa0USD', 'extracted_price': 364.43, 'old_price': '500\xa0USD', 'extracted_old_price': 500, 'link': 'https://www.walmart.com/ip/Restored-Apple-iPhone-13-Pro-Carrier-Unlocked-128GB-Alpine-Green-Refurbished/1075735421?wmlspartner=wlpa&selectedSellerId=4415', 'source': 'Walmart', 'rating': 4.4, 'reviews': 2000, 'reviews_original': '2k+', 'thumbnail': 'https://serpapi.com/searches/67d9e05fa515cc628c8f7f95/images/37dda81cf8aba1b14d21d9bd8826ad519c98592ee7e66f851532f39ae92d1442.webp', 'extensions': ['Reduceri']}
+
+ Analiză produs(SHOPPING): {'position': 7, 'block_position': 'top', 'title': 'Apple iPhone 13 128GB Prepaid - Total Wireless Black', 'price': '149,99\xa0USD', 'extracted_price': 149.99, 'link': 'https://www.totalwireless.com/smartphones/apple-iphone-13-128gb-prepaid.black', 'source': 'Total Wireless', 'thumbnail': 'https://serpapi.com/searches/67d9e05fa515cc628c8f7f95/images/37dda81cf8aba1b14d21d9bd8826ad51ecc51d0f45cdb9008c988e8002eb07bd.webp'}
+
+ Analiză produs(SHOPPING): {'position': 8, 'block_position': 'top', 'title': 'iPhone 13 256GB Unlocked - 12 Months Warranty', 'price': '281,16\xa0USD', 'extracted_price': 281.16, 'link': 'https://reebelo.com/products/apple-i-phone-13-256-gb-midnight-fully-unlocked-excellent-vqk-4', 'second_hand_condition': 'Recondiționat', 'source': 'Reebelo USA', 'thumbnail': 'https://serpapi.com/searches/67d9e05fa515cc628c8f7f95/images/37dda81cf8aba1b14d21d9bd8826ad51ee857ddd977494dd129fc485a03675f4.webp', 'extensions': ['6 culori']}
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+⚠️ Imagine lipsă pentru Cumpără iPhone 16 în Chișinău. Se încearcă extragerea de pe pagină...
+⚠️ Imagine lipsă pentru iPhone 16 and iPhone 16 Plus. Se încearcă extragerea de pe pagină...
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+⚠️ Imagine lipsă pentru Cumpără iPhone 16 Pro și Pro Max la Enter. Se încearcă extragerea de pe pagină...
+⚠️ Imagine lipsă pentru Apple iPhone 16 | Sortiment bogat. Se încearcă extragerea de pe pagină...
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+⚠️ Imagine lipsă pentru iPhone 16 Orange 🔥 в Кишиневе по лучшей цене в .... Se încearcă extragerea de pe pagină...
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+⚠️ Imagine lipsă pentru iPhone 16 and iPhone 16 Plus - Technical Specifications. Se încearcă extragerea de pe pagină...
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+⚠️ Imagine lipsă pentru Apple iPhone 16 - Chișinău. Se încearcă extragerea de pe pagină...
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+⚠️ Imagine lipsă pentru iPhone 16 128Gb Black - Gorilla ELECTRONICS. Se încearcă extragerea de pe pagină...
+⚠️ Imagine lipsă pentru iPhone 16 Pro - Chișinău. Se încearcă extragerea de pe pagină...
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+⚠️ Imagine lipsă pentru Apple iPhone 15 - Chișinău. Se încearcă extragerea de pe pagină...
+⚠️ Imagine lipsă pentru Apple iPhone 15 | Sortiment bogat | Cele mai noi modele. Se încearcă extragerea de pe pagină...
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+⚠️ Imagine lipsă pentru Noua serie de iPhone 15 la precomandă și prețuri accesibile. Se încearcă extragerea de pe pagină...
+⚠️ Imagine lipsă pentru Apple iPhone 15 128GB SS Black в Кишиневе, Молдова. Se încearcă extragerea de pe pagină...
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+⚠️ Imagine lipsă pentru Cumpără Apple iPhone 15 5G 128GB. Se încearcă extragerea de pe pagină...
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+⚠️ Imagine lipsă pentru iPhone 15 128GB Black - Gorilla ELECTRONICS. Se încearcă extragerea de pe pagină...
+⚠️ Imagine lipsă pentru iPhone 15 🔥 Купить в Кишиневе по лучшей цене в .... Se încearcă extragerea de pe pagină...
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+⚠️ Imagine lipsă pentru Мобильный телефон iPhone 15 128GB Blue. Se încearcă extragerea de pe pagină...
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+⚠️ Imagine lipsă pentru Apple iPhone 15 128GB Black - Chișinău. Se încearcă extragerea de pe pagină...
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+⚠️ Imagine lipsă pentru Noile Apple iPhone 14 in Chisinau si Moldova. Se încearcă extragerea de pe pagină...
+⚠️ Imagine lipsă pentru Apple iPhone 14, 14 Plus, 14 Pro si 14 Pro Max. Se încearcă extragerea de pe pagină...
+⚠️ Imagine lipsă pentru Apple iPhone 14 Chisinau | iPhone 14 Moldova. Se încearcă extragerea de pe pagină...
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+⚠️ Imagine lipsă pentru Apple iPhone 14 5G 128GB | Онлайн магазин Orange Moldova. Se încearcă extragerea de pe pagină...
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+⚠️ Imagine lipsă pentru Smartphone-uri APPLE iPhone 14 Pro. Se încearcă extragerea de pe pagină...
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+⚠️ Imagine lipsă pentru iPhone 14 și iPhone 14 Plus - Specificații tehnice. Se încearcă extragerea de pe pagină...
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+⚠️ Imagine lipsă pentru Apple iPhone 14 256GB SS Blue в Кишиневе, Молдова. Se încearcă extragerea de pe pagină...
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+⚠️ Imagine lipsă pentru iPhone 14. Se încearcă extragerea de pe pagină...
+❌ Eroare la parsarea paginii pentru imagine: HTTPSConnectionPool(host='altex.ro', port=443): Read timed out. (read timeout=5)
+❌ Eroare la parsarea paginii: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+⚠️ Imagine lipsă pentru Smartphone Apple iPhone 14, 6GB/128GB, Blue. Se încearcă extragerea de pe pagină...
+❌ Eroare la parsarea paginii: Malformed attribute selector at position 7
+  line 1:
+p.text-[20px]
+       ^
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru Apple iPhone 13 128GB LikeNew Midnight. Se încearcă extragerea de pe pagină...
+⚠️ Imagine lipsă pentru iPhone 13 and iPhone 13 mini. Se încearcă extragerea de pe pagină...
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru Apple iPhone 13 128GB Midnight RA в Кишиневе, Молдова. Se încearcă extragerea de pe pagină...
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru Apple iPhone 13 - 13 Mini - 13 Pro & 13 Pro Max în Chișinău. Se încearcă extragerea de pe pagină...
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.

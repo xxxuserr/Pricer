@@ -21,11 +21,6 @@ def search_product(query):
             return []
 
         results = response.json()
-        for result in results.get('organic_results', []):
-            log_debug(f"\n Analiză produs: {result}")
-        for result in results.get('shopping_results', []):
-            log_debug(f"\n Analiză produs(SHOPPING): {result}")
-    
     except requests.exceptions.RequestException as e:
         log_debug(f"Eroare la conectarea la API: {e}")
         return []
@@ -35,7 +30,18 @@ def search_product(query):
         name = result.get('title', 'No title')
         link = result.get('link', '#')
         description = result.get('snippet', 'No description')
-        image_url = result.get('thumbnail', '#')
+
+        # ✅ Încearcă să preiei imaginea din SerpAPI
+        image_url = result.get('thumbnail', None)
+
+        # ✅ Dacă SerpAPI nu furnizează o imagine validă, încearcă să extragi imaginea de pe site
+        if not image_url or "placeholder" in image_url or image_url == "#":
+            log_debug(f"⚠️ Imagine lipsă pentru {name}. Se încearcă extragerea de pe pagină...")
+            image_url = get_image_from_page(link)
+
+        # ✅ Dacă nici pe site nu există o imagine validă, folosește un placeholder
+        if not image_url:
+            image_url = "/static/img/placeholder.png"
 
         product_details = {
             'name': name,
@@ -50,8 +56,49 @@ def search_product(query):
                 product_details['price'] = price
 
         products.append(product_details)
-    
+
     return products
+
+def get_image_from_page(link):
+    """ Încearcă să extragă imaginea produsului direct de pe site folosind BeautifulSoup """
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
+
+    try:
+        response = requests.get(link, headers=headers, timeout=5)
+        if response.status_code != 200:
+            log_debug(f"❌ Eroare la accesarea paginii pentru imagine: {response.status_code}")
+            return None
+
+        soup = BeautifulSoup(response.text, "lxml")
+
+        # 🔹 Lista de posibile selectoare CSS pentru imagini
+        image_selectors = [
+            "meta[property='og:image']",  # Unele site-uri folosesc Open Graph
+            "meta[name='twitter:image']",
+            "img.product-image",
+            "div.product img",
+            "figure img",
+            "img.main-image",
+            "img[src*='product']",
+        ]
+
+        for selector in image_selectors:
+            element = soup.select_one(selector)
+            if element:
+                # Dacă este un meta tag, extrage conținutul
+                image_url = element["content"] if "content" in element.attrs else element["src"]
+                if image_url.startswith("//"):
+                    image_url = "https:" + image_url
+                return image_url
+
+        log_debug("⚠️ Nu s-a găsit o imagine validă pe pagină.")
+        return None
+
+    except Exception as e:
+        log_debug(f"❌ Eroare la parsarea paginii pentru imagine: {e}")
+        return None
 
 def get_price_from_link(link):
     """ Obține prețul de pe site folosind BeautifulSoup """
@@ -67,7 +114,7 @@ def get_price_from_link(link):
 
         soup = BeautifulSoup(response.text, "lxml")
         
-        # 🔹 Lista de posibile selectoare CSS pentru preț
+        # 🔹 Lista de posibile selectoare CSS pentru preț (fără `p.text-[20px]`)
         price_elements = [
             "span.price-new",
             "div.price-new",
@@ -75,11 +122,9 @@ def get_price_from_link(link):
             "div.product-price",
             "span.regular",
             "div.custom_product_price",
-            "p.text-[20px]",
             "span.text-blue.relative.mb-2.text-4xl.font-bold", # Ultra.md
             "span[class*='text-blue']",  # Ultra.md (fallback)
             "div.custom_product_price span.regular",   # Smart.md
-            "p[class*='text-[20px]']",  # Smart.md
             "div.price-head2.red h2",  # Moldcell.md
         ]
 
@@ -123,6 +168,3 @@ def search_product_parallel(urls):
             if result["price"]:
                 results.append(result)
     return results
-
-
-
