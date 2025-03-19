@@ -3,13 +3,15 @@ let currentIndex = 0; // Începem de la primul produs
 const productsPerPage = 10; // Câte produse încărcăm pe pagină
 
 // Funcție pentru afișarea produselor
+// Funcția pentru afișarea produselor
+// Funcția pentru afișarea produselor
 function displayProducts(products) {
     let productList = document.getElementById('productList');
-    productList.innerHTML = ""; // Curățăm lista înainte de a adăuga noi produse
     
     for (let i = currentIndex; i < currentIndex + productsPerPage && i < products.length; i++) {
         let product = products[i];
         let li = document.createElement('li');
+        li.classList.add("product-card");
         li.innerHTML = `
             <img src="${product.image}" alt="${product.name}">
             <div>
@@ -19,7 +21,43 @@ function displayProducts(products) {
         `;
         productList.appendChild(li);
     }
-    currentIndex += productsPerPage;
+
+    currentIndex += productsPerPage; // Actualizăm indexul pentru următorul set de produse
+
+    if (currentIndex >= products.length) {
+        document.getElementById('loader').style.display = 'none'; // Ascunde loader-ul dacă nu mai sunt produse
+    }
+}
+
+// Funcție care inițializează Lazy Loading
+function setupLazyLoading() {
+    let observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting && currentIndex < allProducts.length) {
+                displayProducts(allProducts);
+            }
+        });
+    }, { threshold: 1.0 });
+
+    observer.observe(document.getElementById('loader')); // Legăm loader-ul de observer
+}
+
+// Fetch pentru produse de pe server
+function fetchProducts(query = "") {
+    showLoader();
+
+    fetch(`/search?query=${query}`)
+        .then(response => response.json())
+        .then(data => {
+            allProducts = data;
+            currentIndex = 0;
+            document.getElementById('productList').innerHTML = ""; // Ștergem produsele vechi
+            displayProducts(allProducts);
+            setupLazyLoading(); // Activăm Lazy Loading
+        })
+        .catch(error => {
+            console.error('Eroare la preluarea produselor:', error);
+        });
 }
 
 // Funcție pentru afișarea loader-ului
