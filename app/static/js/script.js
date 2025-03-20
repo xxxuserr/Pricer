@@ -10,10 +10,13 @@ function displayProducts(products) {
     
     for (let i = currentIndex; i < currentIndex + productsPerPage && i < products.length; i++) {
         let product = products[i];
+        
+        console.log("🔍 Debugging product:", product);
+
         let li = document.createElement('li');
         li.classList.add("product-card");
         li.innerHTML = `
-            <img src="${product.image}" alt="${product.name}">
+            <img src="${product.image_url}" alt="${product.name}" onerror="this.src='/static/img/placeholder.png'">
             <div>
                 <strong><a href="${product.link}" target="_blank">${product.name}</a></strong><br>
                 <span class="price">${product.price} lei</span>
@@ -49,6 +52,7 @@ function fetchProducts(query = "") {
     fetch(`/search?query=${query}`)
         .then(response => response.json())
         .then(data => {
+            console.log("📢 JSON Primit:", data);
             allProducts = data;
             currentIndex = 0;
             document.getElementById('productList').innerHTML = ""; // Ștergem produsele vechi
@@ -208,3 +212,6 @@ function toggleFavorite(productName) {
 
     // Poți adăuga aici un request către server pentru salvarea în baza de date
 }
+
+
+

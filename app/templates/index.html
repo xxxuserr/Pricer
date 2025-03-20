@@ -32,7 +32,8 @@
             {% for product in products %}
             <li class="product-card">
                 <div class="product-image-container">
-                    <img src="{{ product.image }}" alt="{{ product.name }}" class="product-image">
+                    <img src="{{ product.image_url }}" alt="{{ product.name }}" onerror="this.src='/static/img/placeholder.png'">
+
                     <button class="fav-button" onclick="toggleFavorite('{{ product.name }}')">
                         <i class="fas fa-heart"></i>
                     </button>
