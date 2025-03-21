@@ -2,28 +2,37 @@ let allProducts = [];
 let currentIndex = 0; // Începem de la primul produs
 const productsPerPage = 10; // Câte produse încărcăm pe pagină
 
-// Funcție pentru afișarea produselor
-// Funcția pentru afișarea produselor
 // Funcția pentru afișarea produselor
 function displayProducts(products) {
     let productList = document.getElementById('productList');
-    
-    for (let i = currentIndex; i < currentIndex + productsPerPage && i < products.length; i++) {
-        let product = products[i];
-        
-        console.log("🔍 Debugging product:", product);
+    productList.innerHTML = "";  // Șterge lista anterioară
+
+    products.forEach(product => {
+        console.log("🔍 Imagine produs:", product.image_url);
 
         let li = document.createElement('li');
         li.classList.add("product-card");
+
         li.innerHTML = `
-            <img src="${product.image_url}" alt="${product.name}" onerror="this.src='/static/img/placeholder.png'">
-            <div>
-                <strong><a href="${product.link}" target="_blank">${product.name}</a></strong><br>
-                <span class="price">${product.price} lei</span>
+            <div class="product-image-container">
+                <img src="${product.image_url}" alt="${product.name}"
+                    onerror="this.onerror=null; this.src='/static/img/placeholder.png'; console.log('⚠️ Imagine indisponibilă:', this.src)">
+
+                <button class="fav-button" onclick="toggleFavorite('${product.name}')">
+                    <i class="fas fa-heart"></i>
+                </button>
+            </div>
+            <div class="product-details">
+                <strong class="product-title">
+                    <a href="${product.link}" target="_blank">${product.name}</a>
+                </strong>
+                <p class="product-specs">${product.specs || ''}</p>
+                <span class="price">${product.price ? product.price + " lei" : '<span style="color: red;">Preț necunoscut</span>'}</span>
             </div>
         `;
+
         productList.appendChild(li);
-    }
+    });
 
     currentIndex += productsPerPage; // Actualizăm indexul pentru următorul set de produse
 

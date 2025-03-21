@@ -1,5 +1,6 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, send_from_directory
 import requests
+import os
 from flask_session import Session
 
 app = Flask(__name__)
@@ -22,8 +23,10 @@ def home():
     return render_template('index.html', shopping_results=shopping_results, search_query=search_query)
 
 
-
-
+# Configurăm servirea fișierelor statice
+@app.route('/static/images/<path:filename>')
+def serve_image(filename):
+    return send_from_directory(os.path.join(app.root_path, 'static/images'), filename)
 
 if __name__ == '__main__':
     app.run(debug=True)

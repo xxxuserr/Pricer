@@ -2,11 +2,12 @@ from flask import render_template, request, jsonify
 from app import app
 from app.scraper import search_product
 from flask import session
-
+from flask import request, Response
 from flask import redirect, request, flash, url_for
 from flask_login import login_user, logout_user, login_required, current_user
 from app import app, db, login_manager
 from app.models import User
+import requests
 
 
 @app.route("/", methods=["GET", "POST"])
@@ -121,3 +122,6 @@ def logout():
     logout_user()
     flash("Te-ai deconectat!", "info")
     return redirect(url_for("login"))
+
+
+

@@ -117,3 +117,138 @@ Eroare la conectarea la API: HTTPSConnectionPool(host='serpapi.com', port=443): 
 ⚠️ Nu s-a găsit prețul pe pagină.
 ⚠️ Imagine lipsă pentru Rezultatul căutării "Apple MacBook Air" - Chișinău, folosim placeholder.
 ⚠️ Imagine lipsă pentru Laptop Apple MacBook Air 13.6 2024 M3 256GB Midnight, folosim placeholder.
+❌ Eroare la parsarea paginii: HTTPSConnectionPool(host='eshop.moldcell.md', port=443): Read timed out. (read timeout=5)
+⚠️ Imagine lipsă pentru Cumpără iPhone 15 🔥 în Chișinău la cel mai bun preț din ..., folosim placeholder.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru Apple iPhone 15 | Sortiment bogat | Cele mai noi modele, folosim placeholder.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru Noua serie de iPhone 15 la precomandă și prețuri ..., folosim placeholder.
+⚠️ Imagine lipsă pentru Apple iPhone 15 128GB SS Black в Кишиневе, Молдова, folosim placeholder.
+⚠️ Imagine lipsă pentru iPhone 15 128GB Black - Gorilla ELECTRONICS, folosim placeholder.
+⚠️ Imagine lipsă pentru Cumpără Apple iPhone 15 5G 128GB, folosim placeholder.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru iPhone 15 and iPhone 15 Plus - Technical Specifications, folosim placeholder.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru Smartphone-uri APPLE iPhone 15 Pro, folosim placeholder.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru Cumpără iPhone 15 🔥 în Chișinău la cel mai bun preț din ..., folosim placeholder.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru Apple iPhone 15 | Sortiment bogat | Cele mai noi modele, folosim placeholder.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru Noua serie de iPhone 15 la precomandă și prețuri ..., folosim placeholder.
+⚠️ Imagine lipsă pentru Apple iPhone 15 128GB SS Black в Кишиневе, Молдова, folosim placeholder.
+⚠️ Imagine lipsă pentru iPhone 15 128GB Black - Gorilla ELECTRONICS, folosim placeholder.
+⚠️ Imagine lipsă pentru Cumpără Apple iPhone 15 5G 128GB, folosim placeholder.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru iPhone 15 and iPhone 15 Plus - Technical Specifications, folosim placeholder.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru Smartphone-uri APPLE iPhone 15 Pro, folosim placeholder.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru Cumpără iPhone 15 🔥 în Chișinău la cel mai bun preț din ..., folosim placeholder.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru Apple iPhone 15 | Sortiment bogat | Cele mai noi modele, folosim placeholder.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru Noua serie de iPhone 15 la precomandă și prețuri ..., folosim placeholder.
+⚠️ Imagine lipsă pentru Apple iPhone 15 128GB SS Black в Кишиневе, Молдова, folosim placeholder.
+⚠️ Imagine lipsă pentru iPhone 15 128GB Black - Gorilla ELECTRONICS, folosim placeholder.
+⚠️ Imagine lipsă pentru Cumpără Apple iPhone 15 5G 128GB, folosim placeholder.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru iPhone 15 and iPhone 15 Plus - Technical Specifications, folosim placeholder.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru Smartphone-uri APPLE iPhone 15 Pro, folosim placeholder.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru Cumpără iPhone 15 🔥 în Chișinău la cel mai bun preț din ..., folosim placeholder.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru Apple iPhone 15 | Sortiment bogat | Cele mai noi modele, folosim placeholder.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru Noua serie de iPhone 15 la precomandă și prețuri ..., folosim placeholder.
+⚠️ Imagine lipsă pentru Apple iPhone 15 128GB SS Black в Кишиневе, Молдова, folosim placeholder.
+⚠️ Imagine lipsă pentru iPhone 15 128GB Black - Gorilla ELECTRONICS, folosim placeholder.
+⚠️ Imagine lipsă pentru Cumpără Apple iPhone 15 5G 128GB, folosim placeholder.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru iPhone 15 and iPhone 15 Plus - Technical Specifications, folosim placeholder.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru Smartphone-uri APPLE iPhone 15 Pro, folosim placeholder.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru Cumpără iPhone 15 🔥 în Chișinău la cel mai bun preț din ..., folosim placeholder.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru Apple iPhone 15 | Sortiment bogat | Cele mai noi modele, folosim placeholder.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru Noua serie de iPhone 15 la precomandă și prețuri ..., folosim placeholder.
+⚠️ Imagine lipsă pentru Apple iPhone 15 128GB SS Black в Кишиневе, Молдова, folosim placeholder.
+⚠️ Imagine lipsă pentru iPhone 15 128GB Black - Gorilla ELECTRONICS, folosim placeholder.
+⚠️ Imagine lipsă pentru Cumpără Apple iPhone 15 5G 128GB, folosim placeholder.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru iPhone 15 and iPhone 15 Plus - Technical Specifications, folosim placeholder.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru Smartphone-uri APPLE iPhone 15 Pro, folosim placeholder.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru Cumpără iPhone 15 🔥 în Chișinău la cel mai bun preț din ..., folosim placeholder.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru Apple iPhone 15 | Sortiment bogat | Cele mai noi modele, folosim placeholder.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru Noua serie de iPhone 15 la precomandă și prețuri ..., folosim placeholder.
+⚠️ Imagine lipsă pentru Apple iPhone 15 128GB SS Black в Кишиневе, Молдова, folosim placeholder.
+⚠️ Imagine lipsă pentru iPhone 15 128GB Black - Gorilla ELECTRONICS, folosim placeholder.
+⚠️ Imagine lipsă pentru Cumpără Apple iPhone 15 5G 128GB, folosim placeholder.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru iPhone 15 and iPhone 15 Plus - Technical Specifications, folosim placeholder.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Imagine lipsă pentru Smartphone-uri APPLE iPhone 15 Pro, folosim placeholder.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+❌ Eroare la parsarea paginii: HTTPSConnectionPool(host='eshop.moldcell.md', port=443): Read timed out. (read timeout=5)
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+Eroare la accesarea paginii: 403
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+❌ Eroare la parsarea paginii: HTTPSConnectionPool(host='eshop.moldcell.md', port=443): Read timed out. (read timeout=5)
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+❌ Eroare la parsarea paginii: HTTPSConnectionPool(host='eshop.moldcell.md', port=443): Read timed out. (read timeout=5)
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+❌ Eroare la parsarea paginii: HTTPSConnectionPool(host='eshop.moldcell.md', port=443): Read timed out. (read timeout=5)
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.

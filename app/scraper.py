@@ -3,10 +3,8 @@ import re
 import time
 import concurrent.futures
 from bs4 import BeautifulSoup
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+from urllib.parse import urlparse
+import os
 
 def log_debug(message):
     """ Scrie mesajele de debugging într-un fișier text """
@@ -35,19 +33,13 @@ def search_product(query):
         link = result.get('link', '#')
         description = result.get('snippet', 'No description')
 
-        # ✅ Excludem imaginea din API și o luăm direct de pe site
         image_url = get_image_from_page(link)
-
-        if not image_url:
-            log_debug(f"⚠️ Imagine lipsă pentru {name}, folosim placeholder.")
-        image_url = "/static/img/placeholder.png"
-
-
-
-
-        # ✅ Dacă nici pe site nu există o imagine validă, folosește un placeholder
-        if not image_url:
+        if image_url:
+            image_url = download_and_save_image(image_url)
+        else:
             image_url = "/static/img/placeholder.png"
+
+
 
         product_details = {
             'name': name,
@@ -67,63 +59,100 @@ def search_product(query):
 
 
 def get_image_from_page(link):
-    """Încearcă să extragă imaginea produsului de pe pagina magazinului"""
+    """Încearcă să extragă imaginea produsului și să o salveze local dacă este blocată"""
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://google.com"  # Unii furnizori blochează accesul fără referer
+        "Referer": "https://google.com"  # Unele site-uri cer Referer valid
     }
 
-    img = None  # Inițializăm variabila img
+    img_url = None  # Inițializează variabila
 
     try:
         response = requests.get(link, headers=headers, timeout=5)
         if response.status_code != 200:
-            return None
+            return "/static/img/placeholder.png"
 
         soup = BeautifulSoup(response.text, "lxml")
 
-        # 🔹 Ultra.md
+        # 🔹 Detectăm imaginea produsului
+        img = None
         if "ultra.md" in link:
             img = soup.select_one("img.show.product-image")
-
-        # 🔹 Darwin.md
         elif "darwin.md" in link:
             img = soup.select_one("img.open-img.lazy-image.lazy-loaded")
-            if not img:
-                img = soup.select_one("div.product-img.lazy-image img")
-                if img:
-                    return img.get("data-src") or img.get("src")
-
-        # 🔹 Enter.online
         elif "enter.online" in link:
             img = soup.select_one("img.open_img")
-            if not img:
-                link_tag = soup.select_one("a[data-caption]")
-                if link_tag:
-                    return link_tag.get("href")
-
-        # 🔹 Moldcell.md
         elif "moldcell.md" in link:
             img = soup.select_one("img[src*='Phones']")
-
-        # 🔹 Amazon, eMAG, Altex, PC Garage, Asus Store
         elif any(domain in link for domain in ["amazon.", "emag.", "altex.", "pcgarage.", "asus.com"]):
-            img = soup.select_one("img[src*='product']")  # Verificăm imagini de produs
+            img = soup.select_one("img[src*='product']")
 
-        # ✅ Verificăm dacă imaginea există și returnăm URL-ul
         if img and img.get("src"):
-            image_url = img["src"]
-            if image_url.startswith("//"):
-                image_url = "https:" + image_url  # Adăugăm protocolul
-            return image_url
-        print(f"🔎 Test imagine pentru {link}: {image_url}")
+            img_url = img["src"]
+            if img_url.startswith("//"):
+                img_url = "https:" + img_url  # Adăugăm protocolul
 
+        # 🔹 Verificăm dacă imaginea este accesibilă
+        if img_url and can_access_image(img_url):
+            return img_url  # Returnăm URL-ul original dacă este accesibil
 
-        return None  # Dacă nu s-a găsit imaginea
+        # 🔹 Dacă imaginea este blocată, o descărcăm și o salvăm local
+        if img_url:
+            return download_and_save_image(img_url)
 
     except Exception as e:
         print(f"❌ Eroare la parsarea imaginii pentru {link}: {e}")
-        return None
+
+    return "/static/img/placeholder.png"  # Placeholder dacă nu s-a găsit o imagine validă
+
+
+def can_access_image(url):
+    """Verifică dacă imaginea poate fi accesată direct"""
+    headers = {"User-Agent": "Mozilla/5.0"}
+    try:
+        response = requests.head(url, headers=headers, timeout=5)
+        return response.status_code == 200
+    except requests.exceptions.RequestException:
+        return False
+
+
+def download_and_save_image(img_url):
+    """Descarcă și salvează imaginea local pentru a evita restricțiile CORS"""
+    import os
+    from urllib.parse import urlparse
+    import requests
+
+    headers = {"User-Agent": "Mozilla/5.0"}
+    try:
+        response = requests.get(img_url, headers=headers, timeout=10)
+        if response.status_code != 200:
+            print(f"⚠️ Eroare la descărcare: {img_url} - Status {response.status_code}")
+            return "/static/img/placeholder.png"
+
+        # 🔹 Creăm un nume de fișier unic pe baza URL-ului imaginii
+        parsed_url = urlparse(img_url)
+        img_name = os.path.basename(parsed_url.path)
+        img_dir = os.path.join(os.getcwd(), "static", "images")  # Asigură că folderul este corect
+        img_path = os.path.join(img_dir, img_name)
+
+        # 🔹 Verificăm dacă folderul `static/images` există, altfel îl creăm
+        os.makedirs(img_dir, exist_ok=True)
+
+        # 🔹 Salvăm imaginea local
+        with open(img_path, "wb") as img_file:
+            img_file.write(response.content)
+
+        # 🔹 Debugging
+        print(f"✅ Imagine salvată: {img_path}")
+
+        return f"/static/images/{img_name}"  # Returnăm calea locală a imaginii
+
+    except Exception as e:
+        print(f"❌ Eroare la descărcarea imaginii {img_url}: {e}")
+        return "/static/img/placeholder.png"
+
+
+
 
 
 import json

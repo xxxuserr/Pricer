@@ -32,8 +32,9 @@
             {% for product in products %}
             <li class="product-card">
                 <div class="product-image-container">
-                    <img src="{{ product.image_url }}" alt="{{ product.name }}" onerror="this.src='/static/img/placeholder.png'">
-
+                    <img src="{{ product.image_url }}" alt="{{ product.name }}"
+                        onerror="this.onerror=null; this.src='/static/img/placeholder.png'; console.log('Eroare la încărcarea imaginii:', this.src)">
+        
                     <button class="fav-button" onclick="toggleFavorite('{{ product.name }}')">
                         <i class="fas fa-heart"></i>
                     </button>
@@ -44,11 +45,18 @@
                         <a href="{{ product.link }}" target="_blank">{{ product.name }}</a>
                     </strong>
                     <p class="product-specs">{{ product.specs }}</p>
-                    <span class="price">{{ product.price }} lei</span>
+                    <span class="price">
+                        {% if product.price %}
+                            {{ product.price }} lei
+                        {% else %}
+                            <span style="color: red;">Preț necunoscut</span>
+                        {% endif %}
+                    </span>
                 </div>
             </li>
             {% endfor %}
         </ul>
+        
 
         <p class="no-results" id="noResultsMessage"></p>
     </div>
