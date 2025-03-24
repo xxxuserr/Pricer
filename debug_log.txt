@@ -252,3 +252,35 @@ Eroare la accesarea paginii: 403
 ⚠️ Nu s-a găsit prețul pe pagină.
 ⚠️ Nu s-a găsit prețul pe pagină.
 ⚠️ Nu s-a găsit prețul pe pagină.
+Eroare la conectarea la API: HTTPSConnectionPool(host='serpapi.com', port=443): Read timed out. (read timeout=5)
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+❌ Eroare la parsarea paginii: could not convert string to float: '1.149.00'
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+❌ Eroare la parsarea paginii: could not convert string to float: '1.149.00'
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+❌ Eroare la parsarea paginii: could not convert string to float: '1.149.00'
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+Eroare la accesarea paginii: 403
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+⚠️ Nu s-a găsit prețul pe pagină.
+Eroare la accesarea paginii: 403

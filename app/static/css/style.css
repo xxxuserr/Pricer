@@ -343,21 +343,31 @@ li img {
 }
 
 /* Stil pentru butonul de favorite din alte pagini */
-.fav-btn {
-    background: none;
+.product-card {
+    position: relative; /* Adăugăm această proprietate pentru a putea poziționa butonul relativ la card */
+}
+
+.fav-button {
+    position: absolute;
+    top: 10px; /* Muta butonul în sus */
+    right: 10px; /* Muta butonul la dreapta */
+    background-color: transparent;
     border: none;
-    font-size: 1.5em;
+    color: #ccc;
+    font-size: 24px;
     cursor: pointer;
-    transition: color 0.3s ease;
+    transition: color 0.3s ease, transform 0.2s ease;
 }
 
-.fav-btn:hover {
-    color: gold;
+.fav-button:hover {
+    color: #ff4d4d; /* Roșu când este hover */
+    transform: scale(1.2); /* Efect de mărire */
 }
 
-.fav-btn.active {
-    color: gold;
+.fav-button.favorited {
+    color: #ff4d4d; /* Roșu când este favorit */
 }
+
 
 
 

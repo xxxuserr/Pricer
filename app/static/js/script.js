@@ -146,10 +146,19 @@ document.getElementById('darkModeToggle').addEventListener('click', function() {
 
 // Gestionare favorite
 function addToFavorites(product) {
+    let productData = {
+        name: product.name,
+        price: product.price,
+        image: product.image,
+        link: product.link
+    };
+
+    console.log("Date trimise la server:", productData); // Verifică datele trimise
+
     fetch('/add_favorite', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(product)
+        body: JSON.stringify(productData)
     })
     .then(response => response.json())
     .then(data => {
@@ -159,15 +168,18 @@ function addToFavorites(product) {
     .catch(error => console.error('Eroare la adăugarea în favorite:', error));
 }
 
+
 function loadFavorites() {
     fetch('/get_favorites')
         .then(response => response.json())
         .then(data => {
             let favoriteList = document.getElementById('favoriteList');
-            favoriteList.innerHTML = '';
+            favoriteList.innerHTML = '';  // Curățăm lista anterioară de favorite
+
             if (data.length === 0) {
                 favoriteList.innerHTML = '<p>Nu ai produse favorite.</p>';
             } else {
+                // Afișăm fiecare produs din favorite
                 data.forEach(product => {
                     let li = document.createElement('li');
                     li.innerHTML = `
@@ -185,6 +197,7 @@ function loadFavorites() {
         .catch(error => console.error('Eroare la încărcarea favoritelor:', error));
 }
 
+
 function removeFromFavorites(name) {
     fetch('/remove_favorite', {
         method: 'POST',
@@ -193,11 +206,12 @@ function removeFromFavorites(name) {
     })
     .then(response => response.json())
     .then(data => {
-        alert(data.message);
-        loadFavorites();
+        alert(data.message);  // Afișează mesajul din server
+        loadFavorites();  // Reîncarcă lista de favorite
     })
     .catch(error => console.error('Eroare la eliminarea din favorite:', error));
 }
+
 
 function updateFavCount() {
     fetch('/get_favorites')
@@ -206,21 +220,45 @@ function updateFavCount() {
             document.getElementById('favCount').innerText = data.length;
         });
 }
-updateFavCount();
 
-function toggleFavorite(productName) {
+function toggleFavorite(productName, productDetails) {
     let favButton = document.querySelector(`[onclick="toggleFavorite('${productName}')"] i`);
-    
+
+    // Modificăm starea butonului
     if (favButton.classList.contains("favorited")) {
         favButton.classList.remove("favorited");
         favButton.style.color = "#ccc"; // Revenire la gri
+        
+        // Eliminăm produsul din favorite
+        fetch('/remove_favorite', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ name: productName })
+        })
+        .then(response => response.json())
+        .then(data => {
+            console.log(data.message); // Confirmarea serverului
+        })
+        .catch(error => console.error('Eroare la eliminarea din favorite:', error));
+
     } else {
         favButton.classList.add("favorited");
         favButton.style.color = "#ff4d4d"; // Roșu când e favorit
+        
+        // Adăugăm produsul la favorite
+        fetch('/add_favorite', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(productDetails) // Transmitem toate detaliile produsului
+        })
+        .then(response => response.json())
+        .then(data => {
+            console.log(data.message); // Confirmarea serverului
+        })
+        .catch(error => console.error('Eroare la adăugarea în favorite:', error));
     }
-
-    // Poți adăuga aici un request către server pentru salvarea în baza de date
 }
+
 
 
 
