@@ -7,13 +7,15 @@
 {% endblock %}
 
 {% block content %}
-    <div class="container">
-        <h2>Autentificare</h2>
-        <form method="POST">
-            <input type="email" name="email" placeholder="Email" required>
-            <input type="password" name="password" placeholder="Parolă" required>
-            <button type="submit">Autentificare</button>
-        </form>
-        <p>Nu ai cont? <a href="{{ url_for('register') }}">Înregistrează-te</a></p>
+    <div class="auth-wrapper">
+        <div class="container">
+            <h2>Autentificare</h2>
+            <form method="POST">
+                <input type="email" name="email" placeholder="Email" required>
+                <input type="password" name="password" placeholder="Parolă" required>
+                <button type="submit">Autentificare</button>
+            </form>
+            <p>Nu ai cont? <a href="{{ url_for('register') }}">Înregistrează-te</a></p>
+        </div>
     </div>
 {% endblock %}

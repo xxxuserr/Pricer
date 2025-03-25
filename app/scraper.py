@@ -243,5 +243,26 @@ def search_product_parallel(urls):
     return results
 
 
+def search_and_add_to_favorites(query):
+    """Caută produsele și le adaugă la favorite"""
+    # Căutăm produsele folosind funcția search_product
+    products = search_product(query)
 
+    # Adăugăm fiecare produs în favorite
+    for product in products:
+        # Pregătește datele pentru a le trimite la server
+        product_data = {
+            "name": product['name'],
+            "price": product.get('price', 'Preț necunoscut'),
+            "image": product['image_url'],
+            "link": product['link']
+        }
+
+        # Trimite datele la server pentru a le adăuga la favorite
+        response = requests.post("http://localhost:5000/add_favorite", json=product_data)
+        
+        if response.status_code == 200:
+            print(f"Produsul {product['name']} a fost adăugat la favorite!")
+        else:
+            print(f"Eroare la adăugarea produsului {product['name']}!")
 

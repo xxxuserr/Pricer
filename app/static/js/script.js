@@ -198,6 +198,7 @@ function loadFavorites() {
 }
 
 
+
 function removeFromFavorites(name) {
     fetch('/remove_favorite', {
         method: 'POST',
@@ -221,14 +222,25 @@ function updateFavCount() {
         });
 }
 
-function toggleFavorite(productName, productDetails) {
+function toggleFavorite(productName) {
+    // Căutăm produsul din lista de produse
+    let product = allProducts.find(p => p.name === productName);
+
+    // Dacă produsul există, definim detaliile
+    let productDetails = {
+        name: product.name,
+        price: product.price,
+        image: product.image_url,  // Asigură-te că ai numele corect al câmpului pentru imagine
+        link: product.link
+    };
+
+    // Verificăm dacă butonul este deja activat (adică produsul este în favorite)
     let favButton = document.querySelector(`[onclick="toggleFavorite('${productName}')"] i`);
 
-    // Modificăm starea butonului
     if (favButton.classList.contains("favorited")) {
         favButton.classList.remove("favorited");
         favButton.style.color = "#ccc"; // Revenire la gri
-        
+
         // Eliminăm produsul din favorite
         fetch('/remove_favorite', {
             method: 'POST',
@@ -237,28 +249,24 @@ function toggleFavorite(productName, productDetails) {
         })
         .then(response => response.json())
         .then(data => {
-            console.log(data.message); // Confirmarea serverului
+            console.log(data.message);  // Confirmarea serverului
         })
         .catch(error => console.error('Eroare la eliminarea din favorite:', error));
 
     } else {
         favButton.classList.add("favorited");
         favButton.style.color = "#ff4d4d"; // Roșu când e favorit
-        
+
         // Adăugăm produsul la favorite
         fetch('/add_favorite', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify(productDetails) // Transmitem toate detaliile produsului
+            body: JSON.stringify(productDetails)  // Trimit detaliile complete ale produsului
         })
         .then(response => response.json())
         .then(data => {
-            console.log(data.message); // Confirmarea serverului
+            console.log(data.message);  // Confirmarea serverului
         })
         .catch(error => console.error('Eroare la adăugarea în favorite:', error));
     }
 }
-
-
-
-

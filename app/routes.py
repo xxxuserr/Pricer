@@ -31,42 +31,56 @@ def search():
 @login_required
 def add_favorite():
     data = request.get_json()
-    print("Date primite la server:", data)  # Verifică ce date sunt trimise
-    
+
+    # Debugging: Verifică ce date sunt primite de la client
+    print("Date primite de la client:", data)
+
+    # Verifică dacă datele necesare sunt prezente
     if not data or 'name' not in data or 'price' not in data:
         return jsonify({'message': 'Date incomplete!'}), 400
-    
-    # Creăm un obiect FavoriteProduct
+
+    # Crează un obiect FavoriteProduct
     new_product = FavoriteProduct(
         name=data['name'],
         price=data['price'],
-        image=data.get('image', None),
-        link=data.get('link', None),
-        user_id=current_user.id  # Asigură-te că utilizatorul este autentificat
+        image=data.get('image', None),  # Dacă imaginea nu există, o setăm pe None
+        link=data.get('link', None),  # Dacă link-ul nu există, o setăm pe None
+        user_id=current_user.id  # Asociem produsul cu utilizatorul curent
     )
-    
-    # Salvăm în baza de date
+
     db.session.add(new_product)
+
     try:
         db.session.commit()
-        print("Produsul a fost adăugat cu succes!")
         return jsonify({'message': 'Produs adăugat la favorite!'}), 200
     except Exception as e:
-        print(f"Eroare la salvarea în baza de date: {e}")
-        db.session.rollback()  # Rolback în caz de eroare
-        return jsonify({'message': 'Eroare la salvarea produsului!'}), 500
+        db.session.rollback()  # În caz de eroare, facem rollback
+        return jsonify({'message': f'Eroare la salvare: {e}'}), 500
 
 
+# Elimină din favorite
+@app.route('/remove_favorite', methods=['POST'])
+def remove_favorite():
+    data = request.get_json()
+
+    # Căutăm produsul după nume și îl ștergem din baza de date
+    product_to_remove = FavoriteProduct.query.filter_by(name=data['name'], user_id=current_user.id).first()
+
+    if product_to_remove:
+        db.session.delete(product_to_remove)
+        db.session.commit()
+        return jsonify({'message': 'Produs eliminat din favorite!'}), 200
+    else:
+        return jsonify({'message': 'Produsul nu a fost găsit în favorite!'}), 404
 
 
-# Obține favoritele
-@app.route('/get_favorites', methods=['GET'])
-@login_required  # Asigură-te că utilizatorul este autentificat
-def get_favorites():
+@app.route("/favorites")
+@login_required  # Asigură-te că utilizatorul este logat
+def favorites():
     # Preluăm toate favoritele pentru utilizatorul curent
     favorite_products = FavoriteProduct.query.filter_by(user_id=current_user.id).all()
     
-    # Creăm un răspuns cu lista produselor
+    # Creăm o listă cu datele favoritelor
     favorites_list = [{
         'name': product.name,
         'price': product.price,
@@ -74,21 +88,8 @@ def get_favorites():
         'link': product.link
     } for product in favorite_products]
     
-    return jsonify(favorites_list)
+    return render_template("favorites.html", favorites=favorites_list)
 
-
-# Elimină din favorite
-@app.route('/remove_favorite', methods=['POST'])
-def remove_favorite():
-    data = request.get_json()
-    session['favorites'] = [p for p in session.get('favorites', []) if p['name'] != data['name']]
-    session.modified = True  # Marchează sesiunea ca modificată
-    return jsonify({'message': 'Produs eliminat din favorite!'}), 200
-
-@app.route("/favorites")
-def favorites():
-    favorites = session.get('favorites', [])  # Preia favoritele din sesiune
-    return render_template("favorites.html", favorites=favorites)
 
 @login_manager.user_loader
 def load_user(user_id):

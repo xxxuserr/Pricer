@@ -2,11 +2,12 @@
 body {
     font-family: 'Poppins', sans-serif;
     background: linear-gradient(135deg, #007bff, #004494);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
     margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+
 }
 
 .container {
@@ -66,4 +67,11 @@ a:hover {
 .main-header, .main-footer {
     position: relative;
     background: #f8f9fa; /* Asigură-te că e ca în index */
+}
+
+.auth-wrapper {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
