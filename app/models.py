@@ -1,6 +1,8 @@
 from app import db
 from flask_login import UserMixin
 from flask_bcrypt import Bcrypt
+from datetime import datetime
+
 
 bcrypt = Bcrypt()
 
@@ -29,3 +31,13 @@ class FavoriteProduct(db.Model):
 
     def __repr__(self):
         return f'<FavoriteProduct {self.name}>'
+    
+class PriceAlert(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    user_id = db.Column(db.Integer, db.ForeignKey('user.id'))
+    product_name = db.Column(db.String(255))
+    initial_price = db.Column(db.Float)  # prețul de referință
+    link = db.Column(db.Text)
+    image = db.Column(db.Text)
+    active = db.Column(db.Boolean, default=True)
+

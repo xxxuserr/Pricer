@@ -9,7 +9,10 @@ from app import app, db, login_manager
 from app.models import User
 import requests
 from app.models import FavoriteProduct
+from app.models import PriceAlert
+from run import check_alerts
 
+cached_data = {}
 
 @app.route("/", methods=["GET", "POST"])
 def index():
@@ -31,31 +34,45 @@ def search():
 @login_required
 def add_favorite():
     data = request.get_json()
-
-    # Debugging: Verifică ce date sunt primite de la client
     print("Date primite de la client:", data)
 
-    # Verifică dacă datele necesare sunt prezente
     if not data or 'name' not in data or 'price' not in data:
         return jsonify({'message': 'Date incomplete!'}), 400
 
-    # Crează un obiect FavoriteProduct
-    new_product = FavoriteProduct(
-        name=data['name'],
-        price=data['price'],
-        image=data.get('image', None),  # Dacă imaginea nu există, o setăm pe None
-        link=data.get('link', None),  # Dacă link-ul nu există, o setăm pe None
-        user_id=current_user.id  # Asociem produsul cu utilizatorul curent
-    )
-
-    db.session.add(new_product)
-
     try:
+        new_product = FavoriteProduct(
+            name=data['name'],
+            price=data['price'],
+            image=data.get('image', None),
+            link=data.get('link', None),
+            user_id=current_user.id
+        )
+        db.session.add(new_product)
+
+        existing_alert = PriceAlert.query.filter_by(
+            user_id=current_user.id,
+            product_name=data['name']
+        ).first()
+
+        if not existing_alert:
+            new_alert = PriceAlert(
+                user_id=current_user.id,
+                product_name=data['name'],
+                initial_price=float(data['price']),
+                link=data['link'],
+                image=data['image'],
+                active=False 
+            )
+            db.session.add(new_alert)
+
         db.session.commit()
         return jsonify({'message': 'Produs adăugat la favorite!'}), 200
+
     except Exception as e:
-        db.session.rollback()  # În caz de eroare, facem rollback
+        db.session.rollback()
+        print(f"❌ Eroare la salvare: {e}")
         return jsonify({'message': f'Eroare la salvare: {e}'}), 500
+
 
 
 # Elimină din favorite
@@ -75,20 +92,29 @@ def remove_favorite():
 
 
 @app.route("/favorites")
-@login_required  # Asigură-te că utilizatorul este logat
+@login_required
 def favorites():
-    # Preluăm toate favoritele pentru utilizatorul curent
     favorite_products = FavoriteProduct.query.filter_by(user_id=current_user.id).all()
-    
-    # Creăm o listă cu datele favoritelor
-    favorites_list = [{
-        'name': product.name,
-        'price': product.price,
-        'image': product.image,
-        'link': product.link
-    } for product in favorite_products]
-    
+
+    favorites_list = []
+
+    for product in favorite_products:
+        alert = PriceAlert.query.filter_by(
+            user_id=current_user.id,
+            link=product.link,
+            active=True
+        ).first()
+
+        favorites_list.append({
+            'name': product.name,
+            'price': product.price,
+            'image': product.image,
+            'link': product.link,
+            'alert_active': bool(alert)  # ← aici apare dacă e activă alerta
+        })
+
     return render_template("favorites.html", favorites=favorites_list)
+
 
 
 @login_manager.user_loader
@@ -156,4 +182,71 @@ def logout():
     return redirect(url_for("login"))
 
 
+@app.route('/set_alert', methods=['POST'])
+@login_required
+def set_alert():
+    data = request.get_json()
+    name = data.get('name')
+    price = data.get('price')
+    link = data.get('link')
+    image = data.get('image')
 
+    if not all([name, price, link]):
+        return jsonify({'message': 'Date incomplete!'}), 400
+
+    # Verificăm dacă există deja o alertă pentru același link
+    alert = PriceAlert.query.filter_by(
+        user_id=current_user.id,
+        link=link
+    ).first()
+
+    if alert:
+        if alert.active:
+            return jsonify({'message': f'Alerta pentru „{name}” este deja activă.'})
+        else:
+            alert.active = True
+            db.session.commit()
+            return jsonify({'message': f'Alerta pentru „{name}” a fost activată.'})
+
+    # Dacă nu există alertă, creăm una nouă
+    new_alert = PriceAlert(
+        user_id=current_user.id,
+        product_name=name,
+        initial_price=float(price),
+        link=link,
+        image=image,
+        active=True
+    )
+
+    db.session.add(new_alert)
+    db.session.commit()
+
+    return jsonify({'message': f'Alerta pentru „{name}” a fost setată cu succes.'})
+
+@app.route('/disable_alert', methods=['POST'])
+@login_required
+def disable_alert():
+    data = request.get_json()
+    link = data.get('link')
+
+    if not link:
+        return jsonify({'message': 'Lipsă link produs.'}), 400
+
+    alert = PriceAlert.query.filter_by(user_id=current_user.id, link=link, active=True).first()
+
+    if alert:
+        alert.active = False
+        db.session.commit()
+        return jsonify({'message': f'Alerta pentru „{alert.product_name}” a fost dezactivată.'})
+    else:
+        return jsonify({'message': 'Nu există alertă activă pentru acest produs.'}), 404
+
+
+@app.route('/run_alert_check', methods=['POST'])
+@login_required
+def run_alert_check():
+    try:
+        check_alerts()
+        return jsonify({'message': 'Verificarea alertelor a fost rulată cu succes!'})
+    except Exception as e:
+        return jsonify({'message': f'Eroare la rularea verificării: {str(e)}'}), 500

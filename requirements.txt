@@ -2,3 +2,8 @@ flask
 requests
 beautifulsoup4
 lxml
+Flask-SQLAlchemy
+Flask-Login
+Flask-Bcrypt
+Flask-APScheduler
+pyodbc

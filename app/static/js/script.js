@@ -186,12 +186,18 @@ function loadFavorites() {
                         <img src="${product.image}" alt="${product.name}">
                         <div>
                             <strong><a href="${product.link}" target="_blank">${product.name}</a></strong><br>
-                            <span class="price">${product.price} MDL</span>
-                            <button class="remove-favorite" onclick="removeFromFavorites('${product.name}')">❌ Elimină</button>
+                            <span class="price">${product.price ? product.price + ' MDL' : 'Preț necunoscut'}</span>
+                            <br>
+                            <button onclick="setPriceAlert('{{ product.name }}', '{{ product.price }}', '{{ product.link }}', '{{ product.image }}')">
+                                🔔 Activează alerta de modificare preț
+                            </button>
+
+                            <button class="remove-favorite" onclick="removeFromFavorites('${product.name}')"> Elimină</button>
                         </div>
                     `;
                     favoriteList.appendChild(li);
                 });
+                
             }
         })
         .catch(error => console.error('Eroare la încărcarea favoritelor:', error));
@@ -207,11 +213,34 @@ function removeFromFavorites(name) {
     })
     .then(response => response.json())
     .then(data => {
-        alert(data.message);  // Afișează mesajul din server
-        loadFavorites();  // Reîncarcă lista de favorite
+        const card = [...document.querySelectorAll('.favorite-item')].find(el =>
+            el.textContent.includes(name)
+        );
+        if (card) card.remove();
+        showToast(data.message);  // 👈 înlocuiește alert()
     })
-    .catch(error => console.error('Eroare la eliminarea din favorite:', error));
+    .catch(error => {
+        console.error('Eroare la eliminare:', error);
+        showToast('Eroare la eliminare!');
+    });
 }
+
+function showToast(msg) {
+    const toast = document.createElement('div');
+    toast.className = 'toast-message';
+    toast.textContent = msg;
+    document.body.appendChild(toast);
+
+    setTimeout(() => {
+        toast.classList.add('show');
+    }, 100);
+
+    setTimeout(() => {
+        toast.classList.remove('show');
+        setTimeout(() => toast.remove(), 300);
+    }, 3000);
+}
+
 
 
 function updateFavCount() {
@@ -270,3 +299,64 @@ function toggleFavorite(productName) {
         .catch(error => console.error('Eroare la adăugarea în favorite:', error));
     }
 }
+
+//Alerta pret
+function setPriceAlert(name, price, link, image) {
+    fetch('/set_alert', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ name, price, link, image })
+    })
+    .then(response => response.json())
+    .then(data => {
+        showToast(data.message);  // înlocuiește alert()
+        updateAlertButton(link, true);  // comută butonul
+    })
+    .catch(error => {
+        console.error('Eroare la activarea alertei:', error);
+        showToast("Eroare la activarea alertei!");
+    });
+}
+
+
+
+//Dezactiveaza alerta
+function disablePriceAlert(link) {
+    fetch('/disable_alert', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ link: link })
+    })
+    .then(response => response.json())
+    .then(data => {
+        showToast(data.message);  // înlocuiește alert()
+        updateAlertButton(link, false);  // comută butonul
+    })
+    .catch(error => {
+        console.error('Eroare la dezactivare:', error);
+        showToast("Eroare la dezactivarea alertei!");
+    });
+}
+
+function updateAlertButton(link, active) {
+    const card = [...document.querySelectorAll('.favorite-item')].find(el =>
+        el.innerHTML.includes(link)
+    );
+    if (!card) return;
+
+    const alertDiv = card.querySelector('.alert-buttons');
+    if (!alertDiv) return;
+
+    if (active) {
+        alertDiv.innerHTML = `<button class="btn-alert-deactivate" onclick="disablePriceAlert('${link}')">🛑 Dezactivează alerta</button>`;
+    } else {
+        const name = card.querySelector('a').textContent;
+        const price = card.querySelector('.price').textContent.replace(" lei", "").trim();
+        const image = card.querySelector('img').src;
+
+        alertDiv.innerHTML = `<button class="btn-alert-activate" onclick="setPriceAlert('${name}', '${price}', '${link}', '${image}')">🔔 Activează alerta</button>`;
+    }
+}
+
+
+

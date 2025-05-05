@@ -534,6 +534,84 @@ li img {
     background-color: #0056b3;
 }
 
+
+/*Alert*/
+.price-alert-form {
+    margin-top: 8px;
+}
+
+.price-alert-form input[type="number"] {
+    padding: 4px;
+    width: 80px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    margin-right: 6px;
+}
+
+.price-alert-form button {
+    padding: 4px 8px;
+    background-color: #f0ad4e;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    cursor: pointer;
+}
+
+/*Activ_Dez alert*/
+.btn-alert-activate {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 6px 10px;
+    margin-top: 8px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.btn-alert-deactivate {
+    background-color: #ffc107;
+    color: black;
+    border: none;
+    padding: 6px 10px;
+    margin-top: 8px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.btn-remove {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 6px 10px;
+    margin-top: 8px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+/*toast pop up*/
+.toast-message {
+    position: fixed;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%) scale(0.95);
+    background-color: #333;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    opacity: 0;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    z-index: 9999;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.toast-message.show {
+    opacity: 1;
+    transform: translateX(-50%) scale(1);
+}
+
+
 /* Footer */
 footer {
     background-color: #f1f1f1;
